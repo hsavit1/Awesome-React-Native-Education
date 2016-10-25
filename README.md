@@ -1,3 +1,5 @@
+Use this to Learn React Native
+
 ## Official Documentation
 - [React Native](http://facebook.github.io/react-native/docs/getting-started.html)
 - [React](https://facebook.github.io/react/docs/hello-world.html)
@@ -5,6 +7,14 @@
 
 ## CheatSheet
 - [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+
+## Great Sites
+- [awesomereact.com](awesomereact.com) - Bunch of really good videos to get you going with React
+
+## Overview 
+- [React Native Overview](https://docs.google.com/presentation/d/1fC_CMkCb-Nj5JVapjrCZic56fe6CLOlr9Vlxa2SeTZE/edit)
+- [React Native Retrospective](https://docs.google.com/presentation/d/1dvaH2JenxP0WXlFFsSYCA7t0MMUsHBeajaXNjdm7nmc/edit)
+- [React Native Architecture Overview](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview)
 
 ## Styling
 - [Flexbox Froggy](http://flexboxfroggy.com/)
@@ -14,6 +24,11 @@
 - [Swift Modules With React Native](http://126kr.com/article/6c8p3x2zz2x)
 - [Building Better cross platform components](https://medium.com/differential/better-cross-platform-react-native-components-cb8aadeba472#.6kyg7mduq)
 - [Custom React Native Components in Swift](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/)
+- [React Native - How to bridge a Swift View](http://browniefed.com/blog/react-native-how-to-bridge-a-swift-view/)
+- [React Native - How to Bridge an Objective-C View Component](http://browniefed.com/blog/react-native-how-to-bridge-an-objective-c-view-component/)
+
+## Android
+- [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
 
 ## Navigation
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
@@ -30,10 +45,23 @@
 - [131 React Animation Examples](https://react.rocks/tag/Animation)
 - [React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox)
 - [React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g)
+- [React Native ❤ 60FPS Improving React Native animations - ReactEurope 2016](https://speakerdeck.com/kmagiera/react-native-60fps-improving-react-native-animations-reacteurope-2016)
+
+## SVG and D3
+- [React Native ART and D3](http://hswolff.com/blog/react-native-art-and-d3/)
+- [Using D3 With React Native](http://blog.bigbinary.com/2016/02/04/using-d3-js-with-react-js.html)
+- [React Native - Morphing SVG Paths with React Art](http://browniefed.com/blog/react-native-morphing-svg-paths-with-react-art/)
+- [An example application to show how to use D3 in a React Native application.](https://github.com/hswolff/BetterWeather)
+
+## Gestures
+- [React Native - Maintain Touchable Items with a Parent PanResponder](http://browniefed.com/blog/react-native-maintain-touchable-items-with-a-parent-panresponder/)
 
 ## Networking
 - [Making Network Requests](https://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
 - [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+
+## Tooling 
+- [Solving a Tooling Problem For React Native](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native)
 
 ## Testing
 - [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4)
@@ -63,13 +91,7 @@
 
 ## Typescript
 - [React Native Typescript](https://github.com/mrpatiwi/ReactNativeTS) [blog post](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.396p53ocl) [blog post](https://blog.lopezjuri.com/2015/12/30/react-native--typescript/)
-
-## D3
-- [React Native ART and D3](http://hswolff.com/blog/react-native-art-and-d3/)
-- [Using D3 With React Native](http://blog.bigbinary.com/2016/02/04/using-d3-js-with-react-js.html)
   
-----------------------------------------------------------------------------------------------------------------------------------
-
 ## Exponent
 - [Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw)
 
@@ -77,16 +99,14 @@
 - [AWS SDK for React Native](https://github.com/awslabs/aws-sdk-react-native)
 - [Go Serverless With React Native and Amazon Web Services](https://colinramsay.co.uk/2016/04/29/go-serverless.html)
 
-## Android
-- [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
-
-## Classes
+## React Native Classes
 - [React Native Quickly](http://node.university/p/react-native-quickly)
 
 ## Tutorials
 - [Step-by-step guide through building a complex React Native app](https://github.com/buildreactnative/assemblies-tutorial/tree/final_app_ios)
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [Prototyping a Chat App with React Native and Phoenix](https://shift.infinite.red/prototyping-a-chat-app-with-react-native-and-phoenix-5e65677a8217#.7yeh0cc6c)
+- [React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/)
 
 ## Sample Apps
 - [React Native Sound Redux](https://github.com/fraserxu/soundredux-native)
@@ -122,4 +142,3 @@
 
 ## Websites
 - [http://www.reactnative.com/](http://www.reactnative.com/)
-
