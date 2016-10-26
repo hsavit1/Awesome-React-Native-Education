@@ -10,6 +10,7 @@ Use this to Learn React Native
 
 ## Great Sites
 - [awesomereact.com](awesomereact.com) - Bunch of really good videos to get you going with React
+- [Awesome React Native](https://github.com/jondot/awesome-react-native) - the original Awesome React Native List
 
 ## Overview 
 - [React Native Overview](https://docs.google.com/presentation/d/1fC_CMkCb-Nj5JVapjrCZic56fe6CLOlr9Vlxa2SeTZE/edit)
@@ -26,6 +27,8 @@ Use this to Learn React Native
 - [Custom React Native Components in Swift](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/)
 - [React Native - How to bridge a Swift View](http://browniefed.com/blog/react-native-how-to-bridge-a-swift-view/)
 - [React Native - How to Bridge an Objective-C View Component](http://browniefed.com/blog/react-native-how-to-bridge-an-objective-c-view-component/)
+- [Exposing Native Modules with React Native](https://speakerdeck.com/naoufal/exposing-native-modules-with-react-native)
+- [Creating your own native bridge](https://medium.com/@kureevalexey/how-to-create-you-own-native-bridge-93a8d4a40bd2#.a4228gmyh)
 
 ## Android
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
@@ -36,6 +39,7 @@ Use this to Learn React Native
 ## Styling 
 - [React Native CSS](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS/SCSS
 - [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.tnh22x2az)
+- [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.rws64w9ws)
 
 ## Animation
 - [React Native’s LayoutAnimation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.mxb0zkyt1)
@@ -65,10 +69,12 @@ Use this to Learn React Native
 
 ## Testing
 - [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4)
+- [React Native’s JavaScript Execution Contexts](https://medium.com/@shaheenghiassy/react-native-s-execution-context-d63e5d4930f4#.9uvk1zb5h)
 
 ## Debugging
 - [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75)
 - [Debugging React Native Applications](https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375#.i31zsb6fi)
+- [React Native Android App Memory Investigation](https://shift.infinite.red/react-native-android-app-memory-investigation-55695625da9c#.b42w8t38w)
 
 ## Basic Components
 - [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4)
@@ -77,9 +83,22 @@ Use this to Learn React Native
 - [React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60)
 - [Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them)
 
+## Javascript Core 
+- [NSHipster - JavascriptCore](http://nshipster.com/javascriptcore/)
+
+## Push Notifications 
+- [How to Setup Push Notifications in React Native (iOS & Android)](https://medium.com/differential/how-to-setup-push-notifications-in-react-native-ios-android-30ea0131355e#.nqef8ufjg)
+
+## Opinions
+- [What Sucks About React Native](https://shift.infinite.red/what-sucks-about-react-native-c38a307a210f#.e7hv7gah9)
+
+## React 
+- [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.d9oj3chbv)
+
 ## Redux
 - [React Naive Redux Video Demo](https://www.youtube.com/watch?v=Ola8U-SpL6U)
 - [React Native with Redux](https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053#.779ous60t) [video class](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5) [code](https://github.com/jlebensold/peckish)
+- [Using React (-Native) with Redux and Redux-Saga. A new proposal?](https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.41s5g6i2s)
 
 ## MobX
 - [React Native MobX Project]() - Make your app reactive with MobX and react-native-router-flux
@@ -99,7 +118,7 @@ Use this to Learn React Native
 - [AWS SDK for React Native](https://github.com/awslabs/aws-sdk-react-native)
 - [Go Serverless With React Native and Amazon Web Services](https://colinramsay.co.uk/2016/04/29/go-serverless.html)
 
-## React Native Classes
+## React Native Video Classes
 - [React Native Quickly](http://node.university/p/react-native-quickly)
 
 ## Tutorials
@@ -140,5 +159,3 @@ Use this to Learn React Native
 - [React Native in Action](https://www.manning.com/books/react-native-in-action?a_aid=reactnativecom&a_bid=6887c8c9)
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 
-## Websites
-- [http://www.reactnative.com/](http://www.reactnative.com/)
