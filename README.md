@@ -29,12 +29,23 @@ Use this to Learn React Native
 - [React Native - How to Bridge an Objective-C View Component](http://browniefed.com/blog/react-native-how-to-bridge-an-objective-c-view-component/)
 - [Exposing Native Modules with React Native](https://speakerdeck.com/naoufal/exposing-native-modules-with-react-native)
 - [Creating your own native bridge](https://medium.com/@kureevalexey/how-to-create-you-own-native-bridge-93a8d4a40bd2#.a4228gmyh)
+- [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
+- [Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/)
+- [Tutorial: Custom React Native Components in Swift](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/)
+- [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
+- [Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/)
+- [Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
 
 ## Android
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
 
 ## Navigation
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
+- [Exploring Navigators in React Native](https://medium.com/@spencer_carli/exploring-navigators-in-react-native-869b6ab47e0f#.qhchjsgco)
+- [React Native — Which Navigator should I use?](https://medium.com/@dabit3/react-native-what-navigator-should-i-use-2ff59ec2b2d#.szcpi1gry)
+- [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y)
+- [React Native Navigator Experimental](https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.499utzrgf)
+- [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/Navigation.md)
 
 ## Styling 
 - [React Native CSS](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS/SCSS
@@ -50,6 +61,7 @@ Use this to Learn React Native
 - [React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox)
 - [React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g)
 - [React Native ❤ 60FPS Improving React Native animations - ReactEurope 2016](https://speakerdeck.com/kmagiera/react-native-60fps-improving-react-native-animations-reacteurope-2016)
+- [Declarative Animations Library for React and React Native](https://github.com/animatedjs/animated)
 
 ## SVG and D3
 - [React Native ART and D3](http://hswolff.com/blog/react-native-art-and-d3/)
@@ -70,6 +82,7 @@ Use this to Learn React Native
 ## Testing
 - [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 - [React Native’s JavaScript Execution Contexts](https://medium.com/@shaheenghiassy/react-native-s-execution-context-d63e5d4930f4#.9uvk1zb5h)
+- Using Enzyme [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md)
 
 ## Debugging
 - [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75)
@@ -78,6 +91,9 @@ Use this to Learn React Native
 
 ## Basic Components
 - [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4)
+
+## Maps
+- [Airbnb Map View](https://github.com/airbnb/react-native-maps)
 
 ## Optimizing
 - [React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60)
@@ -158,4 +174,3 @@ Use this to Learn React Native
 - [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.com/gp/product/1491929006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491929006&linkCode=as2&tag=reacnati-20&linkId=VB4CZXEYO25NZNVM)
 - [React Native in Action](https://www.manning.com/books/react-native-in-action?a_aid=reactnativecom&a_bid=6887c8c9)
 - [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
-
