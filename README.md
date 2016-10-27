@@ -1,4 +1,4 @@
-Use this to Learn React Native
+Use this to Learn React Native.
 
 ## Official Documentation
 - [React Native](http://facebook.github.io/react-native/docs/getting-started.html)
@@ -8,6 +8,9 @@ Use this to Learn React Native
 ## CheatSheet
 - [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
 
+## Docs 
+- [Deco React Native Docs](https://www.decosoftware.com/docs/react-native/getting-started.html#content)
+
 ## Great Sites
 - [awesomereact.com](awesomereact.com) - Bunch of really good videos to get you going with React
 - [Awesome React Native](https://github.com/jondot/awesome-react-native) - the original Awesome React Native List
@@ -16,6 +19,8 @@ Use this to Learn React Native
 - [React Native Overview](https://docs.google.com/presentation/d/1fC_CMkCb-Nj5JVapjrCZic56fe6CLOlr9Vlxa2SeTZE/edit)
 - [React Native Retrospective](https://docs.google.com/presentation/d/1dvaH2JenxP0WXlFFsSYCA7t0MMUsHBeajaXNjdm7nmc/edit)
 - [React Native Architecture Overview](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview)
+- [Pieter De Baets - An introduction to React Native](http://www.slideshare.net/tlv-ios-dev/pieter-de-baets-an-introduction-to-react-native?next_slideshow=1)
+- [Learn once write anywhere intro to React Native](https://speakerdeck.com/aarongreenwald/learn-once-write-anywhere-intro-to-react-native)
 
 ## Styling
 - [Flexbox Froggy](http://flexboxfroggy.com/)
@@ -35,6 +40,7 @@ Use this to Learn React Native
 - [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
 - [Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/)
 - [Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
+- [Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i)
 
 ## Android
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
@@ -92,12 +98,19 @@ Use this to Learn React Native
 ## Basic Components
 - [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4)
 
+## Versioning 
+- [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd)
+
 ## Maps
 - [Airbnb Map View](https://github.com/airbnb/react-native-maps)
 
 ## Optimizing
 - [React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60)
-- [Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them)
+- [Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them) [writeup](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.rrvjohh30)
+- [Recycling Rows For High Performance React Native List Views](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.k2q8jc37h)
+
+## Architecture
+- [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works)
 
 ## Javascript Core 
 - [NSHipster - JavascriptCore](http://nshipster.com/javascriptcore/)
@@ -115,6 +128,7 @@ Use this to Learn React Native
 - [React Naive Redux Video Demo](https://www.youtube.com/watch?v=Ola8U-SpL6U)
 - [React Native with Redux](https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053#.779ous60t) [video class](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5) [code](https://github.com/jlebensold/peckish)
 - [Using React (-Native) with Redux and Redux-Saga. A new proposal?](https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.41s5g6i2s)
+- [Introduction to React Native & Redux](http://www.slideshare.net/barakcohen1/introduction-to-react-native-redux)
 
 ## MobX
 - [React Native MobX Project]() - Make your app reactive with MobX and react-native-router-flux
