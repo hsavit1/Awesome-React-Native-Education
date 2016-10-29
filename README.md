@@ -22,10 +22,10 @@ Use this to Learn React Native.
 - [Pieter De Baets - An introduction to React Native](http://www.slideshare.net/tlv-ios-dev/pieter-de-baets-an-introduction-to-react-native?next_slideshow=1)
 - [Learn once write anywhere intro to React Native](https://speakerdeck.com/aarongreenwald/learn-once-write-anywhere-intro-to-react-native)
 
-## Styling
+## Flexbox Model
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 
-## Bridging in React Native
+## Bridging 
 - [Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) - An in-depth look into React Native's core
 - [Swift Modules With React Native](http://126kr.com/article/6c8p3x2zz2x)
 - [Building Better cross platform components](https://medium.com/differential/better-cross-platform-react-native-components-cb8aadeba472#.6kyg7mduq)
@@ -36,14 +36,12 @@ Use this to Learn React Native.
 - [Creating your own native bridge](https://medium.com/@kureevalexey/how-to-create-you-own-native-bridge-93a8d4a40bd2#.a4228gmyh)
 - [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
 - [Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/)
-- [Tutorial: Custom React Native Components in Swift](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/)
-- [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
-- [Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/)
 - [Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
 - [Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i)
 
-## Integration
+## Integration into Native Apps
 - [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app)
+- [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe)
 
 ## Android
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
@@ -113,7 +111,7 @@ Use this to Learn React Native.
 ## Basic Components
 - [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4)
 
-## Custom Components 
+## Custom Components and Cool Shit
 - [react-native-grid-component](https://github.com/phil-r/react-native-grid-component)
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree)
 - [React Native FoldView](https://github.com/jmurzy/react-native-foldview)
