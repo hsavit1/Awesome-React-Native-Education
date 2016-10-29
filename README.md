@@ -24,6 +24,8 @@ Use this to Learn React Native.
 
 ## Flexbox Model
 - [Flexbox Froggy](http://flexboxfroggy.com/)
+- [React Native Flexbox Layout Patterns](https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418)
+- [Responsive Layouts](https://github.com/FormidableLabs/react-native-responsive-styles)
 
 ## Bridging 
 - [Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) - An in-depth look into React Native's core
@@ -82,11 +84,13 @@ Use this to Learn React Native.
 - [React Native - Morphing SVG Paths with React Art](http://browniefed.com/blog/react-native-morphing-svg-paths-with-react-art/)
 - [An example application to show how to use D3 in a React Native application.](https://github.com/hswolff/BetterWeather)
 - [react-native-svg](https://github.com/react-native-community/react-native-svg) - SVG library for React Native
+- [React Native and D3.js](https://speakerdeck.com/hswolff/react-native-and-d3js)
 
 ## Gestures
 - [React Native - Maintain Touchable Items with a Parent PanResponder](http://browniefed.com/blog/react-native-maintain-touchable-items-with-a-parent-panresponder/)
 - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
 - [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
+- [Living in an async world of React Native](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native)
 
 ## Networking
 - [Making Network Requests](https://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
@@ -129,6 +133,9 @@ Use this to Learn React Native.
 
 ## Architecture
 - [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works)
+
+## App Structure 
+- [A cure for relative requires in React Native](https://blog.callstack.io/a-cure-for-relative-requires-in-react-native-2b263cecf0f6#.spbsio3pd)
 
 ## Javascript Core 
 - [NSHipster - JavascriptCore](http://nshipster.com/javascriptcore/)
@@ -176,6 +183,7 @@ Use this to Learn React Native.
 - [Prototyping a Chat App with React Native and Phoenix](https://shift.infinite.red/prototyping-a-chat-app-with-react-native-and-phoenix-5e65677a8217#.7yeh0cc6c)
 - [React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/)
 - [How I built React Native Tab View](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.co3h4t1bd)
+- Creating a hacker news reader [part1](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993) [part2](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935)
 
 ## Sample Apps
 - [React Native Sound Redux](https://github.com/fraserxu/soundredux-native)
@@ -183,10 +191,16 @@ Use this to Learn React Native.
 ## Useful Projects
 - [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview)
 
+## Starters 
+- [Pepperoni](https://speakerdeck.com/jevakallio/pepperoni-a-react-native-blueprint-london-sept-2016)
+
+## Dev Tools 
+- [React Native Dev Tools](https://speakerdeck.com/cmcewen/react-native-dev-tools)
+
 ## CodePush 
 - [React Native + CodePush](http://blog.differential.com/react-native-codepush/)
 
-## Continuous Delivery 
+## Continuous Integration / Delivery 
 - [Continuous Deployment with Fastlane](https://amitkothari.com/Continuous-deployment-of-React-Native-app-using-Fastlane/)
 - [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
 - [A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend http://bartonhammond.github.io/snowflake/snowflake.js.html](https://github.com/bartonhammond/snowflake)
