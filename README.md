@@ -42,6 +42,9 @@ Use this to Learn React Native.
 - [Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0)
 - [Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i)
 
+## Integration
+- [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app)
+
 ## Android
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
 
@@ -52,6 +55,10 @@ Use this to Learn React Native.
 - [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y)
 - [React Native Navigator Experimental](https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.499utzrgf)
 - [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/Navigation.md)
+- [Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop)
+
+## Modal Views
+- [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal)
 
 ## Styling 
 - [React Native CSS](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS/SCSS
@@ -68,15 +75,20 @@ Use this to Learn React Native.
 - [React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g)
 - [React Native ❤ 60FPS Improving React Native animations - ReactEurope 2016](https://speakerdeck.com/kmagiera/react-native-60fps-improving-react-native-animations-reacteurope-2016)
 - [Declarative Animations Library for React and React Native](https://github.com/animatedjs/animated)
+- [Animate Your React Native App](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328)
+- [React Native Animations Done Right](https://medium.com/@7ynk3r/react-native-animations-done-right-d5249cc1ebbf#.rjj6m0epo)
 
 ## SVG and D3
 - [React Native ART and D3](http://hswolff.com/blog/react-native-art-and-d3/)
 - [Using D3 With React Native](http://blog.bigbinary.com/2016/02/04/using-d3-js-with-react-js.html)
 - [React Native - Morphing SVG Paths with React Art](http://browniefed.com/blog/react-native-morphing-svg-paths-with-react-art/)
 - [An example application to show how to use D3 in a React Native application.](https://github.com/hswolff/BetterWeather)
+- [react-native-svg](https://github.com/react-native-community/react-native-svg) - SVG library for React Native
 
 ## Gestures
 - [React Native - Maintain Touchable Items with a Parent PanResponder](http://browniefed.com/blog/react-native-maintain-touchable-items-with-a-parent-panresponder/)
+- [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
+- [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
 
 ## Networking
 - [Making Network Requests](https://codecookbook.co/post/how-to-make-network-requests-in-react-native/)
@@ -89,6 +101,9 @@ Use this to Learn React Native.
 - [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4)
 - [React Native’s JavaScript Execution Contexts](https://medium.com/@shaheenghiassy/react-native-s-execution-context-d63e5d4930f4#.9uvk1zb5h)
 - Using Enzyme [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md)
+- [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6)
+- [Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy)
+- [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy)
 
 ## Debugging
 - [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75)
@@ -97,6 +112,11 @@ Use this to Learn React Native.
 
 ## Basic Components
 - [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4)
+
+## Custom Components 
+- [react-native-grid-component](https://github.com/phil-r/react-native-grid-component)
+- [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree)
+- [React Native FoldView](https://github.com/jmurzy/react-native-foldview)
 
 ## Versioning 
 - [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd)
@@ -117,6 +137,7 @@ Use this to Learn React Native.
 
 ## Push Notifications 
 - [How to Setup Push Notifications in React Native (iOS & Android)](https://medium.com/differential/how-to-setup-push-notifications-in-react-native-ios-android-30ea0131355e#.nqef8ufjg)
+- [Triggering iOS 10 actionable push notifications via React Native](https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-react-native-7990a6a3c3f4#.qc38i1u1z)
 
 ## Opinions
 - [What Sucks About React Native](https://shift.infinite.red/what-sucks-about-react-native-c38a307a210f#.e7hv7gah9)
@@ -156,6 +177,7 @@ Use this to Learn React Native.
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [Prototyping a Chat App with React Native and Phoenix](https://shift.infinite.red/prototyping-a-chat-app-with-react-native-and-phoenix-5e65677a8217#.7yeh0cc6c)
 - [React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/)
+- [How I built React Native Tab View](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.co3h4t1bd)
 
 ## Sample Apps
 - [React Native Sound Redux](https://github.com/fraserxu/soundredux-native)
@@ -171,6 +193,7 @@ Use this to Learn React Native.
 - [Continuous Integration for React Native Apps With Fastlane and Bitrise (iOS)](http://blog.thebakery.io/continuous-integration-for-react-native-applications-with-fastlane-and-bitrise-ios-version/)
 - [A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend http://bartonhammond.github.io/snowflake/snowflake.js.html](https://github.com/bartonhammond/snowflake)
 - [Snowflake: Continuous Integration with Bitrise.io](https://www.youtube.com/watch?v=EYafslJvXz8&list=PLPDajyixAsuMKSDMel9x6pzmBuklZq4ci)
+- [Publish React Native Applications Over The Air with Electrode RN OTA, an Open Source Release from @WalmartLabs](https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.zcd293w9f)
 
 ## Talks
 - [Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks)
