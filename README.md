@@ -21,11 +21,13 @@ Use this to Learn React Native.
 - [React Native Architecture Overview](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview)
 - [Pieter De Baets - An introduction to React Native](http://www.slideshare.net/tlv-ios-dev/pieter-de-baets-an-introduction-to-react-native?next_slideshow=1)
 - [Learn once write anywhere intro to React Native](https://speakerdeck.com/aarongreenwald/learn-once-write-anywhere-intro-to-react-native)
+- [React Native: an overview from a mobile and frontend developer](https://speakerdeck.com/brunoskonrad/react-native-an-overview-from-a-mobile-and-frontend-developer)
 
 ## Flexbox Model
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [React Native Flexbox Layout Patterns](https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418)
 - [Responsive Layouts](https://github.com/FormidableLabs/react-native-responsive-styles)
+- [React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE)
 
 ## Bridging 
 - [Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) - An in-depth look into React Native's core
@@ -47,6 +49,8 @@ Use this to Learn React Native.
 
 ## Android
 - [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0)
+- [React Native for Android](https://speakerdeck.com/obishop/react-native-for-android)
+- [Handling Android Back Button Events in React Native with Custom Components](https://medium.com/the-many/handling-android-back-button-events-in-react-native-with-custom-components-b33c63b0633b#.vpfh7ww5r)
 
 ## Navigation
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
@@ -89,7 +93,7 @@ Use this to Learn React Native.
 ## Gestures
 - [React Native - Maintain Touchable Items with a Parent PanResponder](http://browniefed.com/blog/react-native-maintain-touchable-items-with-a-parent-panresponder/)
 - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
-- [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/)
+- [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/) [demo app](https://github.com/Hyra/panresponder_demo)
 - [Living in an async world of React Native](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native)
 
 ## Networking
@@ -106,6 +110,7 @@ Use this to Learn React Native.
 - [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6)
 - [Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy)
 - [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy)
+- [Add Crashlytics to your React Native iOS app](https://medium.com/delivery-com-engineering/add-crashlytics-to-your-react-native-ios-app-69a983a9062a#.4rrq3gvyu)
 
 ## Debugging
 - [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75)
@@ -113,28 +118,32 @@ Use this to Learn React Native.
 - [React Native Android App Memory Investigation](https://shift.infinite.red/react-native-android-app-memory-investigation-55695625da9c#.b42w8t38w)
 
 ## Basic Components
+- [Awesome React Components](https://habd.as/awesome-react-components/#react-native)
 - [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4)
+- [ListView grid in React Native](http://stackoverflow.com/questions/29394297/listview-grid-in-react-native?rq=1)
 
 ## Custom Components and Cool Shit
 - [react-native-grid-component](https://github.com/phil-r/react-native-grid-component)
 - [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree)
 - [React Native FoldView](https://github.com/jmurzy/react-native-foldview)
+- [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview)
+- [Airbnb Map View](https://github.com/airbnb/react-native-maps)
+- [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) - SGListView is a memory minded implementation of React Native's ListView
+- [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list)
+- [react-native-media-queries](https://github.com/alpacaaa/react-native-media-queries)
 
 ## Versioning 
 - [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd)
 
-## Maps
-- [Airbnb Map View](https://github.com/airbnb/react-native-maps)
-
-## Optimizing
+## Optimizing and Performance
 - [React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60)
 - [Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them) [writeup](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.rrvjohh30)
 - [Recycling Rows For High Performance React Native List Views](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.k2q8jc37h)
+- [Building a custom listview](https://www.youtube.com/watch?v=cI9bDvDEsYE&feature=youtu.be&t=2m11s)
+- [React Native Scheduling](https://www.facebook.com/notes/andy-street/react-native-scheduling/10153916310914590?hc_location=ufi)
 
-## Architecture
-- [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works)
-
-## App Structure 
+## Architecture and App Structure
+- [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works) 
 - [A cure for relative requires in React Native](https://blog.callstack.io/a-cure-for-relative-requires-in-react-native-2b263cecf0f6#.spbsio3pd)
 
 ## Javascript Core 
@@ -176,6 +185,7 @@ Use this to Learn React Native.
 
 ## React Native Video Classes
 - [React Native Quickly](http://node.university/p/react-native-quickly)
+- [React Native Beginner](https://www.youtube.com/playlist?list=PL7D-0n1z1EbgAoLu1n5wjcMLDDAQqXOMw)
 
 ## Tutorials
 - [Step-by-step guide through building a complex React Native app](https://github.com/buildreactnative/assemblies-tutorial/tree/final_app_ios)
@@ -184,15 +194,15 @@ Use this to Learn React Native.
 - [React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/)
 - [How I built React Native Tab View](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.co3h4t1bd)
 - Creating a hacker news reader [part1](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993) [part2](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935)
+- [30 days of React Native](https://github.com/fangwei716/30-days-of-react-native)
+- [Building a Facebook Paper-like UI with React Native](https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.u72xv9rf5)
 
 ## Sample Apps
 - [React Native Sound Redux](https://github.com/fraserxu/soundredux-native)
 
-## Useful Projects
-- [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview)
-
 ## Starters 
-- [Pepperoni](https://speakerdeck.com/jevakallio/pepperoni-a-react-native-blueprint-london-sept-2016)
+- [Awesome React Boilerplates](https://habd.as/awesome-react-boilerplates/#react-native)
+- [Pepperoni - a React Native Blurprint](https://speakerdeck.com/jevakallio/pepperoni-a-react-native-blueprint-london-sept-2016)
 
 ## Dev Tools 
 - [React Native Dev Tools](https://speakerdeck.com/cmcewen/react-native-dev-tools)
@@ -211,6 +221,10 @@ Use this to Learn React Native.
 - [Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks)
 - [React Native at Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0&t=308s&index=15&list=PLC8kWkl8Hj0tj1GCeHm5ENKQpTIryoiKB)
 - [Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction)
+- [React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop) 
+- [Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch)
+- [10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/)
+- [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s)
 
 ## Podcasts
 - [React Native Radio]()
