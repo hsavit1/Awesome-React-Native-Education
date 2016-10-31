@@ -152,6 +152,7 @@ You will learn React Native.
 
 ## Optimizing and Performance
 - [React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60)
+- [Introduction to React Native Performance](https://speakerdeck.com/talkol/introduction-to-react-native-performance) [code](https://github.com/wix/rn-perf-experiments)
 - [Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them) [writeup](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.rrvjohh30)
 - [Recycling Rows For High Performance React Native List Views](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.k2q8jc37h)
 - [Building a custom listview](https://www.youtube.com/watch?v=cI9bDvDEsYE&feature=youtu.be&t=2m11s)
@@ -249,7 +250,7 @@ You will learn React Native.
 - [React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop) 
 - [Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch)
 - [10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/)
-- [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s)
+- [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s) [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users))
 
 ## Podcasts
 - [React Native Radio]()
