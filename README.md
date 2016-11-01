@@ -16,11 +16,12 @@ You will learn React Native.
 - [Awesome React Native](https://github.com/jondot/awesome-react-native) - the original Awesome React Native List
 - [React Native Express](http://www.reactnativeexpress.com/)
 - [React Native Playground](https://rnplay.org/apps/picks)
+- [React Native Coach](https://js.coach/react-native?sort=popular)
 
-## Overview 
+## Overview of React Native
 - [React Native Overview](https://docs.google.com/presentation/d/1fC_CMkCb-Nj5JVapjrCZic56fe6CLOlr9Vlxa2SeTZE/edit)
 - [React Native Retrospective](https://docs.google.com/presentation/d/1dvaH2JenxP0WXlFFsSYCA7t0MMUsHBeajaXNjdm7nmc/edit)
-- [React Native Architecture Overview](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview)
+- [Tadeu Zagallo: React Native Architecture Overview](https://www.youtube.com/watch?v=Ah2qNbI40vE&t=12s) [slides](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview)
 - [Pieter De Baets - An introduction to React Native](http://www.slideshare.net/tlv-ios-dev/pieter-de-baets-an-introduction-to-react-native?next_slideshow=1)
 - [Learn once write anywhere intro to React Native](https://speakerdeck.com/aarongreenwald/learn-once-write-anywhere-intro-to-react-native)
 - [React Native: an overview from a mobile and frontend developer](https://speakerdeck.com/brunoskonrad/react-native-an-overview-from-a-mobile-and-frontend-developer)
@@ -105,7 +106,7 @@ You will learn React Native.
 - [React Native - Maintain Touchable Items with a Parent PanResponder](http://browniefed.com/blog/react-native-maintain-touchable-items-with-a-parent-panresponder/)
 - [react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler)
 - [GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/) [demo app](https://github.com/Hyra/panresponder_demo)
-- [Living in an async world of React Native](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native)
+- [Living in an async world of React Native](https://youtu.be/N9RbcP4iY90?t=2h35m13s) [slides](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native)
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/)
 
 ## Networking
@@ -128,12 +129,12 @@ You will learn React Native.
 - [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list)
 - [react-native-media-queries](https://github.com/alpacaaa/react-native-media-queries)
 
-## Architecture and App Structure
+## App Structure
 - [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works) 
 - [A cure for relative requires in React Native](https://blog.callstack.io/a-cure-for-relative-requires-in-react-native-2b263cecf0f6#.spbsio3pd)
 
 ## Tooling 
-- [Solving a Tooling Problem For React Native](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native)
+- [Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY) [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native)
 
 ## Testing
 - [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4)
