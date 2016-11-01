@@ -220,6 +220,8 @@ You will learn React Native.
 - [Building a Wunderlist Clone](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.yc9phov60)
 - [Building Instagram Stories](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.r60wymjph)
 - [How I built a Tinder inspired loader in React Native](https://medium.com/@yousefkama/how-to-build-a-tinder-like-loader-animation-in-react-native-e2a4ace8f906#.tz0degj3w)
+- [Introduction to React Native - Building a React Native app from scratch](https://www.youtube.com/watch?v=r5OPRhelEIU)
+- [Debugging and Production - React Native at Microsoft](https://youtu.be/1Urj4TZ5BLI?t=6h4m44s)
 
 ## Sample Apps
 - [Awesome React Native Open Source Apps](https://github.com/jondot/awesome-react-native#open-source-apps)
