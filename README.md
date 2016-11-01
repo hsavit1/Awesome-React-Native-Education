@@ -251,6 +251,9 @@ You will learn React Native.
 - [Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch)
 - [10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/)
 - [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s) [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users))
+- [Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016](https://www.youtube.com/watch?v=_awnyW-9aJ8)
+- [No Xcode Java Swift or Objc - How far JS Gets you](https://youtu.be/1Urj4TZ5BLI?t=8h48m13s)
+- [React Native: Are we there yet?](https://www.youtube.com/watch?v=rahrrfJIh9s) [slides](https://speakerdeck.com/roman01la/react-native-are-we-there-yet-pokemon-edition-at-vinnytsiajs-16)
 
 ## Podcasts
 - [React Native Radio]()
