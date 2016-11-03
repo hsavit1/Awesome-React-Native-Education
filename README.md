@@ -1,20 +1,22 @@
 You will learn React Native.
 
 ## Official Documentation
-
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The offical React Native Docs and reference |
 | [React](https://facebook.github.io/react/docs/hello-world.html) | Webite | ★★★★★ | The official React Docs. Use to learn React |
 | [Redux](http://redux.js.org/) | Gitbook | ★★★★★ | Read this to learn Redux |
 
-## CheatSheet
+## React Native Team 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [React Native AMA](https://www.reddit.com/r/IAmA/comments/3wyb3m/we_are_the_team_working_on_react_native_ask_us/) | | | | |
 
+## Cheat Sheets
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) | Github | ★★★★☆ | Cheatsheet for styling react antive components |
 | [React Native Cheatsheet](https://github.com/refinery29/react-native-cheat-sheet) | Github | ★★★☆☆ | React Native TidBits |
-
 
 ## Docs 
 | Title | Type | Resource Rating | Description |
