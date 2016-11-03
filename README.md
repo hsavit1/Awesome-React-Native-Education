@@ -47,6 +47,7 @@ You will learn React Native.
 |[React Native - Introductory Tutorial](http://www.slideshare.net/scottcrespo/react-native-introductory-tutorial) | | | |
 |[React Symposium](http://www.slideshare.net/cpjolicoeur/react-native-64166287) | | | |
 |A Tour of React Native [part 1](https://shift.infinite.red/a-tour-of-react-native-part-1-the-visuals-7822f48151f6#.j9n9z7558) [part 2](https://shift.infinite.red/a-tour-of-react-native-part-2-redux-friends-4fed022aaa1e#.22lh3x96o) | Blog | ★★★★★ | Overview of everything|
+|[Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU) | Youtube | | Good vid to watch if youre totally new and have no time |
 
 ## Bridging 
 | Title | Type | Resource Rating | Description |
@@ -203,6 +204,7 @@ You will learn React Native.
 |[Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy) | | | |
 |[Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy) | | | |
 |[Add Crashlytics to your React Native iOS app](https://medium.com/delivery-com-engineering/add-crashlytics-to-your-react-native-ios-app-69a983a9062a#.4rrq3gvyu) | | | |
+|[React Native on Simulator and on Device](https://gist.github.com/almost/898a829d5197c69d29b0) | Github |||
 
 ## Debugging
 | Title | Type | Resource Rating | Description |
