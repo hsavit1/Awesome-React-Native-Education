@@ -7,7 +7,7 @@ You will learn React Native.
 | [React](https://facebook.github.io/react/docs/hello-world.html) | Webite | ★★★★★ | The official React Docs. Use to learn React |
 | [Redux](http://redux.js.org/) | Gitbook | ★★★★★ | Read this to learn Redux |
 
-## React Native Team 
+## Community 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native AMA](https://www.reddit.com/r/IAmA/comments/3wyb3m/we_are_the_team_working_on_react_native_ask_us/) | | | | |
@@ -37,7 +37,7 @@ You will learn React Native.
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Native Overview](https://docs.google.com/presentation/d/1fC_CMkCb-Nj5JVapjrCZic56fe6CLOlr9Vlxa2SeTZE/edit) | | | |
 |[React Native Retrospective](https://docs.google.com/presentation/d/1dvaH2JenxP0WXlFFsSYCA7t0MMUsHBeajaXNjdm7nmc/edit) | | | |
-|[Tadeu Zagallo: React Native Architecture Overview](https://www.youtube.com/watch?v=Ah2qNbI40vE&t=12s) [slides](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview) | | | |
+|[Tadeu Zagallo: React Native Architecture Overview](https://www.youtube.com/watch?v=Ah2qNbI40vE&t=12s), [slides](https://speakerdeck.com/reactamsterdam/tadeu-zagallo-facebook-london-react-native-architecture-overview) | | | |
 |[A tour of React Native](http://www.slideshare.net/TadeuZagallo/a-tour-of-react-native) | | | |
 |[Pieter De Baets An introduction to React Native](http://www.slideshare.net/tlv-ios-dev/pieter-de-baets-an-introduction-to-react-native?next_slideshow=1) | | | |
 |[Learn once write anywhere intro to React Native](https://speakerdeck.com/aarongreenwald/learn-once-write-anywhere-intro-to-react-native) | | | |
@@ -46,10 +46,12 @@ You will learn React Native.
 |[React Native for ReactJS Devs](http://www.slideshare.net/barakcohen1/react-native-for-reactjs-devs) | | | |
 |[React Native - Introductory Tutorial](http://www.slideshare.net/scottcrespo/react-native-introductory-tutorial) | | | |
 |[React Symposium](http://www.slideshare.net/cpjolicoeur/react-native-64166287) | | | |
+|A Tour of React Native [part 1](https://shift.infinite.red/a-tour-of-react-native-part-1-the-visuals-7822f48151f6#.j9n9z7558) [part 2](https://shift.infinite.red/a-tour-of-react-native-part-2-redux-friends-4fed022aaa1e#.22lh3x96o) | Blog | ★★★★★ | Overview of everything|
 
 ## Bridging 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+|[Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) | Blog | ★★★★★ | An in-depth look into React Native's Core | 
 |[Swift Modules With React Native](http://126kr.com/article/6c8p3x2zz2x) | | | |
 |[Building Better cross platform components](https://medium.com/differential/better-cross-platform-react-native-components-cb8aadeba472#.6kyg7mduq) | | | |
 |[Custom React Native Components in Swift](http://kevin-deleon.com/2015/05/custom-react-native-components-in-swift/) | | | |
@@ -61,7 +63,6 @@ You will learn React Native.
 |[Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/) | | | |
 |[Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0) | | | |
 |[Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i) | | | |
-|[Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) | | | An in-depth look into React Native's Core| 
 
 ## Integration into Native Apps
 | Title | Type | Resource Rating | Description |
@@ -86,7 +87,7 @@ You will learn React Native.
 ## Navigation
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Navigation in React Native: Examining and Understanding the Options](http://slides.com/dabit3/comprehensive-navigation-in-react-native-10#/) | | | |
+|[Navigation in React Native: Examining and Understanding the Options](http://slides.com/dabit3/comprehensive-navigation-in-react-native-10#/) | Slides | ★★★★★| Really great talk highlighting most of the options for navigation in React Native|
 |[Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/) | | | |
 |[Exploring Navigators in React Native](https://medium.com/@spencer_carli/exploring-navigators-in-react-native-869b6ab47e0f#.qhchjsgco) | | | |
 |[React Native — Which Navigator should I use?](https://medium.com/@dabit3/react-native-what-navigator-should-i-use-2ff59ec2b2d#.szcpi1gry) | | | |
@@ -126,7 +127,7 @@ You will learn React Native.
 |[131 React Animation Examples](https://react.rocks/tag/Animation) | Website | | |
 |[React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox) | Slides | | |
 |[React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g) | Blog | | |
-|[React Native ❤ 60FPS Improving React Native animations - ReactEurope 2016](https://speakerdeck.com/kmagiera/react-native-60fps-improving-react-native-animations-reacteurope-2016) | Video + Slides | | explanation of the various types of animations in react-native |
+|[React Native ❤ 60FPS Improving React Native animations - ReactEurope 2016](https://speakerdeck.com/kmagiera/react-native-60fps-improving-react-native-animations-reacteurope-2016) | Video + Slides | ★★★★ | explanation of the various types of animations in react-native, an understanding of the underlying architecture, and how to achieve 60 FPS scrolling |
 |[Declarative Animations Library for React and React Native](https://github.com/animatedjs/animated) | Github | | |
 |[Animate Your React Native App](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328) | Blog | | |
 |[React Native Animations Done Right](https://medium.com/@7ynk3r/react-native-animations-done-right-d5249cc1ebbf#.rjj6m0epo) | Blog | | |
@@ -134,6 +135,7 @@ You will learn React Native.
 |[React Native Animations by Emmett Harper](https://www.youtube.com/watch?v=DrTbHOfCPro) | Video | | Comparing CSS animations to React Native animations and understanding how they work the exact same way. Walkthrough of all of the animation types |
 |[Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API. Also React Motion |
 |[Building apps with physics-based animations](http://blog.differential.com/building-web-apps-with-spring-animations/) | | | |
+|[Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated api can do, shown with a demo |
 
 ## SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -150,8 +152,8 @@ You will learn React Native.
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Native - Maintain Touchable Items with a Parent PanResponder](http://browniefed.com/blog/react-native-maintain-touchable-items-with-a-parent-panresponder/) | | | |
 |[react-native-gesture-handler](https://github.com/kmagiera/react-native-gesture-handler) | | | |
-|[GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/) [demo app](https://github.com/Hyra/panresponder_demo) | | | |
-|[Living in an async world of React Native](https://youtu.be/N9RbcP4iY90?t=2h35m13s) [slides](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native) | | | |
+|[GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/), [demo app](https://github.com/Hyra/panresponder_demo) | | | |
+|[Living in an async world of React Native](https://youtu.be/N9RbcP4iY90?t=2h35m13s), [slides](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native) | | | |
 |[React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) | | | |
 
 ## Networking
@@ -170,17 +172,16 @@ You will learn React Native.
 ## Custom Components and Cool Shit
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Awesome React Components](https://habd.as/awesome-react-components/#react-native) | | | |
-|[reactscript.com](http://reactscript.com/react-native/) | | ★★★☆☆ | React Native Componets Website |
+|[Awesome React Components](https://habd.as/awesome-react-components/#react-native) | Github | ★★★★ | List of React Native comonents and number of stars |
+|[reactscript.com](http://reactscript.com/react-native/) | Website | ★★★★★ | React Native Componets Website - lots and lots of components! |
 |[Libs, Articles and Tutorials](https://android.jlelse.eu/libs-articles-and-tutorials-that-will-help-you-to-make-awesome-react-native-apps-f584060320a1#.z7yhtwsiy) | | | |
 |[react-native-grid-component](https://github.com/phil-r/react-native-grid-component) | | | |
 |[react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | | | |
 |[React Native FoldView](https://github.com/jmurzy/react-native-foldview) | | | |
 |[Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview) | | | |
-|[Airbnb Map View](https://github.com/airbnb/react-native-maps) | | | |
+|[Airbnb Map View](https://github.com/airbnb/react-native-maps) | Github | ★★★★★ | Airbnb's mapview - will be merged into RN master for version 0.40 |
 |[react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) | | | SGListView is a memory minded implementation of React Native's ListView |
 |[react-native-sortable-list](https://github.com/gitim/react-native-sortable-list) | | | |
-|[react-native-media-queries](https://github.com/alpacaaa/react-native-media-queries) | | | |
 
 ## App Structure
 | Title | Type | Resource Rating | Description |
@@ -191,7 +192,7 @@ You will learn React Native.
 ## Tooling 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY) [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native) | | | |
+|[Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY), [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native) | | | |
 
 ## Testing
 | Title | Type | Resource Rating | Description |
@@ -206,7 +207,7 @@ You will learn React Native.
 ## Debugging
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75) | | | |
+|[Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75) | Blog | ★★★★★ | Beginners tutorial for debugging react native |
 |[Debugging React Native Applications](https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375#.i31zsb6fi) | | | |
 |[React Native Android App Memory Investigation](https://shift.infinite.red/react-native-android-app-memory-investigation-55695625da9c#.b42w8t38w) | | | |
 |[Debugging with Global Variables and the Chrome Console in React Native](https://corbt.com/posts/2015/12/19/debugging-with-global-variables-in-react-native.html) | | | |
@@ -221,9 +222,9 @@ You will learn React Native.
 ## Optimizing and Performance
 | Title | Resource Rating | Type | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60) | | | |
-|[Introduction to React Native Performance](https://speakerdeck.com/talkol/introduction-to-react-native-performance) [code](https://github.com/wix/rn-perf-experiments) | | | |
-|[Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them) [writeup](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.rrvjohh30) | | | |
+|[React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60) | Youtube | ★★★★★ | Talks about the React Native build process |
+|[Introduction to React Native Performance](https://speakerdeck.com/talkol/introduction-to-react-native-performance), [code](https://github.com/wix/rn-perf-experiments) | Slides + Code | ★★★★ | React Native holds great promise in terms of excellent developer experience with Javascript and code reuse between platforms. The big question is — do these benefits come at the price of performance? How well can React Native hold its own against purely native implementations?|
+|[Performance Limitations of React Native and How to Overcome Them](https://speakerdeck.com/talkol/performance-limitations-of-react-native-and-how-to-overcome-them), [writeup](https://medium.com/@talkol/performance-limitations-of-react-native-and-how-to-overcome-them-947630d7f440#.rrvjohh30) | Slides + Blog | ★★★★ | |
 |[Recycling Rows For High Performance React Native List Views](https://medium.com/@talkol/recycling-rows-for-high-performance-react-native-list-views-628fd0363861#.k2q8jc37h) | | | |
 |[Building a custom listview](https://www.youtube.com/watch?v=cI9bDvDEsYE&feature=youtu.be&t=2m11s) | | | |
 |[React Native Scheduling](https://www.facebook.com/notes/andy-street/react-native-scheduling/10153916310914590?hc_location=ufi) | | | |
@@ -231,7 +232,7 @@ You will learn React Native.
 |[Breaking up Heavy Processing in React Native](https://corbt.com/posts/2015/12/22/breaking-up-heavy-processing-in-react-native.html) | | | |
 |[React Native Meets Async Functions](https://blog.getexponent.com/react-native-meets-async-functions-3e6f81111173#.ud22hv5bi) | | | |
 |[ES7 Async / await with React Native](https://medium.com/front-end-hacking/es7-async-await-with-react-native-35ca167cc326#.sily8n4om) | | | |
-|[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU) [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | | | |
+|[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | | | |
 
 ## Dependencies 
 | Title | Type | Resource Rating | Description |
@@ -264,7 +265,7 @@ You will learn React Native.
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Naive Redux Video Demo](https://www.youtube.com/watch?v=Ola8U-SpL6U) | | | |
-|[React Native with Redux](https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053#.779ous60t) [video class](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5) [code](https://github.com/jlebensold/peckish) | | | |
+|[React Native with Redux](https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053#.779ous60t), [video class](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5) [code](https://github.com/jlebensold/peckish) | | | |
 |[Using React (-Native) with Redux and Redux-Saga. A new proposal?](https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.41s5g6i2s) | | | |
 |[Introduction to React Native & Redux](http://www.slideshare.net/barakcohen1/introduction-to-react-native-redux) | | | |
 
@@ -272,7 +273,7 @@ You will learn React Native.
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Native MobX Project]() | | | Make your app reactive with MobX and react-native-router-flux |
-|[React Native with MobX — Getting Started](https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44#.h41ms9ob7) [code](https://github.com/dabit3/react-native-mobx-list-app) | | | |
+|[React Native with MobX — Getting Started](https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44#.h41ms9ob7), [code](https://github.com/dabit3/react-native-mobx-list-app) | | | |
 |[A React-Native app to remote control Google Play Music Desktop](https://github.com/GPMDP/google-play-music-desktop-remote)  | | | |
 
 ## Realm 
@@ -283,7 +284,7 @@ You will learn React Native.
 ## Typescript
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[React Native Typescript](https://github.com/mrpatiwi/ReactNativeTS) [blog post](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.396p53ocl) [blog post](https://blog.lopezjuri.com/2015/12/30/react-native--typescript/) | | | |
+|[React Native Typescript](https://github.com/mrpatiwi/ReactNativeTS), [blog post](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.396p53ocl), [blog post](https://blog.lopezjuri.com/2015/12/30/react-native--typescript/) | | | |
   
 ## Exponent
 | Title | Type | Resource Rating | Description |
@@ -325,17 +326,17 @@ You will learn React Native.
 ## Talks
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks) | Github | | |
+|[Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks) | Github | ★★★★ | Nice, curated list of talks |
 |[React Native at Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0&t=308s&index=15&list=PLC8kWkl8Hj0tj1GCeHm5ENKQpTIryoiKB) | Video | ★★★★ | Leland Richardson talks about how Airbnb uses React Native and how their repository structure, as well as Continuous Integration |
 |[Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction) | | | |
-|[React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop)  | | | |
+|[React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop)  | Youtube | ★★★ | See how Airbnb is using React Native in iOS and Android |
 |[Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch) | | | |
-|[10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/) | | | |
-|[Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s) [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users)) | | | |
+|[10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/) | Slides | ★★★★ | Some good tips from the Delivery.com team. Comes with code samples |
+|[Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s), [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users)) | Youtube + Slides | ★★★★ | Talk about using React Native at a large scale at Wix.com, and how it transformed their work process|
 |[Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016](https://www.youtube.com/watch?v=_awnyW-9aJ8) | | | |
 |[No Xcode Java Swift or Objc - How far JS Gets you](https://youtu.be/1Urj4TZ5BLI?t=8h48m13s) | | | |
-|[React Native: Are we there yet?](https://www.youtube.com/watch?v=rahrrfJIh9s) [slides](https://speakerdeck.com/roman01la/react-native-are-we-there-yet-pokemon-edition-at-vinnytsiajs-16) | | | |
-|[Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be) [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | | | |
+|[React Native: Are we there yet?](https://www.youtube.com/watch?v=rahrrfJIh9s), [slides](https://speakerdeck.com/roman01la/react-native-are-we-there-yet-pokemon-edition-at-vinnytsiajs-16) | | | |
+|[Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be), [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | Youtube + slides | ★★ | |
 |[How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | | | |
 
 ## Tutorials
@@ -343,14 +344,14 @@ You will learn React Native.
 | :------------ |:---------------:| :---------------:| :-----|
 |[Step-by-step guide through building a complex React Native app](https://github.com/buildreactnative/assemblies-tutorial/tree/final_app_ios) | | | |
 |[Prototyping a Chat App with React Native and Phoenix](https://shift.infinite.red/prototyping-a-chat-app-with-react-native-and-phoenix-5e65677a8217#.7yeh0cc6c) | | | |
-|[React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/) | | | |
-|[How I built React Native Tab View](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.co3h4t1bd) | | | |
-|Creating a hacker news reader [part1](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993) [part2](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935) | | | |
-|[30 days of React Native](https://github.com/fangwei716/30-days-of-react-native) | | | |
-|[Building a Facebook Paper-like UI with React Native](https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.u72xv9rf5) | | | |
-|[Building feedback UI](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.ehw57qjjr) | | | |
-|[Building a Wunderlist Clone](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.yc9phov60) | | | |
-|[Building Instagram Stories](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.r60wymjph) | | ★★★★☆ | |
+|[React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/) | Blog | | Post about how to make a tricky 3D animation in React Native |
+|[How I built React Native Tab View](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.co3h4t1bd) | Blog | | Post about a common UI pattern |
+|Creating a hacker news reader [part1](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993), [part2](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935) | | | |
+|[30 days of React Native](https://github.com/fangwei716/30-days-of-react-native) | Github | ★★★★★ | Project shows how to build various common designs in React Native|
+|[Building a Facebook Paper-like UI with React Native](https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.u72xv9rf5) | Blog | ★ | |
+|[Building feedback UI](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.ehw57qjjr) | Blog | | |
+|[Building a Wunderlist Clone](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.yc9phov60) | Blog | | |
+|[Building Instagram Stories](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.r60wymjph) | Blog | ★★★★ | Highlights the problem of a lack of a CSS 3D Transform in React Native|
 |[How I built a Tinder inspired loader in React Native](https://medium.com/@yousefkama/how-to-build-a-tinder-like-loader-animation-in-react-native-e2a4ace8f906#.tz0degj3w) | | | |
 
 ## Video Tutorials
@@ -377,12 +378,12 @@ You will learn React Native.
 ## Jobs
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[React Jobs](https://www.react-jobs.com/location/New-York-NY-USA)
+|[React Jobs](https://www.react-jobs.com/)
 
 ## Books
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[React Native Quickly Online Book](http://reactnativequickly.com/book/chap01.html#leanpub-auto-why-react-native-is-awesome) | | | |
-|[Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.com/gp/product/1491929006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491929006&linkCode=as2&tag=reacnati-20&linkId=VB4CZXEYO25NZNVM) | | | |
-|[React Native in Action](https://www.manning.com/books/react-native-in-action?a_aid=reactnativecom&a_bid=6887c8c9) | | | |
-|[React Native Animation Book](http://browniefed.com/react-native-animation-book/) | | | |
+|[React Native Quickly Online Book](http://reactnativequickly.com/book/chap01.html#leanpub-auto-why-react-native-is-awesome) | Online Book | ★★★ | Short book to get you familiar with the basics of React Native |
+|[Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.com/gp/product/1491929006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491929006&linkCode=as2&tag=reacnati-20&linkId=VB4CZXEYO25NZNVM) | Book | ★★★★ | Good book to get started with react native |
+|[React Native in Action](https://www.manning.com/books/react-native-in-action?a_aid=reactnativecom&a_bid=6887c8c9) | MEAP | | |
+|[React Native Animation Book](http://browniefed.com/react-native-animation-book/) | Gitbook | ★★★★★ | The best resource for learning animations in raect native|
