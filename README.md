@@ -131,6 +131,7 @@ You will learn React Native.
 |[React-native Animated API Basic Example](http://browniefed.com/blog/react-native-animated-api-basic-example/) | Blog | | |
 |[React Native Animations by Emmett Harper](https://www.youtube.com/watch?v=DrTbHOfCPro) | Video | | Comparing CSS animations to React Native animations and understanding how they work the exact same way. Walkthrough of all of the animation types |
 |[Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API |
+|[Building apps with physics-based animations](http://blog.differential.com/building-web-apps-with-spring-animations/)| | | |
 
 ## SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -168,6 +169,7 @@ You will learn React Native.
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[Awesome React Components](https://habd.as/awesome-react-components/#react-native) | | | |
+|[reactscript.com](http://reactscript.com/react-native/) | | ★★★☆☆ | React Native Componets Website |
 |[Libs, Articles and Tutorials](https://android.jlelse.eu/libs-articles-and-tutorials-that-will-help-you-to-make-awesome-react-native-apps-f584060320a1#.z7yhtwsiy) | | | |
 |[react-native-grid-component](https://github.com/phil-r/react-native-grid-component) | | | |
 |[react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | | | |
