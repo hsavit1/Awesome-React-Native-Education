@@ -15,8 +15,8 @@ You will learn React Native.
 ## Cheat Sheets
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) | Github | ★★★★☆ | Cheatsheet for styling react antive components |
-| [React Native Cheatsheet](https://github.com/refinery29/react-native-cheat-sheet) | Github | ★★★☆☆ | React Native TidBits |
+| [Reach Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet) | Github | ★★★★ | Cheatsheet for styling react antive components |
+| [React Native Cheatsheet](https://github.com/refinery29/react-native-cheat-sheet) | Github | ★★★ | React Native TidBits |
 
 ## Docs 
 | Title | Type | Resource Rating | Description |
@@ -26,11 +26,11 @@ You will learn React Native.
 ## Great Sites
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [awesomereact.com](awesomereact.com) | | | Bunch of really good videos to get you going with React |
-| [Awesome React Native](https://github.com/jondot/awesome-react-native) | | | the original Awesome React Native List |
-| [React Native Express](http://www.reactnativeexpress.com/) | | | |
-| [React Native Playground](https://rnplay.org/apps/picks) | | | |
-| [React Native Coach](https://js.coach/react-native?sort=popular) | | | |
+| [awesomereact.com](awesomereact.com) | Website | ★★★★★ | Bunch of really good videos to get you going with React |
+| [Awesome React Native](https://github.com/jondot/awesome-react-native) | Github | ★★★ | the original Awesome React Native List |
+| [React Native Express](http://www.reactnativeexpress.com/) | Website | ★★★★★ | Walkthough tutorial for beginners |
+| [React Native Playground](https://rnplay.org/apps/picks) | Website | ★★★★ | React Native project site. Sometimes doesn't function properly |
+| [React Native Coach](https://js.coach/react-native?sort=popular) | Website | ★★★ | List of Useful React Native Components to get you started |
 
 ## Overview of React Native
 | Title | Type | Resource Rating | Description |
@@ -132,8 +132,8 @@ You will learn React Native.
 |[React Native Animations Done Right](https://medium.com/@7ynk3r/react-native-animations-done-right-d5249cc1ebbf#.rjj6m0epo) | Blog | | |
 |[React-native Animated API Basic Example](http://browniefed.com/blog/react-native-animated-api-basic-example/) | Blog | | |
 |[React Native Animations by Emmett Harper](https://www.youtube.com/watch?v=DrTbHOfCPro) | Video | | Comparing CSS animations to React Native animations and understanding how they work the exact same way. Walkthrough of all of the animation types |
-|[Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API |
-|[Building apps with physics-based animations](http://blog.differential.com/building-web-apps-with-spring-animations/)| | | |
+|[Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API. Also React Motion |
+|[Building apps with physics-based animations](http://blog.differential.com/building-web-apps-with-spring-animations/) | | | |
 
 ## SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -325,8 +325,8 @@ You will learn React Native.
 ## Talks
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks) | | | |
-|[React Native at Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0&t=308s&index=15&list=PLC8kWkl8Hj0tj1GCeHm5ENKQpTIryoiKB) | | | |
+|[Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks) | Github | | |
+|[React Native at Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0&t=308s&index=15&list=PLC8kWkl8Hj0tj1GCeHm5ENKQpTIryoiKB) | Video | ★★★★ | Leland Richardson talks about how Airbnb uses React Native and how their repository structure, as well as Continuous Integration |
 |[Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction) | | | |
 |[React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop)  | | | |
 |[Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch) | | | |
@@ -350,7 +350,7 @@ You will learn React Native.
 |[Building a Facebook Paper-like UI with React Native](https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.u72xv9rf5) | | | |
 |[Building feedback UI](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.ehw57qjjr) | | | |
 |[Building a Wunderlist Clone](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.yc9phov60) | | | |
-|[Building Instagram Stories](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.r60wymjph) | | | |
+|[Building Instagram Stories](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.r60wymjph) | | ★★★★☆ | |
 |[How I built a Tinder inspired loader in React Native](https://medium.com/@yousefkama/how-to-build-a-tinder-like-loader-animation-in-react-native-e2a4ace8f906#.tz0degj3w) | | | |
 
 ## Video Tutorials
