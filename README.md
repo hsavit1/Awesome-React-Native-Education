@@ -233,7 +233,7 @@
 |[Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd) | | | |
 
 ### Optimizing and Performance
-| Title | Resource Rating | Type | Description |
+| Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React.js Conf 2016 - Tadeu Zagallo - Optimising React Native: Tools and Tips](https://www.youtube.com/watch?v=0MlT74erp60) | Youtube | ★★★★★ | Talks about the React Native build process |
 |[Introduction to React Native Performance](https://speakerdeck.com/talkol/introduction-to-react-native-performance), [code](https://github.com/wix/rn-perf-experiments) | Slides + Code | ★★★★ | React Native holds great promise in terms of excellent developer experience with Javascript and code reuse between platforms. The big question is — do these benefits come at the price of performance? How well can React Native hold its own against purely native implementations?|
@@ -247,7 +247,7 @@
 |[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | | | |
 
 ### Async and Middleware
-| Title | Resource Rating | Type | Description |
+| Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Native Meets Async Functions](https://blog.getexponent.com/react-native-meets-async-functions-3e6f81111173#.ud22hv5bi) | | | |
 |[ES7 Async / await with React Native](https://medium.com/front-end-hacking/es7-async-await-with-react-native-35ca167cc326#.sily8n4om) | | | |
