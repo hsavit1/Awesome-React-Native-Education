@@ -54,6 +54,7 @@
 |A Tour of React Native [part 1](https://shift.infinite.red/a-tour-of-react-native-part-1-the-visuals-7822f48151f6#.j9n9z7558) [part 2](https://shift.infinite.red/a-tour-of-react-native-part-2-redux-friends-4fed022aaa1e#.22lh3x96o) | Blog | ★★★★★ | Overview of everything in react native and all the major technologies that you should be aware of |
 |[Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU) | Youtube | | Good vid to watch if youre totally new and have no time. Highlights then painpoints of native dev and the good points of RN dev |
 |[React Native as an extension of Hybrid](http://blog.rangle.io/react-native-as-an-extension-of-hybrid/) | Blog | | Blog post about how building apps with React Native is a similar experience to building web apps |
+|[From React web to native mobile: mapping out the unknown unknowns - Brent Vatne - Reactive 2015](https://www.youtube.com/watch?v=-XxSCi8TKuk) | Youtube | | Brent Vatne discusses the differences between mobile and web, why RN, animations with Animated, Navigation and navigation transitions with the Navigator API, and much more in this 1 hour talk |
 
 ### Bridging into Native Codebases
 | Title | Type | Resource Rating | Description |
@@ -282,6 +283,7 @@
 |[What Sucks About React Native](https://shift.infinite.red/what-sucks-about-react-native-c38a307a210f#.e7hv7gah9) | | | |
 |[Six months with React Native](https://corbt.com/posts/2016/06/03/six-months-with-react-native.html) | | | |
 |[AN IOS DEVELOPER’S PERSPECTIVE ON REACT NATIVE](http://www.levvel.io/blog-post/an-ios-developers-perspective-on-react-native) | Blog | | |
+|[React Native Hater has a Bitchfit](https://arielelkin.github.io/articles/why-im-not-a-react-native-developer) | | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
