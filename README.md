@@ -252,6 +252,7 @@
 |[Under The Hood of React Native - Martin Konicek - Reactive 2015](https://www.youtube.com/watch?v=8N4f4h6SThc), [slides](https://speakerdeck.com/mkonicek/under-the-hood-of-react-native) | Youtube + Slides | | |
 |[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | Youtube + slides | | |
 |[Alexander Kotliarskyi - React Native: Under the Hood - YGLF2015](https://www.youtube.com/watch?v=hDviGU-57lU), [slides](https://speakerdeck.com/frantic/react-native-under-the-hood) | Youtube + Slides | ★★★★★ | Nice quick overview of the performance optimizations React Native makes behind the scences via async calls and batch updates |
+|[Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/) | | | |
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
