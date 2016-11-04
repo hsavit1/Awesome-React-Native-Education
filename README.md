@@ -54,7 +54,7 @@
 |A Tour of React Native [part 1](https://shift.infinite.red/a-tour-of-react-native-part-1-the-visuals-7822f48151f6#.j9n9z7558) [part 2](https://shift.infinite.red/a-tour-of-react-native-part-2-redux-friends-4fed022aaa1e#.22lh3x96o) | Blog | ★★★★★ | Overview of everything in react native and all the major technologies that you should be aware of |
 |[Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU) | Youtube | | Good vid to watch if youre totally new and have no time. Highlights then painpoints of native dev and the good points of RN dev |
 |[React Native as an extension of Hybrid](http://blog.rangle.io/react-native-as-an-extension-of-hybrid/) | Blog | | Blog post about how building apps with React Native is a similar experience to building web apps |
-|[From React web to native mobile: mapping out the unknown unknowns - Brent Vatne - Reactive 2015](https://www.youtube.com/watch?v=-XxSCi8TKuk) | Youtube | | Brent Vatne discusses the differences between mobile and web, why RN, animations with Animated, Navigation and navigation transitions with the Navigator API, and much more in this 1 hour talk |
+|[From React web to native mobile: mapping out the unknown unknowns - Brent Vatne - Reactive 2015](https://www.youtube.com/watch?v=-XxSCi8TKuk) | Youtube | ★★★★★ | Mobile is different from web because... Higher Expectations + More Constraints + More APIS. Brent Vatne discusses the differences between mobile and web, why RN, animations with Animated, Navigation and navigation transitions with the Navigator API, the facebook app, fast and reponsive animations, listview performance optimizations, interaction managers, rasterization, tracking down performance bottlenecks, using the built in react native performance profiler, memory leaks, connectivity, keyboards, status bars, multi-threading, execution states, and much more in this 1 hour talk |
 
 ### Bridging into Native Codebases
 | Title | Type | Resource Rating | Description |
@@ -162,6 +162,7 @@
 |[react-native-svg](https://github.com/react-native-community/react-native-svg) | | | SVG library for React Native |
 |[React Native and D3.js](https://speakerdeck.com/hswolff/react-native-and-d3js) | | | |
 |[gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native)| Github | | OpenGL bindings for React Native to implement complex effects over images and components, in the descriptive VDOM paradigm http://projectseptemberinc.gitbooks.io/gl-react/content/ |
+|[Cross-platform charting with React & React Native by Ken Wheeler at react-europe 2016](https://www.youtube.com/watch?v=gt0VtewBZ94) | Youtube | | |
 
 ### Gestures
 | Title | Type | Resource Rating | Description |
