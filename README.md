@@ -13,6 +13,9 @@
 | [React Native AMA](https://www.reddit.com/r/IAmA/comments/3wyb3m/we_are_the_team_working_on_react_native_ask_us/) | Reddit | | React Native team takes questions about React Native|
 | [React Native Product Pains](https://productpains.com/product/react-native) | Website | | If you have a problem with React Native, post it here. Good way to check out the biggest sentiments currently on React Native |
 | [Reddit](https://www.reddit.com/r/reactnative/) | | | |
+| [React Native in the Community](https://github.com/ericvicenti/react-native-community) | Github | | A list of community-built React Native contributions. |
+| [React Native Newsletter](http://reactnative.cc/) | Newsletter | | |
+| [Online meetups](https://github.com/knowbody/react-native-online-meetups) | | | |
 
 ### Cheat Sheets
 | Title | Type | Resource Rating | Description |
@@ -52,7 +55,7 @@
 |[Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU) | Youtube | | Good vid to watch if youre totally new and have no time. Highlights then painpoints of native dev and the good points of RN dev |
 |[React Native as an extension of Hybrid](http://blog.rangle.io/react-native-as-an-extension-of-hybrid/) | Blog | | Blog post about how building apps with React Native is a similar experience to building web apps |
 
-### Bridging 
+### Bridging into Native Codebases
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) | Blog | ★★★★★ | An in-depth look into React Native's Core | 
@@ -67,6 +70,7 @@
 |[Swift Modules for React Native](http://moduscreate.com/swift-modules-for-react-native/) | | | |
 |[Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0) | | | |
 |[Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i) | | | |
+|[Jeremy Grancher - React Native Custom Components](https://www.youtube.com/watch?v=ykep4C_uXCE), [slides](http://www.slideshare.net/JeremyGrancher/react-native-custom-components) | | | |
 
 ### Integration into Native Apps
 | Title | Type | Resource Rating | Description |
@@ -99,8 +103,8 @@
 |[React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y) | | | |
 |[React Native Navigator Experimental](https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.499utzrgf) | | | |
 |[NavigationExperimental](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/Navigation.md) | | | |
-|[Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
-|[Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps |
+|[Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
+|[NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme|
 
 ### Modal Views
 | Title | Type | Resource Rating | Description |
@@ -245,6 +249,7 @@
 |[Breaking up Heavy Processing in React Native](https://corbt.com/posts/2015/12/22/breaking-up-heavy-processing-in-react-native.html) | | | |
 |[Under The Hood of React Native - Martin Konicek - Reactive 2015](https://www.youtube.com/watch?v=8N4f4h6SThc), [slides](https://speakerdeck.com/mkonicek/under-the-hood-of-react-native) | Youtube + Slides | | |
 |[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | Youtube + slides | | |
+|[Alexander Kotliarskyi - React Native: Under the Hood - YGLF2015](https://www.youtube.com/watch?v=hDviGU-57lU), [slides](https://speakerdeck.com/frantic/react-native-under-the-hood) | Youtube + Slides | ★★★★★ | Nice quick overview of the performance optimizations React Native makes behind the scences via async calls and batch updates |
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
@@ -269,12 +274,14 @@
 | :------------ |:---------------:| :---------------:| :-----|
 |[How to Setup Push Notifications in React Native (iOS & Android)](https://medium.com/differential/how-to-setup-push-notifications-in-react-native-ios-android-30ea0131355e#.nqef8ufjg) | | | |
 |[Triggering iOS 10 actionable push notifications via React Native](https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-react-native-7990a6a3c3f4#.qc38i1u1z) | | | |
+|[How to Setup Push Notifications with React Native](https://www.youtube.com/watch?v=TQmudJLhPx8) | Youtube | | |
 
 ### Opinions
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[What Sucks About React Native](https://shift.infinite.red/what-sucks-about-react-native-c38a307a210f#.e7hv7gah9) | | | |
 |[Six months with React Native](https://corbt.com/posts/2016/06/03/six-months-with-react-native.html) | | | |
+|[AN IOS DEVELOPER’S PERSPECTIVE ON REACT NATIVE](http://www.levvel.io/blog-post/an-ios-developers-perspective-on-react-native) | Blog | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
@@ -310,6 +317,8 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
+|[Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
+|[Exponent Talks: Brent's "Introduction to Exponent"](https://www.youtube.com/watch?v=7lZtV-rIAmY) | Youtube | | At our first user community meetup, Brent gives an intro to Exponent and a quick tour of basics like building a feature and pushing updates. |
 
 ### AWS 
 | Title | Type | Resource Rating | Description |
