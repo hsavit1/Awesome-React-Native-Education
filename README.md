@@ -3,7 +3,7 @@
 ### Official Documentation
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [React Native](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The offical React Native Docs and reference |
+| [React Native](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The offical React Native Docs and reference aka the good shit|
 | [React](https://facebook.github.io/react/docs/hello-world.html) | Webite | ★★★★★ | The official React Docs. Use to learn React |
 | [Redux](http://redux.js.org/) | Gitbook | ★★★★★ | Read this to learn Redux |
 
@@ -397,9 +397,9 @@
 ### Sample Apps
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Awesome React Native Open Source Apps](https://github.com/jondot/awesome-react-native#open-source-apps) | | | |
+|[React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) | Github | ★★★★★ | Curated list of open source React Native Apps |
+|[Awesome React Native Open Source Apps](https://github.com/jondot/awesome-react-native#open-source-apps) | | | Part of the Awesom React Native Repo is a section of open source apps |
 |[Interesting React-Native projects to learn from](https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.30d5hbcel) | | | |
-|[React Native Sound Redux](https://github.com/fraserxu/soundredux-native) | | | |
 
 ### Podcasts
 | Title | Type | Resource Rating | Description |
