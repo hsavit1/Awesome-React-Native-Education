@@ -243,8 +243,8 @@
 |[React Native Scheduling](https://www.facebook.com/notes/andy-street/react-native-scheduling/10153916310914590?hc_location=ufi) | | | |
 |[React Native’s JavaScript Execution Contexts](https://medium.com/@shaheenghiassy/react-native-s-execution-context-d63e5d4930f4#.9uvk1zb5h) | | | |
 |[Breaking up Heavy Processing in React Native](https://corbt.com/posts/2015/12/22/breaking-up-heavy-processing-in-react-native.html) | | | |
-|[Under The Hood of React Native | Martin Konicek | Reactive 2015](https://www.youtube.com/watch?v=8N4f4h6SThc), [slides](https://speakerdeck.com/mkonicek/under-the-hood-of-react-native) | | | |
-|[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | | | |
+|[Under The Hood of React Native - Martin Konicek - Reactive 2015](https://www.youtube.com/watch?v=8N4f4h6SThc), [slides](https://speakerdeck.com/mkonicek/under-the-hood-of-react-native) | Youtube + Slides | | |
+|[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | Youtube + slides | | |
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
