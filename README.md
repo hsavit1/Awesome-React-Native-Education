@@ -17,6 +17,7 @@
 | [React Native Newsletter](http://reactnative.cc/) | Newsletter | | |
 | [Online meetups](https://github.com/knowbody/react-native-online-meetups) | | | |
 | [StackOverflow](http://stackoverflow.com/questions/tagged/react-native) | | | |
+| [Discord](https://discordapp.com/invite/0ZcbPKXt5bZjGY5n) | | | |
 
 ### Cheat Sheets
 | Title | Type | Resource Rating | Description |
@@ -154,6 +155,7 @@
 |[Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated api can do, shown with a demo |
 |[react-native-animatable](https://github.com/oblador/react-native-animatable)| Github | | Easy to use declarative transitions and a standard set of animations for React Native |
 |[react-motion](https://github.com/chenglou/react-motion) | Github | | |
+|[React Native Animated Video Tutorial Egghead](https://egghead.io/instructors/jason-brown-20a6bf03-254a-428c-9984-dca76cc84f32) | Screencast | | A nice, quick, free, and easy introduction to the React Native Animated API |
 
 ### SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -182,6 +184,7 @@
 |[Making Network Requests](https://codecookbook.co/post/how-to-make-network-requests-in-react-native/) | | | Video / written tutorial of how to make network requests |
 |[React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU) | | | |
 |[Interacting with APIs Using React Native Fetch](https://medium.com/@yoniweisbrod/interacting-with-apis-using-react-native-fetch-9733f28566bb#.4vcwg2blc) | | | |
+|[Make HTTP Requests In iOS With React Native](https://www.thepolyglotdeveloper.com/2015/09/make-http-requests-in-ios-with-react-native/)||||
 
 ### Basic Component Usage
 | Title | Type | Resource Rating | Description |
@@ -304,6 +307,7 @@
 ### Redux
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+|[Awesome Redux / React Native](https://github.com/xgrommx/awesome-redux) | | | |
 |[React Naive Redux Video Demo](https://www.youtube.com/watch?v=Ola8U-SpL6U) | | | |
 |[React Native with Redux](https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053#.779ous60t), [video class](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5) [code](https://github.com/jlebensold/peckish) | | | |
 |[Using React (-Native) with Redux and Redux-Saga. A new proposal?](https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.41s5g6i2s) | | | |
@@ -354,6 +358,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Native Dev Tools](https://speakerdeck.com/cmcewen/react-native-dev-tools) | | | |
+|[Reactotron](https://github.com/reactotron/reactotron) | | | A CLI and OS X app for inspecting your React JS and React Native apps. |
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
@@ -402,6 +407,9 @@
 |[How I built a Tinder inspired loader in React Native](https://medium.com/@yousefkama/how-to-build-a-tinder-like-loader-animation-in-react-native-e2a4ace8f906#.tz0degj3w) | | | |
 |[Expanding and Collapsing Elements Using Animations in React Native](http://moduscreate.com/expanding-and-collapsing-elements-using-animations-in-react-native/) | | | |
 |[Dynamic Animated Lists in React Native](http://moduscreate.com/react-native-dynamic-animated-lists/) | | | |
+|[React Native Tutorial: Building Apps with JavaScript](https://www.raywenderlich.com/126063/react-native-tutorial) | Blog | ★★★★★ | Walkthrough tutorial demonstrating React Native basics |
+|[Build a Coffee Finder App with React Native and the Yelp API](https://appendto.com/2016/11/build-a-coffee-finder-app-with-react-native-and-the-yelp-api/) | | | |
+|[Building an iOS Geolocation Travel App with React Native](https://www.codementor.io/ios/tutorial/build-ios-geolocation-app-react-native) | | | |
 
 ### Video Tutorials
 | Title | Type | Resource Rating | Description |
