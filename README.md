@@ -16,6 +16,7 @@
 | [React Native in the Community](https://github.com/ericvicenti/react-native-community) | Github | | A list of community-built React Native contributions. |
 | [React Native Newsletter](http://reactnative.cc/) | Newsletter | | |
 | [Online meetups](https://github.com/knowbody/react-native-online-meetups) | | | |
+| [StackOverflow](http://stackoverflow.com/questions/tagged/react-native) | | | |
 
 ### Cheat Sheets
 | Title | Type | Resource Rating | Description |
@@ -27,6 +28,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Deco React Native Docs](https://www.decosoftware.com/docs/react-native/getting-started.html#content) | Docs | | |
+| [Stack Overflow Docs](http://stackoverflow.com/documentation/react-native/topics) | | | |
 
 ### Great Sites
 | Title | Type | Resource Rating | Description |
@@ -93,6 +95,7 @@
 |[Handling Android Back Button Events in React Native with Custom Components](https://medium.com/the-many/handling-android-back-button-events-in-react-native-with-custom-components-b33c63b0633b#.vpfh7ww5r) | | | |
 |[One Day with React Native for Android](https://corbt.com/posts/2015/09/16/one-day-with-react-native-for-android.html) | | | |
 |[Native Modules for React Native Android](https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d#.apuxx58p9)||||
+|[React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/) | | | |
 
 ### Navigation
 | Title | Type | Resource Rating | Description |
@@ -260,12 +263,18 @@
 |[React Native Meets Async Functions](https://blog.getexponent.com/react-native-meets-async-functions-3e6f81111173#.ud22hv5bi) | | | |
 |[ES7 Async / await with React Native](https://medium.com/front-end-hacking/es7-async-await-with-react-native-35ca167cc326#.sily8n4om) | | | |
 |[Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.egfxz95m0) | Blog | | |
-
+|[F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) | | | |
 ### Dependencies 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[How to create a React Native project using Yarn](http://stackoverflow.com/questions/40011693/how-to-create-react-native-project-using-yarn) | | | |
 |[Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.u2y9u5x5j)||||
+
+### Javascript
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Using ES2016 Decorators in React Native](http://moduscreate.com/using-es2016-decorators-in-react-native/) | Blog | | |
+| [How To Use ES6 Arrow Functions With React Native](http://moduscreate.com/how-to-use-es6-arrow-functions-with-react-native/) | | | |
 
 ### Javascript Core 
 | Title | Type | Resource Rating | Description |
@@ -323,6 +332,11 @@
 |[Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
 |[Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
 |[Exponent Talks: Brent's "Introduction to Exponent"](https://www.youtube.com/watch?v=7lZtV-rIAmY) | Youtube | | At our first user community meetup, Brent gives an intro to Exponent and a quick tour of basics like building a feature and pushing updates. |
+
+### Extra APIs
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Making React Native apps accessible](https://code.facebook.com/posts/435862739941212/making-react-native-apps-accessible/) | | | |
 
 ### AWS 
 | Title | Type | Resource Rating | Description |
@@ -386,6 +400,8 @@
 |[Building a Wunderlist Clone](https://medium.com/@yousefkama/react-native-ui-challenge-2-be24f72e6a68#.yc9phov60) | Blog | | |
 |[Building Instagram Stories](https://medium.com/@yousefkama/building-instagram-stories-d14763682e98#.r60wymjph) | Blog | ★★★★ | Highlights the problem of a lack of a CSS 3D Transform in React Native|
 |[How I built a Tinder inspired loader in React Native](https://medium.com/@yousefkama/how-to-build-a-tinder-like-loader-animation-in-react-native-e2a4ace8f906#.tz0degj3w) | | | |
+|[Expanding and Collapsing Elements Using Animations in React Native](http://moduscreate.com/expanding-and-collapsing-elements-using-animations-in-react-native/) | | | |
+|[Dynamic Animated Lists in React Native](http://moduscreate.com/react-native-dynamic-animated-lists/) | | | |
 
 ### Video Tutorials
 | Title | Type | Resource Rating | Description |
