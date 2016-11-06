@@ -3,7 +3,7 @@
 ### Official Documentation
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [React Native](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The offical React Native Docs and reference aka the good shit|
+| [React Native](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The offical React Native Docs and reference aka the good shit. Your primary reference for everything |
 | [React](https://facebook.github.io/react/docs/hello-world.html) | Webite | ★★★★★ | The official React Docs. Use to learn React |
 | [Redux](http://redux.js.org/) | Gitbook | ★★★★★ | Read this to learn Redux |
 
@@ -109,7 +109,8 @@
 |[React Native Navigator Experimental](https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.499utzrgf) | | | |
 |[NavigationExperimental](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/Navigation.md) | | | |
 |[Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
-|[NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme|
+|[NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme | 
+|[React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
 
 ### Modal Views
 | Title | Type | Resource Rating | Description |
@@ -119,13 +120,15 @@
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Flexbox Froggy](http://flexboxfroggy.com/) | Website | | |
+|[Flexbox Froggy](http://flexboxfroggy.com/) | Website / Game | | Game makes learning flexbox easy |
 |[React Native Flexbox Layout Patterns](https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418) | Blog | | |
 |[Responsive Layouts](https://github.com/FormidableLabs/react-native-responsive-styles) | Github | | |
 |[React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE) | Youtube | | |
 |[Mini course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.jn6rytczi) [github project](https://github.com/yonibot/flexbox-manual-for-react-native)  | Blog + Github | | |
 |[React Native Layout System](http://moduscreate.com/react-native-layout-system/) | | | |
 |[Aligning Children using Flexbox in React Native](http://moduscreate.com/aligning-children-using-flexbox-in-react-native/) | | | |
+|[The ultimate flexbox cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html) | | | |
+|[The complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | | | |
 
 ### Styling 
 | Title | Type | Resource Rating | Description |
@@ -333,9 +336,16 @@
 ### Exponent
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+|[Introduction to Exponent](https://docs.getexponent.com/versions/v10.0.0/introduction/index.html) | | | |
 |[Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
 |[Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
 |[Exponent Talks: Brent's "Introduction to Exponent"](https://www.youtube.com/watch?v=7lZtV-rIAmY) | Youtube | | At our first user community meetup, Brent gives an intro to Exponent and a quick tour of basics like building a feature and pushing updates. |
+
+### Authentication
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+|[react-native-google-signin](https://github.com/devfd/react-native-google-signin) | | | Google Signin for your react native applications |
+|[Authenticate React Native - iOS with Firebase API](https://auth0.com/authenticate/react-native-ios/firebase) | | | |
 
 ### Extra APIs
 | Title | Type | Resource Rating | Description |
@@ -436,6 +446,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Jobs](https://www.react-jobs.com/)
+|[reactnativejobs.io](http://www.reactnativejobs.io/) | | | |
 
 ### Books
 | Title | Type | Resource Rating | Description |
