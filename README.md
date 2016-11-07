@@ -331,8 +331,12 @@
 ### Typescript
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[React Native Typescript](https://github.com/mrpatiwi/ReactNativeTS), [blog post](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.396p53ocl), [blog post](https://blog.lopezjuri.com/2015/12/30/react-native--typescript/) | | | |
-  
+|[React Native Typescript](https://github.com/mrpatiwi/ReactNativeTS) | | | |
+|[React Native and Typescript](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.yvxgkj2xj) | Blog | | |
+|[React Native and TypeScript – Developing cross-platform apps](https://raygun.com/blog/2016/07/react-native-typescript/) | | | |
+|[React Native + Typescript](https://blog.lopezjuri.com/2015/12/30/react-native--typescript/) | | | |
+|[Using TypeScript with React Native](http://www.justin-credible.net/2016/08/23/using-typescript-with-react-native/) | | | |
+
 ### Exponent
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
