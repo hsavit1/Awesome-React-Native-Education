@@ -367,6 +367,21 @@
 | [Making React Native apps accessible](https://code.facebook.com/posts/435862739941212/making-react-native-apps-accessible/) | | | |
 | [Use The iOS Camera In Your React Native Mobile App](https://www.thepolyglotdeveloper.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/) | | | |
 
+### React Native Web
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+|[React Native Web](https://github.com/necolas/react-native-web) | Github | | |
+
+### Clojurescript 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+|[ClojureScript + React Native](http://cljsrn.org/) | | | |
+
+### Elm 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+|[Elm Native UI](https://github.com/ohanhi/elm-native-ui) | Github | | |
+
 ### AWS 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
