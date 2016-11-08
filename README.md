@@ -180,6 +180,7 @@
 |[GETTING STARTED WITH THE PANRESPONDER IN REACT NATIVE](http://mindthecode.com/getting-started-with-the-panresponder-in-react-native/), [demo app](https://github.com/Hyra/panresponder_demo) | | | |
 |[Living in an async world of React Native](https://youtu.be/N9RbcP4iY90?t=2h35m13s), [slides](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native) | | | |
 |[React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) | | | |
+|[Gesture detection in React Native](http://blog.lum.pe/gesture-detection-in-react-native/) | Blog | | |
 
 ### Networking
 | Title | Type | Resource Rating | Description |
@@ -231,6 +232,7 @@
 |[Add Crashlytics to your React Native iOS app](https://medium.com/delivery-com-engineering/add-crashlytics-to-your-react-native-ios-app-69a983a9062a#.4rrq3gvyu) | | | |
 |[React Native on Simulator and on Device](https://gist.github.com/almost/898a829d5197c69d29b0) | Github |||
 |[Testing the Bejeezus out of React Native Apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.7urkxe5xa)||||
+|[Test driving React Native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) | | | |
 
 ### Debugging
 | Title | Type | Resource Rating | Description |
@@ -362,6 +364,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Making React Native apps accessible](https://code.facebook.com/posts/435862739941212/making-react-native-apps-accessible/) | | | |
+| [Use The iOS Camera In Your React Native Mobile App](https://www.thepolyglotdeveloper.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/) | | | |
 
 ### AWS 
 | Title | Type | Resource Rating | Description |
@@ -395,6 +398,7 @@
 |[A React-Native Android iOS Starter App/ BoilerPlate / Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend http://bartonhammond.github.io/snowflake/snowflake.js.html](https://github.com/bartonhammond/snowflake) | | | |
 |[Snowflake: Continuous Integration with Bitrise.io](https://www.youtube.com/watch?v=EYafslJvXz8&list=PLPDajyixAsuMKSDMel9x6pzmBuklZq4ci) | | | |
 |[Publish React Native Applications Over The Air with Electrode RN OTA, an Open Source Release from @WalmartLabs](https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.zcd293w9f) | | | |
+|[Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/) | Blog | | |
 
 ### Talks
 | Title | Type | Resource Rating | Description |
