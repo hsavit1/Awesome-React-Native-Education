@@ -234,6 +234,8 @@
 |[React Native on Simulator and on Device](https://gist.github.com/almost/898a829d5197c69d29b0) | Github |||
 |[Testing the Bejeezus out of React Native Apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.7urkxe5xa)||||
 |[Test driving React Native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) | | | |
+|[Automated UI Testing with React Native on iOS](http://blog.xebia.com/automated-ui-testing-with-react-native-on-ios/) | Blog | | |
+|[Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
 
 ### Debugging
 | Title | Type | Resource Rating | Description |
