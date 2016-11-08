@@ -268,6 +268,7 @@
 |[JavaScript, React Native and Performance at react-europe 2016](https://www.youtube.com/watch?v=1oL_OJ3UePU), [slides](http://www.slideshare.net/TadeuZagallo/javascript-react-native-and-performance-at-reacteurope-2016) | Youtube + slides | | |
 |[Alexander Kotliarskyi - React Native: Under the Hood - YGLF2015](https://www.youtube.com/watch?v=hDviGU-57lU), [slides](https://speakerdeck.com/frantic/react-native-under-the-hood) | Youtube + Slides | ★★★★★ | Nice quick overview of the performance optimizations React Native makes behind the scences via async calls and batch updates |
 |[Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/) | | | |
+|[React Native Internals: A Wider Picture (Part 1: MessageQueue & JS Thread)](https://medium.com/@rotemmiz/react-native-internals-a-wider-picture-part-1-messagequeue-js-thread-7894a7cba868#.4eef547de) | | | |
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
@@ -336,6 +337,11 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[Building An Image Browsing App With Realm, Imgur API, and React Native](https://medium.com/@dabit3/building-an-image-browsing-app-with-realm-io-imgur-api-and-react-native-331b00297906#.x3zs0v1rc) | | | |
+
+### Flow 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+|[Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.40darjv4r) | | | |
 
 ### Typescript
 | Title | Type | Resource Rating | Description |
