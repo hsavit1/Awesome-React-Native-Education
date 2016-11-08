@@ -273,6 +273,7 @@
 |[ES7 Async / await with React Native](https://medium.com/front-end-hacking/es7-async-await-with-react-native-35ca167cc326#.sily8n4om) | | | |
 |[Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.egfxz95m0) | Blog | | |
 |[F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) | | | |
+
 ### Dependencies 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
@@ -284,6 +285,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Using ES2016 Decorators in React Native](http://moduscreate.com/using-es2016-decorators-in-react-native/) | Blog | | |
 | [How To Use ES6 Arrow Functions With React Native](http://moduscreate.com/how-to-use-es6-arrow-functions-with-react-native/) | | | |
+| [ES7 Decorators](http://blog.lum.pe/gesture-detection-in-react-native/) | Blog | | Post discusses using ES7 decorators for higher order components |
 
 ### Javascript Core 
 | Title | Type | Resource Rating | Description |
