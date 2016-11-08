@@ -124,18 +124,18 @@
 |[React Native Flexbox Layout Patterns](https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418) | Blog | | |
 |[Responsive Layouts](https://github.com/FormidableLabs/react-native-responsive-styles) | Github | | |
 |[React Native Flex Basics](https://www.youtube.com/watch?v=-xFF5KF-KpE) | Youtube | | |
-|[Mini course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.jn6rytczi) [github project](https://github.com/yonibot/flexbox-manual-for-react-native)  | Blog + Github | | |
+|[Mini course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.jn6rytczi) [github project](https://github.com/yonibot/flexbox-manual-for-react-native)  | Blog + Github | ★★★★★ | Tutorial touches on every aspect of flexbox |
 |[React Native Layout System](http://moduscreate.com/react-native-layout-system/) | | | |
 |[Aligning Children using Flexbox in React Native](http://moduscreate.com/aligning-children-using-flexbox-in-react-native/) | | | |
 |[The ultimate flexbox cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html) | | | |
 |[The complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | | | |
+|[Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.rws64w9ws) | | | |
 
 ### Styling 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Native CSS](https://github.com/sabeurthabti/react-native-css) | | | Style React-Native components with css and built in support for SASS/SCSS |
-|[A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6#.tnh22x2az) | | | |
-|[Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.rws64w9ws) | | | |
+|[Applying Basic Styles in React Native](https://egghead.io/lessons/react-applying-basic-styles-in-react-native)||||
 
 ### Animation
 | Title | Type | Resource Rating | Description |
@@ -241,6 +241,7 @@
 |[Debugging with Global Variables and the Chrome Console in React Native](https://corbt.com/posts/2015/12/19/debugging-with-global-variables-in-react-native.html) | | | |
 |[More Debugging with React Native](https://corbt.com/posts/2016/01/29/more-debugging-with-react-native.html) | | | |
 |[Debugging and Production - React Native at Microsoft](https://youtu.be/1Urj4TZ5BLI?t=6h4m44s) | | | |
+|[Using the Chrome Debugger to Set Breakpoints in React Native](https://egghead.io/lessons/react-using-the-chrome-debugger-to-set-breakpoints-in-react-native) | Video |||
 
 ### Versioning 
 | Title | Resource Rating | Type | Description |
@@ -350,6 +351,12 @@
 | :------------ |:---------------:| :---------------:| :-----|
 |[react-native-google-signin](https://github.com/devfd/react-native-google-signin) | | | Google Signin for your react native applications |
 |[Authenticate React Native - iOS with Firebase API](https://auth0.com/authenticate/react-native-ios/firebase) | | | |
+
+### GraphQL
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+|[Using GraphQL Inside a React Native App](https://voice.kadira.io/using-graphql-inside-a-react-native-app-763ab54df28a#.pztyucp7w) | Blog | | |
+|[React Native with Apollo](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.v1swgblif) | Blog | | |
 
 ### Extra APIs
 | Title | Type | Resource Rating | Description |
