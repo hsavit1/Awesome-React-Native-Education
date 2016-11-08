@@ -181,6 +181,7 @@
 |[Living in an async world of React Native](https://youtu.be/N9RbcP4iY90?t=2h35m13s), [slides](https://speakerdeck.com/kmagiera/living-in-an-async-world-of-react-native) | | | |
 |[React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) | | | |
 |[Gesture detection in React Native](http://blog.lum.pe/gesture-detection-in-react-native/) | Blog | | |
+|[react-native-gesture-recognizers](https://github.com/johanneslumpe/react-native-gesture-recognizers) | Github | | React Native gesture recognizer decorators. Just decorate your component and easily respond to pans and swipes! Uses ES7 decorator syntax |
 
 ### Networking
 | Title | Type | Resource Rating | Description |
