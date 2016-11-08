@@ -309,6 +309,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 |[React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.d9oj3chbv) | | | |
+|[Awesome React Components](https://github.com/brillout/awesome-react-components) | Github | | A sorted and categorized list of React Components |
 
 ### Redux
 | Title | Type | Resource Rating | Description |
