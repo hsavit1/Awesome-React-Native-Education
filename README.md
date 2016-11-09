@@ -158,7 +158,7 @@
 |[Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated api can do, shown with a demo |
 |[react-native-animatable](https://github.com/oblador/react-native-animatable)| Github | | Easy to use declarative transitions and a standard set of animations for React Native |
 |[react-motion](https://github.com/chenglou/react-motion) | Github | | |
-|[React Native Animated Video Tutorial Egghead](https://egghead.io/instructors/jason-brown-20a6bf03-254a-428c-9984-dca76cc84f32) | Screencast | | A nice, quick, free, and easy introduction to the React Native Animated API |
+|[React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
 
 ### SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -341,7 +341,8 @@
 ### Flow 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.40darjv4r) | | | |
+|[Getting Started with React Native and Flow](https://medium.com/react-native-training/getting-started-with-react-native-and-flow-d40f55746809#.40darjv4r) | Blog | | |
+|[Adding Flow to your Redux Application](https://blog.callstack.io/typed-redux-2aa8bff926ff#.3hxfrbtyu) | Blog | | |
 
 ### Typescript
 | Title | Type | Resource Rating | Description |
