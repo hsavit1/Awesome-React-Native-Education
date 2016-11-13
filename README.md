@@ -99,6 +99,7 @@
 | [One Day with React Native for Android](https://corbt.com/posts/2015/09/16/one-day-with-react-native-for-android.html) | | | |
 | [Native Modules for React Native Android](https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d#.apuxx58p9)||||
 | [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/) | | | |
+| [Building the custom Android module for React Native](https://medium.com/@sriraman2/building-the-custom-android-module-for-react-native-4317d8e6c31d#.h8vlutt61) | | | |
 
 ### Navigation
 | Title | Type | Resource Rating | Description |
