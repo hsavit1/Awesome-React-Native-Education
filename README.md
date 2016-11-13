@@ -136,8 +136,9 @@
 ### Styling 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [React Native CSS](https://github.com/sabeurthabti/react-native-css) | | | Style React-Native components with css and built in support for SASS/SCSS |
+| [React Native CSS](https://github.com/sabeurthabti/react-native-css) | Github | | Style React-Native components with css and built in support for SASS/SCSS |
 | [Applying Basic Styles in React Native](https://egghead.io/lessons/react-applying-basic-styles-in-react-native)||||
+| [Tachyons](https://github.com/tachyons-css/react-native-style-tachyons) | Github | | |
 
 ### Animation
 | Title | Type | Resource Rating | Description |
@@ -331,10 +332,11 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Awesome Redux / React Native](https://github.com/xgrommx/awesome-redux) | | | |
-| [React Naive Redux Video Demo](https://www.youtube.com/watch?v=Ola8U-SpL6U) | | | |
+| [React Redux Links](https://github.com/markerikson/react-redux-links) | Github | | Resource to get started with React and Redux |
 | [React Native with Redux](https://medium.com/@jonlebensold/getting-started-with-react-native-redux-2b01408c0053#.779ous60t), [video class](https://www.youtube.com/playlist?list=PLk083BmAphjtGWyZUuo1BiCS_ZAgps6j5) [code](https://github.com/jlebensold/peckish) | | | |
 | [Using React (-Native) with Redux and Redux-Saga. A new proposal?](https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.41s5g6i2s) | | | |
 | [Introduction to React Native & Redux](http://www.slideshare.net/barakcohen1/introduction-to-react-native-redux) | | | |
+| [RN-NavigationExperimental-Redux-Example](https://github.com/jlyman/RN-NavigationExperimental-Redux-Example) ||||
 
 ### MobX
 | Title | Type | Resource Rating | Description |
@@ -481,6 +483,7 @@
 | [Building an iOS Geolocation Travel App with React Native](https://www.codementor.io/ios/tutorial/build-ios-geolocation-app-react-native) | | | |
 | [Building the F8 2016 App](http://makeitopen.com/) | Blog | | |
 | [React Native Workshop](https://rangle-io.gitbooks.io/react-native-workshop/content/) | Gitbook | ★★★★★ | Short online book walkthrough of react native |
+| [React Native Tutorial Series](https://www.kobkrit.com/category/programming/react-native/) | Slides | | Covers a very wide range of topics, including Realm |
 
 ### Video Tutorials
 | Title | Type | Resource Rating | Description |
