@@ -369,6 +369,8 @@
 ### Exponent
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [Exponent Repository](https://github.com/exponentjs/exponent) | Github | | |
+| [Awesome Exponent](https://github.com/exponentjs/awesome-exponent) | Github | | |
 | [Introduction to Exponent](https://docs.getexponent.com/versions/v10.0.0/introduction/index.html) | | | |
 | [Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
 | [Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
