@@ -77,22 +77,10 @@
 | [Swift to React Native](https://www.dropbox.com/s/xg53fjyzrogxji9/UIKonf.pdf?dl=0) | | | |
 | [Invoke Any Native API Directly From Pure Javascript in React Native](https://medium.com/@talkol/invoke-any-native-api-directly-from-pure-javascript-in-react-native-1fb6afcdf57d#.qbel10t3i) | | | |
 | [Jeremy Grancher - React Native Custom Components](https://www.youtube.com/watch?v=ykep4C_uXCE), [slides](http://www.slideshare.net/JeremyGrancher/react-native-custom-components) | | | |
-
-### Integration into Native Apps
-| Title | Type | Resource Rating | Description |
-| :------------ |:---------------:| :---------------:| :-----|
 | [React Native Tutorial: Integrating in an Existing App](https://www.raywenderlich.com/136047/react-native-existing-app) | | | |
 | [Creating a Swift-ReactNative project](https://gist.github.com/boopathi/27d21956fefcb5b168fe) | | | |
 | [Integrating React Native with an Existing App](https://corbt.com/posts/2015/09/18/integrating-react-native-with-an-existing-app.html) | | | |
-
-### iOS
-| Title | Type | Resource Rating | Description |
-| :------------ |:---------------:| :---------------:| :-----|
 | [Custom iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html) | | | |
-
-### Android
-| Title | Type | Resource Rating | Description |
-| :------------ |:---------------:| :---------------:| :-----|
 | [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0) | | | |
 | [React Native for Android](https://speakerdeck.com/obishop/react-native-for-android) | | | |
 | [Handling Android Back Button Events in React Native with Custom Components](https://medium.com/the-many/handling-android-back-button-events-in-react-native-with-custom-components-b33c63b0633b#.vpfh7ww5r) | | | |
@@ -101,7 +89,7 @@
 | [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/) | | | |
 | [Building the custom Android module for React Native](https://medium.com/@sriraman2/building-the-custom-android-module-for-react-native-4317d8e6c31d#.h8vlutt61) | | | |
 
-### Navigation
+### Navigation and Routing
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Navigation in React Native: Examining and Understanding the Options](http://slides.com/dabit3/comprehensive-navigation-in-react-native-10#/) | Slides | ★★★★★| Really great talk highlighting most of the options for navigation in React Native|
@@ -114,10 +102,6 @@
 | [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
 | [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme | 
 | [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
-
-### Modal Views
-| Title | Type | Resource Rating | Description |
-| :------------ |:---------------:| :---------------:| :-----|
 | [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
 
 ### Flexbox Model
@@ -140,6 +124,7 @@
 | [React Native CSS](https://github.com/sabeurthabti/react-native-css) | Github | | Style React-Native components with css and built in support for SASS/SCSS |
 | [Applying Basic Styles in React Native](https://egghead.io/lessons/react-applying-basic-styles-in-react-native)||||
 | [Tachyons](https://github.com/tachyons-css/react-native-style-tachyons) | Github | | |
+| [Detecting Device Orientation in React Native](https://corbt.com/posts/2016/03/16/detecting-orientation-in-react-native.html) | Blog | | |
 
 ### Animation
 | Title | Type | Resource Rating | Description |
@@ -275,6 +260,7 @@
 | [Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/) | | | |
 | [React Native Internals: A Wider Picture (Part 1: MessageQueue & JS Thread)](https://medium.com/@rotemmiz/react-native-internals-a-wider-picture-part-1-messagequeue-js-thread-7894a7cba868#.4eef547de) | | | |
 | [Debugging React Native Performance: Snoopy and the MessageQueue](https://medium.com/@jondot/debugging-react-native-performance-snoopy-and-the-messagequeue-fe014cd047ac#.7k80oeg1e) | Blog | | |
+
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
@@ -322,6 +308,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [What we learned after using React Native for a year](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp) | Blog | | Good look at what worked and what didn't work in React Native from this company |
 | [10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/) | Slides | ★★★★ | Some good tips from the Delivery.com team. Comes with code samples |
+| [React Native in Production](https://speakerdeck.com/mariostallone/react-native-in-production) | Slides | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
