@@ -20,6 +20,7 @@
 | [StackOverflow](http://stackoverflow.com/questions/tagged/react-native) | | | |
 | [Discord](https://discordapp.com/invite/0ZcbPKXt5bZjGY5n) | | | |
 | [React Native Wiki](https://github.com/facebook/react-native/wiki/Roadmap) | | | Has a roadmap section to show the future of react native development |
+| [Use React Native Website](http://www.reactnative.com/) | Website | | Website works similarly to this project |
 
 ### Cheat Sheets
 | Title | Type | Resource Rating | Description |
@@ -117,6 +118,7 @@
 | [The ultimate flexbox cheatsheet](http://www.sketchingwithcss.com/samplechapter/cheatsheet.html) | | | |
 | [The complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | | | |
 | [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.rws64w9ws) | | | |
+| [Universal css-in-js media queries for React Native and React](https://github.com/tuckerconnelly/uranium) | Github | | Adds media-query support to css-in-js in React Native and React.|
 
 ### Styling 
 | Title | Type | Resource Rating | Description |
@@ -206,11 +208,6 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works) | | | |
 | [A cure for relative requires in React Native](https://blog.callstack.io/a-cure-for-relative-requires-in-react-native-2b263cecf0f6#.spbsio3pd) | | | |
-
-### Tooling 
-| Title | Type | Resource Rating | Description |
-| :------------ |:---------------:| :---------------:| :-----|
-| [Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY), [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native) | | | |
 
 ### Testing
 | Title | Type | Resource Rating | Description |
@@ -420,6 +417,8 @@
 | [React Native Dev Tools](https://speakerdeck.com/cmcewen/react-native-dev-tools) | | | |
 | [Reactotron](https://github.com/reactotron/reactotron) | | | A CLI and OS X app for inspecting your React JS and React Native apps. |
 | [Linting React Native](https://medium.com/pvtl/linting-for-react-native-bdbb586ff694#.ex9dq2cbs) | Blog | | | 
+| [Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY), [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native) | | | |
+| [Remote Redux DevTools monitor on React Native Debugger](https://github.com/jhen0409/remote-redux-devtools-on-debugger) | Github | | | 
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
