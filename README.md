@@ -104,6 +104,7 @@
 | [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme | 
 | [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
 | [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
+| [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9)| | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
