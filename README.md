@@ -38,7 +38,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [awesomereact.com](awesomereact.com) | Website | ★★★★★ | Bunch of really good videos to get you going with React |
-| [Awesome React Native](https://github.com/jondot/awesome-react-native) | Github | ★★★ | the original Awesome React Native List |
+| [Awesome React Native](https://github.com/jondot/awesome-react-native) | Github |  | the original Awesome React Native List |
 | [React Native Express](http://www.reactnativeexpress.com/) | Website | ★★★★★ | Walkthough tutorial for beginners |
 | [React Native Playground](https://rnplay.org/apps/picks) | Website | ★★★★ | React Native project site. Sometimes doesn't function properly |
 | [React Native Coach](https://js.coach/react-native?sort=popular) | Website | ★★★ | List of Useful React Native Components to get you started |
@@ -179,7 +179,6 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Making Network Requests](https://codecookbook.co/post/how-to-make-network-requests-in-react-native/) | | | Video / written tutorial of how to make network requests |
-| [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU) | | | |
 | [Interacting with APIs Using React Native Fetch](https://medium.com/@yoniweisbrod/interacting-with-apis-using-react-native-fetch-9733f28566bb#.4vcwg2blc) | | | |
 | [Make HTTP Requests In iOS With React Native](https://www.thepolyglotdeveloper.com/2015/09/make-http-requests-in-ios-with-react-native/)||||
 
@@ -322,6 +321,7 @@
 | [Using React (-Native) with Redux and Redux-Saga. A new proposal?](https://medium.com/@marcelschulze/using-react-native-with-redux-and-redux-saga-a-new-proposal-ba71f151546f#.41s5g6i2s) | | | |
 | [Introduction to React Native & Redux](http://www.slideshare.net/barakcohen1/introduction-to-react-native-redux) | | | |
 | [RN-NavigationExperimental-Redux-Example](https://github.com/jlyman/RN-NavigationExperimental-Redux-Example) ||||
+| [react-native-redux](https://github.com/sibelius/react-native-redux) | Github | | Just a starter code to use redux and react-native with Login |
 
 ### MobX
 | Title | Type | Resource Rating | Description |
@@ -329,6 +329,19 @@
 | [React Native MobX Project]() | | | Make your app reactive with MobX and react-native-router-flux |
 | [React Native with MobX — Getting Started](https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44#.h41ms9ob7), [code](https://github.com/dabit3/react-native-mobx-list-app) | | | |
 | [A React-Native app to remote control Google Play Music Desktop](https://github.com/GPMDP/google-play-music-desktop-remote)  | | | |
+
+### GraphQL
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Using GraphQL Inside a React Native App](https://voice.kadira.io/using-graphql-inside-a-react-native-app-763ab54df28a#.pztyucp7w) | Blog | | |
+| [React Native with Apollo](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.v1swgblif) | Blog | | |
+
+### Relay 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU) | | | |
+| [ExNavRelay](https://github.com/sibelius/ExNavRelay) | Github | | Example of integrating ex-navigation with Relay |
+| [react-native-relay-example](https://github.com/sibelius/react-native-relay-example) | Github | | React Native with Relay example |
 
 ### Realm 
 | Title | Type | Resource Rating | Description |
@@ -366,12 +379,6 @@
 | :------------ |:---------------:| :---------------:| :-----|
 |[react-native-google-signin](https://github.com/devfd/react-native-google-signin) | | | Google Signin for your react native applications |
 |[Authenticate React Native - iOS with Firebase API](https://auth0.com/authenticate/react-native-ios/firebase) | | | |
-
-### GraphQL
-| Title | Type | Resource Rating | Description |
-| :------------ |:---------------:| :---------------:| :-----|
-|[Using GraphQL Inside a React Native App](https://voice.kadira.io/using-graphql-inside-a-react-native-app-763ab54df28a#.pztyucp7w) | Blog | | |
-|[React Native with Apollo](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.v1swgblif) | Blog | | |
 
 ### Extra APIs
 | Title | Type | Resource Rating | Description |
