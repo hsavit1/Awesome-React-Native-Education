@@ -128,6 +128,7 @@
 | [Applying Basic Styles in React Native](https://egghead.io/lessons/react-applying-basic-styles-in-react-native)||||
 | [Tachyons](https://github.com/tachyons-css/react-native-style-tachyons) | Github | | |
 | [Detecting Device Orientation in React Native](https://corbt.com/posts/2016/03/16/detecting-orientation-in-react-native.html) | Blog | | |
+| [transform-origin support](https://github.com/facebook/react-native/issues/1964) | Github Post | | Do Views have an equivalent of the CSS property transform-origin? |
 
 ### Animation
 | Title | Type | Resource Rating | Description |
