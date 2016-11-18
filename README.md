@@ -463,6 +463,7 @@
 | [React Native: Are we there yet?](https://www.youtube.com/watch?v=rahrrfJIh9s), [slides](https://speakerdeck.com/roman01la/react-native-are-we-there-yet-pokemon-edition-at-vinnytsiajs-16) | | | |
 | [Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be), [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | Youtube + slides | ★★ | |
 | [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | | | |
+| [React Bratislava Meetup Nov 18 2016](https://www.youtube.com/watch?v=MmhnxDhP8js) | Youtube | | | 
 
 ### Tutorials
 | Title | Type | Resource Rating | Description |
@@ -495,6 +496,7 @@
 | [Build Apps With React Native Tutorial](https://www.youtube.com/playlist?list=PLiV1ABgfs8JJEqd6LGULJ3k3sdDAUVUiw) | | | 34 free Youtube Videos |
 | [React Native Quickly](http://node.university/p/react-native-quickly) | | | |
 | [React Native Beginner](https://www.youtube.com/playlist?list=PL7D-0n1z1EbgAoLu1n5wjcMLDDAQqXOMw) | | | |
+| [Daily Drip](https://www.dailydrip.com/topics/react-native/) | Video Classes | | |
 
 ### Sample Apps
 | Title | Type | Resource Rating | Description |
