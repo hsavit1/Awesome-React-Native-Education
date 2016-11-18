@@ -129,6 +129,8 @@
 | [Tachyons](https://github.com/tachyons-css/react-native-style-tachyons) | Github | | |
 | [Detecting Device Orientation in React Native](https://corbt.com/posts/2016/03/16/detecting-orientation-in-react-native.html) | Blog | | |
 | [transform-origin support](https://github.com/facebook/react-native/issues/1964) | Github Post | | Do Views have an equivalent of the CSS property transform-origin? |
+| [Integrated Layout in React Fiber](https://www.youtube.com/watch?v=aV1271hd9ew#t=28m51s) | Youtube | | Short thing about how the integrated layout will affect the way we style react components | 
+| [React JS Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY) | Youtube | | |
 
 ### Animation
 | Title | Type | Resource Rating | Description |
@@ -371,10 +373,12 @@
 | [Exponent Repository](https://github.com/exponentjs/exponent) | Github | | |
 | [Awesome Exponent](https://github.com/exponentjs/awesome-exponent) | Github | | |
 | [Introduction to Exponent](https://docs.getexponent.com/versions/v10.0.0/introduction/index.html) | | | |
+| [Exponent explained in 2 minutes](https://www.youtube.com/watch?v=IQI9aUlouMI) | Youtube | | |
 | [Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
 | [Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
 | [Exponent Talks: Brent's "Introduction to Exponent"](https://www.youtube.com/watch?v=7lZtV-rIAmY) | Youtube | | At our first user community meetup, Brent gives an intro to Exponent and a quick tour of basics like building a feature and pushing updates. |
 | [Using React Native UI toolkits with Exponent](https://blog.getexponent.com/using-react-native-ui-toolkits-with-exponent-3993434caf66#.ck84zuicr) | | | |
+| [Hello Exponent: A Hands-On Tutorial](https://www.youtube.com/watch?v=ITX8NmQaW6Q) | Youtube | |  |
 
 ### Authentication
 | Title | Type | Resource Rating | Description |
