@@ -46,7 +46,7 @@
 - [AWS](#aws)
 - [Starters](#starters)
 - [Dev Tools](#dev-tools)
-- [Code Push](#code-push)
+- [Code Push](#codepush)
 - [Continuous Integration / Deployment / Delivery](#continuous-integration-/-delivery-/-deployment)
 - [Talks](#talks)
 - [Tutorials](#tutorials)
@@ -161,6 +161,7 @@
 | [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
 | [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
 | [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9)| | | |
+| [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
@@ -282,6 +283,8 @@
 | [Test driving React Native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) | | | |
 | [Automated UI Testing with React Native on iOS](http://blog.xebia.com/automated-ui-testing-with-react-native-on-ios/) | Blog | | |
 | [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
+| [React Native Mock](https://github.com/RealOrangeOne/react-native-mock) | Github | | A fully mocked and test-friendly version of react native |
+| [Testing React Native and Redux](https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178#.oy2vojoid) | | | |
 
 ### Debugging
 | Title | Type | Resource Rating | Description |
@@ -316,6 +319,7 @@
 | [Dive into React Native performance](https://code.facebook.com/posts/895897210527114/dive-into-react-native-performance/) | | | |
 | [React Native Internals: A Wider Picture (Part 1: MessageQueue & JS Thread)](https://medium.com/@rotemmiz/react-native-internals-a-wider-picture-part-1-messagequeue-js-thread-7894a7cba868#.4eef547de) | | | |
 | [Debugging React Native Performance: Snoopy and the MessageQueue](https://medium.com/@jondot/debugging-react-native-performance-snoopy-and-the-messagequeue-fe014cd047ac#.7k80oeg1e) | Blog | | |
+| [React Internals](https://zackargyle.github.io/react-internals-slides/#/0?_k=thic0m) | Slides | | Even though this is pretty much only about react, it is too good of a presentation to ignore. Goes into the concepts behind state, reconciliation, syntheticevent, and react fiber  |
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
@@ -371,6 +375,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Lifecycle methods diagram](https://medium.com/@eddychang_86557/react-lifecycle-methods-diagram-38ac92bb6ff1#.d9oj3chbv) | | | |
 | [Awesome React Components](https://github.com/brillout/awesome-react-components) | Github | | A sorted and categorized list of React Components |
+| [Sharing Components Between React and React Native](https://medium.com/@aakashns/sharing-components-between-react-and-react-native-f6ce3713658a#.bc0sy7pp5) | Blog | | |
 
 ### Redux
 | Title | Type | Resource Rating | Description |
@@ -394,7 +399,8 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Using GraphQL Inside a React Native App](https://voice.kadira.io/using-graphql-inside-a-react-native-app-763ab54df28a#.pztyucp7w) | Blog | | |
-| [React Native with Apollo](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.v1swgblif) | Blog | | |
+| [React Native with Apollo](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.v1swgblif) | Blog | | 2 part blog post |
+| [Amazing React Native apps with Apollo React](https://blog.callstack.io/how-to-write-amazing-react-native-applications-with-apollo-react-4dabeec6b317#.r9la3ew5v) | Blog | | |
 
 ### Relay 
 | Title | Type | Resource Rating | Description |
