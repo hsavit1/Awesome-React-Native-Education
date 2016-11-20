@@ -458,6 +458,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [How to fix the initial white flash in your React Native app](https://peterminarik.tumblr.com/post/153039209421/how-to-fix-the-initial-white-flash-in-your-react) | Blog | | |
+| [Thoughts on React Native from an Android engineer's perspective](https://medium.com/@felipecsl/thoughts-on-react-native-from-an-android-engineers-perspective-ea2bea5aa078#.h03oozj3t) | Blog | | Highlights some problems with React Native and Gradle |
 
 ### React Native on the Web
 | Title | Type | Resource Rating | Description |
