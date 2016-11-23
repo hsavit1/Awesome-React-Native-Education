@@ -327,7 +327,7 @@
 | [React Native Meets Async Functions](https://blog.getexponent.com/react-native-meets-async-functions-3e6f81111173#.ud22hv5bi) | | | |
 | [ES7 Async / await with React Native](https://medium.com/front-end-hacking/es7-async-await-with-react-native-35ca167cc326#.sily8n4om) | | | |
 | [Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.egfxz95m0) | Blog | | |
-| [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) | | | |
+| [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) | Youtube | | |
 
 ### Dependencies 
 | Title | Type | Resource Rating | Description |
@@ -445,8 +445,9 @@
 ### Authentication
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-|[react-native-google-signin](https://github.com/devfd/react-native-google-signin) | | | Google Signin for your react native applications |
-|[Authenticate React Native - iOS with Firebase API](https://auth0.com/authenticate/react-native-ios/firebase) | | | |
+| [react-native-google-signin](https://github.com/devfd/react-native-google-signin) | | | Google Signin for your react native applications |
+| [Authenticate React Native - iOS with Firebase API](https://auth0.com/authenticate/react-native-ios/firebase) | | | |
+| [The Essential Boilerplate to Authenticate Users on your React-Native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.344mjmqmf)| Blog | | |
 
 ### Extra APIs
 | Title | Type | Resource Rating | Description |
