@@ -188,6 +188,7 @@
 | [transform-origin support](https://github.com/facebook/react-native/issues/1964) | Github Post | | Do Views have an equivalent of the CSS property transform-origin? |
 | [Integrated Layout in React Fiber](https://www.youtube.com/watch?v=aV1271hd9ew#t=28m51s) | Youtube | | Short thing about how the integrated layout will affect the way we style react components | 
 | [React JS Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY) | Youtube | | |
+| [React Native Styled Components](https://github.com/styled-components/styled-components/blob/master/README.md) | Github | | Visual primitives for the component age 💅 |
 
 ### Animation
 | Title | Type | Resource Rating | Description |
