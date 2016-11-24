@@ -212,6 +212,7 @@
 | [react-motion](https://github.com/chenglou/react-motion) | Github | | |
 | [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
 | [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.q5tzhryke) | Blog | | Really informative. Good insight as to how to take advantage of matrix math in your React Native animations |
+| [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrirx transformations. this is a guide to doing that |
 
 ### SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -528,6 +529,7 @@
 | [Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be), [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | Youtube + slides | ★★ | |
 | [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | | | |
 | [React Bratislava Meetup Nov 18 2016](https://www.youtube.com/watch?v=MmhnxDhP8js) | Youtube | | | 
+| [Write-once, run WebRTC anywhere with React Native (Kranky Geek WebRTC 2016)](https://www.youtube.com/watch?v=OT6kwzsQeVc)| Youtube | | Emil walks through his experience using React Native with WebRTC. |
 
 ### Tutorials
 | Title | Type | Resource Rating | Description |
