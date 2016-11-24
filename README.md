@@ -213,6 +213,8 @@
 | [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
 | [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.q5tzhryke) | Blog | | Really informative. Good insight as to how to take advantage of matrix math in your React Native animations |
 | [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrirx transformations. this is a guide to doing that |
+| [Matrix 3D Syntax](http://tympanus.net/codrops/css_reference/matrix3d/) | | | |
+| [Matrix 2D Transforms](http://stackoverflow.com/questions/21469502/how-do-i-use-the-matrix-transform-and-other-transform-css-properties) | | | |
 
 ### SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -497,6 +499,7 @@
 | [Linting React Native](https://medium.com/pvtl/linting-for-react-native-bdbb586ff694#.ex9dq2cbs) | Blog | | | 
 | [Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY), [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native) | | | |
 | [Remote Redux DevTools monitor on React Native Debugger](https://github.com/jhen0409/remote-redux-devtools-on-debugger) | Github | | | 
+| [RN Diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another. 🚀 | 
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
