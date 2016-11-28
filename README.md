@@ -59,8 +59,8 @@
 ### Official Documentation
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [React Native Website](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The offical React Native Docs and reference aka the good shit. Your primary reference for everything |
-| [React](https://facebook.github.io/react/docs/hello-world.html) | Webite | ★★★★★ | The official React Docs. Use to learn React |
+| [React Native Website](http://facebook.github.io/react-native/docs/getting-started.html) | Website | ★★★★★ | The official React Native Docs and reference aka the good shit. Your primary reference for everything |
+| [React](https://facebook.github.io/react/docs/hello-world.html) | Website | ★★★★★ | The official React Docs. Use to learn React |
 | [Redux](http://redux.js.org/) | Gitbook | ★★★★★ | Read this to learn Redux |
 
 ### Community 
@@ -95,7 +95,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [awesomereact.com](awesomereact.com) | Website | ★★★★★ | Bunch of really good videos to get you going with React |
 | [Awesome React Native](https://github.com/jondot/awesome-react-native) | Github |  | the original Awesome React Native List |
-| [React Native Express](http://www.reactnativeexpress.com/) | Website | ★★★★★ | Walkthough tutorial for beginners |
+| [React Native Express](http://www.reactnativeexpress.com/) | Website | ★★★★★ | Walkthrough tutorial for beginners |
 | [React Native Playground](https://rnplay.org/apps/picks) | Website | ★★★★ | React Native project site. Sometimes doesn't function properly |
 | [React Native Coach](https://js.coach/react-native?sort=popular) | Website | ★★★ | List of Useful React Native Components to get you started |
 
@@ -114,9 +114,9 @@
 | [React Native - Introductory Tutorial](http://www.slideshare.net/scottcrespo/react-native-introductory-tutorial) | | | |
 | [React Symposium](http://www.slideshare.net/cpjolicoeur/react-native-64166287) | | | |
 | A Tour of React Native [part 1](https://shift.infinite.red/a-tour-of-react-native-part-1-the-visuals-7822f48151f6#.j9n9z7558) [part 2](https://shift.infinite.red/a-tour-of-react-native-part-2-redux-friends-4fed022aaa1e#.22lh3x96o) | Blog | ★★★★★ | Overview of everything in react native and all the major technologies that you should be aware of |
-| [Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU) | Youtube | | Good vid to watch if youre totally new and have no time. Highlights then painpoints of native dev and the good points of RN dev |
+| [Why React Native Is Such A Big Deal](https://www.youtube.com/watch?v=CAc_PAbJkVU) | Youtube | | Good vid to watch if you're totally new and have no time. Highlights then painpoints of native dev and the good points of RN dev |
 | [React Native as an extension of Hybrid](http://blog.rangle.io/react-native-as-an-extension-of-hybrid/) | Blog | | Blog post about how building apps with React Native is a similar experience to building web apps |
-| [From React web to native mobile: mapping out the unknown unknowns - Brent Vatne - Reactive 2015](https://www.youtube.com/watch?v=-XxSCi8TKuk) | Youtube | ★★★★★ | Mobile is different from web because... Higher Expectations + More Constraints + More APIS. Brent Vatne discusses the differences between mobile and web, why RN, animations with Animated, Navigation and navigation transitions with the Navigator API, the facebook app, fast and reponsive animations, listview performance optimizations, interaction managers, rasterization, tracking down performance bottlenecks, using the built in react native performance profiler, memory leaks, connectivity, keyboards, status bars, multi-threading, execution states, and much more in this 1 hour talk |
+| [From React web to native mobile: mapping out the unknown unknowns - Brent Vatne - Reactive 2015](https://www.youtube.com/watch?v=-XxSCi8TKuk) | Youtube | ★★★★★ | Mobile is different from the web because... Higher Expectations + More Constraints + More APIS. Brent Vatne discusses the differences between mobile and web, why RN, animations with Animated, Navigation and navigation transitions with the Navigator API, the facebook app, fast and responsive animations, listview performance optimizations, interaction managers, rasterization, tracking down performance bottlenecks, using the built in react native performance profiler, memory leaks, connectivity, keyboards, status bars, multi-threading, execution states, and much more in this 1 hour talk |
 
 ### Bridging into Native Codebases
 | Title | Type | Resource Rating | Description |
@@ -195,7 +195,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native’s LayoutAnimation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.mxb0zkyt1) | Blog | | |
 | [Splash Screen on Android](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.ba1ev3e2t) | Blog | | |
-| [React Native Animations](http://blog.huynh.io/2015/08/06/react-native-animations/) | Blog | | a how to guide on how to use animations in React Native |
+| [React Native Animations](http://blog.huynh.io/2015/08/06/react-native-animations/) | Blog | | a how-to guide on how to use animations in React Native |
 | [React Native Animations Using the Animated API](https://medium.com/the-react-native-log/react-native-animations-using-the-animated-api-ebe8e0669fae#.5w48c84db) | Blog | | Getting up and running with React Native Animations |
 | [131 React Animation Examples](https://react.rocks/tag/Animation) | Website | | |
 | [React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox) | Slides | | |
@@ -208,12 +208,12 @@
 | [React Native Animations by Emmett Harper](https://www.youtube.com/watch?v=DrTbHOfCPro) | Video | | Comparing CSS animations to React Native animations and understanding how they work the exact same way. Walkthrough of all of the animation types |
 | [Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API. Also React Motion |
 | [Building apps with physics-based animations](http://blog.differential.com/building-web-apps-with-spring-animations/) | | | |
-| [Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated api can do, shown with a demo |
+| [Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated API can do, shown with a demo |
 | [react-native-animatable](https://github.com/oblador/react-native-animatable)| Github | | Easy to use declarative transitions and a standard set of animations for React Native |
 | [react-motion](https://github.com/chenglou/react-motion) | Github | | |
 | [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
 | [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.q5tzhryke) | Blog | | Really informative. Good insight as to how to take advantage of matrix math in your React Native animations |
-| [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrirx transformations. this is a guide to doing that |
+| [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrix transformations. this is a guide to doing that |
 | [Matrix 3D Syntax](http://tympanus.net/codrops/css_reference/matrix3d/) | | | |
 | [Matrix 2D Transforms](http://stackoverflow.com/questions/21469502/how-do-i-use-the-matrix-transform-and-other-transform-css-properties) | | | |
 
@@ -572,7 +572,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) | Github | ★★★★★ | Curated list of open source React Native Apps |
-| [Awesome React Native Open Source Apps](https://github.com/jondot/awesome-react-native#open-source-apps) | | | Part of the Awesom React Native Repo is a section of open source apps |
+| [Awesome React Native Open Source Apps](https://github.com/jondot/awesome-react-native#open-source-apps) | | | Part of the Awesome React Native Repo is a section of open source apps |
 | [Interesting React-Native projects to learn from](https://android.jlelse.eu/interesting-react-native-projects-to-learn-from-caf6ad1efd1f#.30d5hbcel) | | | |
 
 ### Podcasts
@@ -592,4 +592,4 @@
 | [React Native Quickly Online Book](http://reactnativequickly.com/book/chap01.html#leanpub-auto-why-react-native-is-awesome) | Online Book | ★★★ | Short book to get you familiar with the basics of React Native |
 | [Learning React Native: Building Native Mobile Apps with JavaScript](https://www.amazon.com/gp/product/1491929006/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491929006&linkCode=as2&tag=reacnati-20&linkId=VB4CZXEYO25NZNVM) | Book | ★★★★ | Good book to get started with react native |
 | [React Native in Action](https://www.manning.com/books/react-native-in-action?a_aid=reactnativecom&a_bid=6887c8c9) | MEAP | | |
-| [React Native Animation Book](http://browniefed.com/react-native-animation-book/) | Gitbook | ★★★★★ | The best resource for learning animations in raect native|
+| [React Native Animation Book](http://browniefed.com/react-native-animation-book/) | Gitbook | ★★★★★ | The best resource for learning animations in react native|
