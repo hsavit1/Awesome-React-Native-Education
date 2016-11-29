@@ -15,7 +15,7 @@
 - [SVG and D3](#svg-and-d3)
 - [Gestures](#gestures)
 - [Networking](#networking)
-- [Basic Component Usage](#basic-component-usage)
+- [Basic React Native and Component Usage](#basic-react-native-and-component-usage)
 - [Custom Components and Cool Shit](#custom-components-and-cool-shit)
 - [App Structure](#app-structure)
 - [Testing](#testing)
@@ -248,11 +248,13 @@
 | [Interacting with APIs Using React Native Fetch](https://medium.com/@yoniweisbrod/interacting-with-apis-using-react-native-fetch-9733f28566bb#.4vcwg2blc) | | | |
 | [Make HTTP Requests In iOS With React Native](https://www.thepolyglotdeveloper.com/2015/09/make-http-requests-in-ios-with-react-native/)||||
 
-### Basic Component Usage
+### Basic React Native and Component Usage
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Basics: How to Use the ListView Component](https://medium.com/differential/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.f08p3vvq4) | | | |
 | [ListView grid in React Native](http://stackoverflow.com/questions/29394297/listview-grid-in-react-native?rq=1) | | | |
+| [React Native ListView with Section Headers](https://medium.com/@darylrowland/reactnative-listview-with-section-headers-99a6714282c3#.86geurem9) | Blog | | |
+| [React Native’s Context Dilemma](https://medium.com/the-react-native-log/react-natives-context-dilemma-4147ecce2646#.xppq448ka) | Blog | | |
 
 ### Custom Components and Cool Shit
 | Title | Type | Resource Rating | Description |
@@ -347,6 +349,7 @@
 | [How To Use ES6 Arrow Functions With React Native](http://moduscreate.com/how-to-use-es6-arrow-functions-with-react-native/) | | | |
 | [ES7 Decorators](http://blog.lum.pe/gesture-detection-in-react-native/) | Blog | | Post discusses using ES7 decorators for higher order components |
 | [6 Ways to Bind JavaScript’s this Keyword in React, ES6 & ES7](https://www.sitepoint.com/bind-javascripts-this-keyword-react/) | | | |
+| [Goodbye ../../../ Removing relative paths when importing](http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html) | Blog | | |
 
 ### Javascript Core 
 | Title | Type | Resource Rating | Description |
@@ -508,6 +511,7 @@
 | [Solving a Tooling Problem For React Native](https://www.youtube.com/watch?v=iF6lNtqFLKY), [slides](https://speakerdeck.com/reactamsterdam/wroclaw-solving-a-tooling-problem-for-react-native) | | | |
 | [Remote Redux DevTools monitor on React Native Debugger](https://github.com/jhen0409/remote-redux-devtools-on-debugger) | Github | | | 
 | [RN Diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another. 🚀 | 
+| [Getting ESLint Right in React Native](https://medium.com/the-react-native-log/getting-eslint-right-in-react-native-bd27524cc77b#.qoefc37lm) | Blog | | |
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
