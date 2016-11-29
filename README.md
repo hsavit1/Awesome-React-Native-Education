@@ -177,6 +177,7 @@
 | [The complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | | | |
 | [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.rws64w9ws) | | | |
 | [Universal css-in-js media queries for React Native and React](https://github.com/tuckerconnelly/uranium) | Github | | Adds media-query support to css-in-js in React Native and React.|
+| [Common React Native App Layouts](https://code.tutsplus.com/series/common-react-native-app-layouts--cms-1113) | Blog | | |
 
 ### Styling 
 | Title | Type | Resource Rating | Description |
@@ -188,7 +189,7 @@
 | [transform-origin support](https://github.com/facebook/react-native/issues/1964) | Github Post | | Do Views have an equivalent of the CSS property transform-origin? |
 | [Integrated Layout in React Fiber](https://www.youtube.com/watch?v=aV1271hd9ew#t=28m51s) | Youtube | | Short thing about how the integrated layout will affect the way we style react components | 
 | [React JS Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY) | Youtube | | |
-| [React Native Styled Components](https://github.com/styled-components/styled-components/blob/master/README.md) | Github | | Visual primitives for the component age 💅 |
+| [React Native Styled Components](https://github.com/styled-components/styled-components/blob/master/README.md) , [video](https://www.youtube.com/watch?v=jaqDA7Btm3c) | Github | | Visual primitives for the component age 💅 |
 
 ### Animation
 | Title | Type | Resource Rating | Description |
@@ -373,6 +374,7 @@
 | [What we learned after using React Native for a year](https://hashnode.com/post/what-we-learned-after-using-react-native-for-a-year-civdr8zv6058l3853wqud7hqp) | Blog | | Good look at what worked and what didn't work in React Native from this company |
 | [10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/) | Slides | ★★★★ | Some good tips from the Delivery.com team. Comes with code samples |
 | [React Native in Production](https://speakerdeck.com/mariostallone/react-native-in-production) | Slides | | |
+| [What I learned from building my first React Native App](http://cmichel.io/lessons-from-building-first-react-native-app) | Blog | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
@@ -479,6 +481,11 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Elm Native UI](https://github.com/ohanhi/elm-native-ui) | Github | | |
+
+### FSharp
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Fable React Bindings](https://github.com/fable-compiler/fable-react) | Github | | |
 
 ### AWS 
 | Title | Type | Resource Rating | Description |
