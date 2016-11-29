@@ -93,7 +93,7 @@
 ### Great Sites
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [awesomereact.com](awesomereact.com) | Website | ★★★★★ | Bunch of really good videos to get you going with React |
+| [awesomereact.com](https://www.awesomereact.com/) | Website | ★★★★★ | Bunch of really good videos to get you going with React |
 | [Awesome React Native](https://github.com/jondot/awesome-react-native) | Github |  | the original Awesome React Native List |
 | [React Native Express](http://www.reactnativeexpress.com/) | Website | ★★★★★ | Walkthrough tutorial for beginners |
 | [React Native Playground](https://rnplay.org/apps/picks) | Website | ★★★★ | React Native project site. Sometimes doesn't function properly |
