@@ -24,6 +24,7 @@
 - [Optimizing and Performance](#optimizing-and-performance)
 - [Async and Middleware](#async-and-middleware)
 - [Dependencies](#dependencies)
+- [Asset Management](#asset-management)
 - [Javascript](#javascript)
 - [Javascript Core](#javascript-core)
 - [Push Notifications](#push-notifications)
@@ -275,6 +276,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works) | | | |
 | [A cure for relative requires in React Native](https://blog.callstack.io/a-cure-for-relative-requires-in-react-native-2b263cecf0f6#.spbsio3pd) | | | |
+| [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0#.iarvqulpb) | Blog | | |
 
 ### Testing
 | Title | Type | Resource Rating | Description |
@@ -341,6 +343,11 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [How to create a React Native project using Yarn](http://stackoverflow.com/questions/40011693/how-to-create-react-native-project-using-yarn) | | | |
 | [Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.u2y9u5x5j)||||
+
+### Asset Management 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Add fonts on React Native](https://medium.com/@thomasfoster90/add-fonts-on-react-native-ba25ef53c20#.af2sosegd) | Blog | | |
 
 ### Javascript
 | Title | Type | Resource Rating | Description |
