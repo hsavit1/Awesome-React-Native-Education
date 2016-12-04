@@ -44,6 +44,8 @@
 - [React Native on the Web](#react-native-on-the-web)
 - [Clojurescript](#clojurescript)
 - [Elm](#elm)
+- [FSharp](#fsharp)
+- [Golang](#golang)
 - [AWS](#aws)
 - [Starters](#starters)
 - [Dev Tools](#dev-tools)
@@ -163,6 +165,7 @@
 | [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
 | [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9)| | | |
 | [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
+| [React Native Experimental Navigation with Redux](http://blog.thebakery.io/react-native-experimental-navigation-with-redux/) | | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
@@ -178,7 +181,7 @@
 | [The complete guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | | | |
 | [Understanding React Native flexbox layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.rws64w9ws) | | | |
 | [Universal css-in-js media queries for React Native and React](https://github.com/tuckerconnelly/uranium) | Github | | Adds media-query support to css-in-js in React Native and React.|
-| [Common React Native App Layouts](https://code.tutsplus.com/series/common-react-native-app-layouts--cms-1113) | Blog | | |
+| [Common React Native App Layouts](https://code.tutsplus.com/series/common-react-native-app-layouts--cms-1113) | Blog series | ★★★★★ | Really nice blog, has a few walkthroughs of common app layouts including a login page, a calendar page, and more coming |
 
 ### Styling 
 | Title | Type | Resource Rating | Description |
@@ -348,6 +351,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Add fonts on React Native](https://medium.com/@thomasfoster90/add-fonts-on-react-native-ba25ef53c20#.af2sosegd) | Blog | | |
+| [react-natove-vector-icons](https://github.com/oblador/react-native-vector-icons) | Github | | |
 
 ### Javascript
 | Title | Type | Resource Rating | Description |
@@ -450,6 +454,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Exponent Repository](https://github.com/exponentjs/exponent) | Github | | |
 | [Awesome Exponent](https://github.com/exponentjs/awesome-exponent) | Github | | |
+| [Curated list of awesome react native components on exponent](https://github.com/sonnylazuardi/awponent) | | | |
 | [Introduction to Exponent](https://docs.getexponent.com/versions/v10.0.0/introduction/index.html) | | | |
 | [Exponent explained in 2 minutes](https://www.youtube.com/watch?v=IQI9aUlouMI) | Youtube | | |
 | [Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
@@ -476,6 +481,8 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [How to fix the initial white flash in your React Native app](https://peterminarik.tumblr.com/post/153039209421/how-to-fix-the-initial-white-flash-in-your-react) | Blog | | |
 | [Thoughts on React Native from an Android engineer's perspective](https://medium.com/@felipecsl/thoughts-on-react-native-from-an-android-engineers-perspective-ea2bea5aa078#.h03oozj3t) | Blog | | Highlights some problems with React Native and Gradle |
+| [React Native blank white screen issue (solved)](https://codingislove.com/react-native-blank-white-screen-issue-solved/) | Blog | | |
+| [Easy upgrades, relying on Git](http://facebook.github.io/react-native/blog/2016/12/05/easy-upgrades-processed-by-git.html) | Blog | | |
 
 ### React Native on the Web
 | Title | Type | Resource Rating | Description |
@@ -497,11 +504,17 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Fable React Bindings](https://github.com/fable-compiler/fable-react) | Github | | |
 
+### Golang
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [React Native: Why and How to Build Your Native Code in Go](https://medium.com/@jondot/react-native-why-and-how-to-build-your-native-code-in-go-9fee492f0daa#.yuv06ylpx) | Blog | | |
+
 ### AWS 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [AWS SDK for React Native](https://github.com/awslabs/aws-sdk-react-native)
-| [Go Serverless With React Native and Amazon Web Services](https://colinramsay.co.uk/2016/04/29/go-serverless.html) | | | |
+| [AWS SDK for React Native](https://github.com/awslabs/aws-sdk-react-native) | Github | | |
+| [Go Serverless With React Native and Amazon Web Services](https://colinramsay.co.uk/2016/04/29/go-serverless.html) | Blog | | |
+| [AWS re:Invent 2016: Native, Hybrid and Web patterns with Serverless and AWS Mobile services (MBL404)](https://www.youtube.com/watch?v=zkK8AvZOzb8&feature=youtu.be) | Youtube | | 
 
 ### Starters 
 | Title | Type | Resource Rating | Description |
