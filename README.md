@@ -167,6 +167,7 @@
 | [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
 | [React Native Experimental Navigation with Redux](http://blog.thebakery.io/react-native-experimental-navigation-with-redux/) | | | |
 | [React Native Navigation using NavigationExperimental](https://medium.com/@christossotiriou/react-native-navigation-using-navigationexperimental-aaa59fd37340#.w40ruxeeo) | Blog | | |
+| [React Native Navigation](http://oramind.com/react-native-navigation/#comment-3019731732) | BLog | | Blog post for understanding the Wix React Native Navigation Library |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
