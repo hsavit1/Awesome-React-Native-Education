@@ -166,6 +166,7 @@
 | [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9)| | | |
 | [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
 | [React Native Experimental Navigation with Redux](http://blog.thebakery.io/react-native-experimental-navigation-with-redux/) | | | |
+| [React Native Navigation using NavigationExperimental](https://medium.com/@christossotiriou/react-native-navigation-using-navigationexperimental-aaa59fd37340#.w40ruxeeo) | Blog | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
@@ -389,6 +390,7 @@
 | [10 LESSONS LEARNED BUILDING THE DELIVERY.COM APP FOR ANDROID](http://dcom-rn-android.herokuapp.com/#/) | Slides | ★★★★ | Some good tips from the Delivery.com team. Comes with code samples |
 | [React Native in Production](https://speakerdeck.com/mariostallone/react-native-in-production) | Slides | | |
 | [What I learned from building my first React Native App](http://cmichel.io/lessons-from-building-first-react-native-app) | Blog | | |
+| [Lessons learned from working with React Native](https://blog.z-dev.io/lessons-learned-from-working-with-react-native-ad5969177324#.44qkxu9lv) | Blog | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
@@ -532,6 +534,7 @@
 | [Remote Redux DevTools monitor on React Native Debugger](https://github.com/jhen0409/remote-redux-devtools-on-debugger) | Github | | | 
 | [RN Diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another. 🚀 | 
 | [Getting ESLint Right in React Native](https://medium.com/the-react-native-log/getting-eslint-right-in-react-native-bd27524cc77b#.qoefc37lm) | Blog | | |
+| [react-native-extended-cli](https://github.com/wix/react-native-extended-cli) | Github | | rnx (short for React Native Extended CLI) is a tool you can install via npm and use as a CLI instead of using the react-native CLI. It supports everything the built-in CLI supports plus a bunch of handy tools that will save you time and stress. |
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
