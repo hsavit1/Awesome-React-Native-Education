@@ -24,6 +24,7 @@
 - [Versioning](#versioning)
 - [Optimizing and Performance](#optimizing-and-performance)
 - [Async and Middleware](#async-and-middleware)
+- [Storage and Persistence](#storage-and-persistence)
 - [Dependencies](#dependencies)
 - [Asset Management](#asset-management)
 - [Javascript](#javascript)
@@ -349,6 +350,11 @@
 | [ES7 Async / await with React Native](https://medium.com/front-end-hacking/es7-async-await-with-react-native-35ca167cc326#.sily8n4om) | | | |
 | [Using redux-saga To Simplify Your Growing React Native Codebase](https://shift.infinite.red/using-redux-saga-to-simplify-your-growing-react-native-codebase-2b8036f650de#.egfxz95m0) | Blog | | |
 | [F8 2015 - React Native & Relay: Bringing Modern Web Techniques to Mobile](https://www.youtube.com/watch?v=X6YbAKiLCLU) | Youtube | | |
+
+### Storage and Persistence 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Tackling React Native Storage](https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f#.648ymwkzn) | Blog | | |
 
 ### Dependencies 
 | Title | Type | Resource Rating | Description |
