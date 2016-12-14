@@ -285,6 +285,7 @@
 | [React Native Code Reuse: Architecture that Works](https://speakerdeck.com/aarongreenwald/react-native-code-reuse-architecture-that-works) | | | |
 | [A cure for relative requires in React Native](https://blog.callstack.io/a-cure-for-relative-requires-in-react-native-2b263cecf0f6#.spbsio3pd) | | | |
 | [Organizing a React Native Project](https://medium.com/the-react-native-log/organizing-a-react-native-project-9514dfadaa0#.iarvqulpb) | Blog | | |
+| [How to structure your React Native application using Redux?](https://medium.com/@bosung90/how-to-structure-your-react-native-application-using-redux-aec1677b76ca#.1cwagvyew) | Blog | | |
 
 ### Offline
 | Title | Type | Resource Rating | Description |
@@ -354,7 +355,7 @@
 ### Storage and Persistence 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [Tackling React Native Storage](https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f#.648ymwkzn) | Blog | | |
+| [Tackling React Native Storage](https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f#.648ymwkzn) | Blog | | Good overview of the differences between Realm and AsyncStorage |
 
 ### Dependencies 
 | Title | Type | Resource Rating | Description |
