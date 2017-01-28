@@ -8,7 +8,9 @@
 - [Great Sites](#great-sites)
 - [Overview of React Native](#overview-of-react-native)
 - [Bridging into Native Codebases](#bridging-into-native-codebases)
-- [Navigation and Routing](#navigation-and-routing)
+- [Navigation and Routing Overview](#navigation-and-routing-overview)
+- [Navigation Experimental](#navigation-experimental)
+- [React Native Router Flux](#react-native-router-flux)
 - [Flexbox Model](#flexbox-model)
 - [Styling](#styling)
 - [Animation](#animation)
@@ -151,7 +153,7 @@
 | [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/) | | | |
 | [Building the custom Android module for React Native](https://medium.com/@sriraman2/building-the-custom-android-module-for-react-native-4317d8e6c31d#.h8vlutt61) | | | |
 
-### Navigation and Routing
+### Navigation and Routing Overview
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Navigation in React Native: Examining and Understanding the Options](http://slides.com/dabit3/comprehensive-navigation-in-react-native-10#/) | Slides | ★★★★★| Really great talk highlighting most of the options for navigation in React Native|
@@ -159,18 +161,24 @@
 | [Exploring Navigators in React Native](https://medium.com/@spencer_carli/exploring-navigators-in-react-native-869b6ab47e0f#.qhchjsgco) | | | |
 | [React Native — Which Navigator should I use?](https://medium.com/@dabit3/react-native-what-navigator-should-i-use-2ff59ec2b2d#.szcpi1gry) | | | |
 | [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y) | | | |
+| [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
+
+### Navigation Experimental
 | [React Native Navigator Experimental](https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.499utzrgf) | | | |
 | [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/Navigation.md) | | | |
-| [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
 | [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme | 
-| [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
-| [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
-| [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9)| | | |
-| [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
 | [React Native Experimental Navigation with Redux](http://blog.thebakery.io/react-native-experimental-navigation-with-redux/) | | | |
 | [React Native Navigation using NavigationExperimental](https://medium.com/@christossotiriou/react-native-navigation-using-navigationexperimental-aaa59fd37340#.w40ruxeeo) | Blog | | |
-| [React Native Navigation](http://oramind.com/react-native-navigation/#comment-3019731732) | BLog | | Blog post for understanding the Wix React Native Navigation Library |
 | [React Native NavigationExperimental in Depth](https://medium.com/react-native-training/react-native-navigationexperimental-in-depth-6910b9b0b990#.d5w13omzc) | Blog | | |
+
+### React Native Router Flux
+| [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
+| [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9) | Blog | | |
+
+### Other
+| [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
+| [React Native Navigation](http://oramind.com/react-native-navigation/#comment-3019731732) | BLog | | Blog post for understanding the Wix React Native Navigation Library |
+| [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
@@ -226,6 +234,7 @@
 | [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrix transformations. this is a guide to doing that |
 | [Matrix 3D Syntax](http://tympanus.net/codrops/css_reference/matrix3d/) | | | |
 | [Matrix 2D Transforms](http://stackoverflow.com/questions/21469502/how-do-i-use-the-matrix-transform-and-other-transform-css-properties) | | | |
+| [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567?utm_content=bufferb9fca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
 
 ### SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -264,6 +273,7 @@
 | [ListView grid in React Native](http://stackoverflow.com/questions/29394297/listview-grid-in-react-native?rq=1) | | | |
 | [React Native ListView with Section Headers](https://medium.com/@darylrowland/reactnative-listview-with-section-headers-99a6714282c3#.86geurem9) | Blog | | |
 | [React Native’s Context Dilemma](https://medium.com/the-react-native-log/react-natives-context-dilemma-4147ecce2646#.xppq448ka) | Blog | | |
+| [Building infinite scroll in React Native](http://frontside.io/blog/2016/12/15/building-infinite-scroll-in-react-native.html) | Blog | | |
 
 ### Custom Components and Cool Shit
 | Title | Type | Resource Rating | Description |
@@ -438,6 +448,7 @@
 | [Using GraphQL Inside a React Native App](https://voice.kadira.io/using-graphql-inside-a-react-native-app-763ab54df28a#.pztyucp7w) | Blog | | |
 | [React Native with Apollo](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.v1swgblif) | Blog | | 2 part blog post |
 | [Amazing React Native apps with Apollo React](https://blog.callstack.io/how-to-write-amazing-react-native-applications-with-apollo-react-4dabeec6b317#.r9la3ew5v) | Blog | | |
+| [Learn Apollo: Build GraphQL Apps with React, React Native or Exponent](https://dev-blog.apollodata.com/learn-apollo-build-graphql-apps-with-react-react-native-or-exponent-4787269a4747#.tycw09rem) | Blog | | |
 
 ### Relay 
 | Title | Type | Resource Rating | Description |
