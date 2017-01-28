@@ -29,6 +29,7 @@
 - [Debugging](#debugging)
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Versioning](#versioning)
+- [Configuration](#configuration)
 - [Optimizing and Performance](#optimizing-and-performance)
 - [Async and Middleware](#async-and-middleware)
 - [Storage and Persistence](#storage-and-persistence)
@@ -365,6 +366,11 @@
 | Title | Resource Rating | Type | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd) | | | |
+
+### Configuration
+| Title | Resource Rating | Type | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Managing Configuration in React Native](https://medium.com/differential/managing-configuration-in-react-native-cd2dfb5e6f7b#.p941ytzho) | Blog | | |
 
 ### Optimizing and Performance
 | Title | Type | Resource Rating | Description |
