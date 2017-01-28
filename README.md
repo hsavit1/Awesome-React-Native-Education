@@ -13,7 +13,10 @@
 - [React Native Router Flux](#react-native-router-flux)
 - [Flexbox Model](#flexbox-model)
 - [Styling](#styling)
-- [Animation](#animation)
+- [Animation Overview and Examples](#animation-overview-and-examples)
+- [Layout Animation](#layout-animation)
+- [Animated](#animated)
+- [Other Animations](#other-animations)
 - [SVG and D3](#svg-and-d3)
 - [Gestures](#gestures)
 - [Networking](#networking)
@@ -209,33 +212,40 @@
 | [React JS Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY) | Youtube | | |
 | [React Native Styled Components](https://github.com/styled-components/styled-components/blob/master/README.md) , [video](https://www.youtube.com/watch?v=jaqDA7Btm3c) | Github | | Visual primitives for the component age 💅 |
 
-### Animation
+### Animation Overview and Examples
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [React Native’s LayoutAnimation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.mxb0zkyt1) | Blog | | |
 | [Splash Screen on Android](https://android.jlelse.eu/change-splash-screen-in-react-native-android-app-d3f99ac1ebd1#.ba1ev3e2t) | Blog | | |
 | [React Native Animations](http://blog.huynh.io/2015/08/06/react-native-animations/) | Blog | | a how-to guide on how to use animations in React Native |
-| [React Native Animations Using the Animated API](https://medium.com/the-react-native-log/react-native-animations-using-the-animated-api-ebe8e0669fae#.5w48c84db) | Blog | | Getting up and running with React Native Animations |
 | [131 React Animation Examples](https://react.rocks/tag/Animation) | Website | | |
-| [React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox) | Slides | | |
-| [React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g) | Blog | | |
 | [React Native ❤ 60FPS Improving React Native animations - ReactEurope 2016](https://speakerdeck.com/kmagiera/react-native-60fps-improving-react-native-animations-reacteurope-2016) | Video + Slides | ★★★★ | explanation of the various types of animations in react-native, an understanding of the underlying architecture, and how to achieve 60 FPS scrolling |
 | [Declarative Animations Library for React and React Native](https://github.com/animatedjs/animated) | Github | | |
 | [Animate Your React Native App](https://code.tutsplus.com/tutorials/working-with-animations-in-react-native--cms-27328) | Blog | | |
 | [React Native Animations Done Right](https://medium.com/@7ynk3r/react-native-animations-done-right-d5249cc1ebbf#.rjj6m0epo) | Blog | | |
-| [React-native Animated API Basic Example](http://browniefed.com/blog/react-native-animated-api-basic-example/) | Blog | | |
 | [React Native Animations by Emmett Harper](https://www.youtube.com/watch?v=DrTbHOfCPro) | Video | | Comparing CSS animations to React Native animations and understanding how they work the exact same way. Walkthrough of all of the animation types |
 | [Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API. Also React Motion |
 | [Building apps with physics-based animations](http://blog.differential.com/building-web-apps-with-spring-animations/) | | | |
 | [Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated API can do, shown with a demo |
+| [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.q5tzhryke) | Blog | | Really informative. Good insight as to how to take advantage of matrix math in your React Native animations |
+| [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567?utm_content=bufferb9fca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
+| [Linking Animations to Scroll Position in React Native](https://medium.com/@albert.brand/linking-animations-to-scroll-position-in-react-native-5c55995f5a6e#.9pw92hwjf) | Blog | | A tinder like animation, explained |
+
+### Layout Animation
+| [React Native’s LayoutAnimation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.mxb0zkyt1) | Blog | | |
+
+### Animated 
+| [React Native Animations Using the Animated API](https://medium.com/the-react-native-log/react-native-animations-using-the-animated-api-ebe8e0669fae#.5w48c84db) | Blog | | Getting up and running with React Native Animations |
+| [React-native Animated API Basic Example](http://browniefed.com/blog/react-native-animated-api-basic-example/) | Blog | | |
+| [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
+| [React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox) | Slides | | |
+| [React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g) | Blog | | |
+
+### Other Animations
 | [react-native-animatable](https://github.com/oblador/react-native-animatable)| Github | | Easy to use declarative transitions and a standard set of animations for React Native |
 | [react-motion](https://github.com/chenglou/react-motion) | Github | | |
-| [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
-| [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.q5tzhryke) | Blog | | Really informative. Good insight as to how to take advantage of matrix math in your React Native animations |
 | [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrix transformations. this is a guide to doing that |
 | [Matrix 3D Syntax](http://tympanus.net/codrops/css_reference/matrix3d/) | | | |
 | [Matrix 2D Transforms](http://stackoverflow.com/questions/21469502/how-do-i-use-the-matrix-transform-and-other-transform-css-properties) | | | |
-| [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567?utm_content=bufferb9fca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
 
 ### SVG and D3
 | Title | Type | Resource Rating | Description |
@@ -383,6 +393,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Add fonts on React Native](https://medium.com/@thomasfoster90/add-fonts-on-react-native-ba25ef53c20#.af2sosegd) | Blog | | |
 | [react-natove-vector-icons](https://github.com/oblador/react-native-vector-icons) | Github | | |
+| [Resource Handling in React-Native](https://medium.com/@chrissullivan.dev/resource-handling-in-react-native-3e5b4a2c84ec#.ricwywc2k) | Blog | | |
 
 ### Javascript
 | Title | Type | Resource Rating | Description |
