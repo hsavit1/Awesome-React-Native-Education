@@ -23,6 +23,7 @@
 - [Offline](#offline)
 - [Testing](#testing)
 - [Debugging](#debugging)
+- [Chrome Dev Tools](#chrome-dev-tools)
 - [Versioning](#versioning)
 - [Optimizing and Performance](#optimizing-and-performance)
 - [Async and Middleware](#async-and-middleware)
@@ -325,10 +326,14 @@
 | [Deep Diving React Native Debugging](https://medium.com/@shaheenghiassy/deep-diving-react-native-debugging-ea406ed3a691#.3hwbdbq75) | Blog | ★★★★★ | Beginners tutorial for debugging react native |
 | [Debugging React Native Applications](https://medium.com/reactnativeacademy/debugging-react-native-applications-6bff3f28c375#.i31zsb6fi) | | | |
 | [React Native Android App Memory Investigation](https://shift.infinite.red/react-native-android-app-memory-investigation-55695625da9c#.b42w8t38w) | | | |
-| [Debugging with Global Variables and the Chrome Console in React Native](https://corbt.com/posts/2015/12/19/debugging-with-global-variables-in-react-native.html) | | | |
 | [More Debugging with React Native](https://corbt.com/posts/2016/01/29/more-debugging-with-react-native.html) | | | |
 | [Debugging and Production - React Native at Microsoft](https://youtu.be/1Urj4TZ5BLI?t=6h4m44s) | | | |
+
+### Chrome Dev Tools 
+| [Chrome Dev Tools Homepage](https://developer.chrome.com/devtools) | | | | 
+| [Debugging with Global Variables and the Chrome Console in React Native](https://corbt.com/posts/2015/12/19/debugging-with-global-variables-in-react-native.html) | | | |
 | [Using the Chrome Debugger to Set Breakpoints in React Native](https://egghead.io/lessons/react-using-the-chrome-debugger-to-set-breakpoints-in-react-native) | Video |||
+
 
 ### Versioning 
 | Title | Resource Rating | Type | Description |
