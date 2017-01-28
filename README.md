@@ -229,6 +229,7 @@
 | [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8#.q5tzhryke) | Blog | | Really informative. Good insight as to how to take advantage of matrix math in your React Native animations |
 | [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567?utm_content=bufferb9fca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
 | [Linking Animations to Scroll Position in React Native](https://medium.com/@albert.brand/linking-animations-to-scroll-position-in-react-native-5c55995f5a6e#.9pw92hwjf) | Blog | | A tinder like animation, explained |
+| [Native Animation Example](https://github.com/facebook/react-native/blob/65659293589848bf48ecefe1f89afb4b562c7022/Examples/UIExplorer/js/NativeAnimationsExample.js) | Github | | A example of using the new native animations|
 
 ### Layout Animation
 | [React Native’s LayoutAnimation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.mxb0zkyt1) | Blog | | |
@@ -239,6 +240,7 @@
 | [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
 | [React Rally: Animated -- React Performance Toolbox](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox) | Slides | | |
 | [React Motion and Animated](https://medium.com/@chenglou/react-motion-and-animated-4b3edf671cba#.7wt2e6p3g) | Blog | | |
+| [Support for Native Animations](https://github.com/facebook/react-native/commit/65659293589848bf48ecefe1f89afb4b562c7022) | Github | | | 
 
 ### Other Animations
 | [react-native-animatable](https://github.com/oblador/react-native-animatable)| Github | | Easy to use declarative transitions and a standard set of animations for React Native |
