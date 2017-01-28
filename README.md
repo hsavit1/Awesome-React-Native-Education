@@ -11,6 +11,7 @@
 - [Navigation and Routing Overview](#navigation-and-routing-overview)
 - [Navigation Experimental](#navigation-experimental)
 - [React Native Router Flux](#react-native-router-flux)
+- [Other Navigation Options](#other-navigation-options)
 - [Flexbox Model](#flexbox-model)
 - [Styling](#styling)
 - [Animation Overview and Examples](#animation-overview-and-examples)
@@ -168,6 +169,8 @@
 | [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
 
 ### Navigation Experimental
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [React Native Navigator Experimental](https://medium.com/@dabit3/first-look-react-native-navigator-experimental-9a7cf39a615b#.499utzrgf) | | | |
 | [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc/blob/master/Docs/Navigation.md) | | | |
 | [NavigationExperimental](https://github.com/ericvicenti/navigation-rfc) | Github | | NavigationExperimental Readme | 
@@ -176,10 +179,14 @@
 | [React Native NavigationExperimental in Depth](https://medium.com/react-native-training/react-native-navigationexperimental-in-depth-6910b9b0b990#.d5w13omzc) | Blog | | |
 
 ### React Native Router Flux
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
 | [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9) | Blog | | |
 
-### Other
+### Other Navigation Options
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [Introducting React Router Native](https://commitocracy.com/introducing-react-router-native-b02e76b8ca5d#.xoxdv0ys1) | Blog | | |
 | [React Native Navigation](http://oramind.com/react-native-navigation/#comment-3019731732) | BLog | | Blog post for understanding the Wix React Native Navigation Library |
 | [react-native-animated-modal](https://github.com/mmazzarolo/react-native-animated-modal) | | | |
@@ -232,9 +239,13 @@
 | [Native Animation Example](https://github.com/facebook/react-native/blob/65659293589848bf48ecefe1f89afb4b562c7022/Examples/UIExplorer/js/NativeAnimationsExample.js) | Github | | A example of using the new native animations|
 
 ### Layout Animation
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [React Native’s LayoutAnimation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e#.mxb0zkyt1) | Blog | | |
 
 ### Animated 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [React Native Animations Using the Animated API](https://medium.com/the-react-native-log/react-native-animations-using-the-animated-api-ebe8e0669fae#.5w48c84db) | Blog | | Getting up and running with React Native Animations |
 | [React-native Animated API Basic Example](http://browniefed.com/blog/react-native-animated-api-basic-example/) | Blog | | |
 | [React Native Animated Video Tutorial Egghead](https://egghead.io/lessons/react-animated-timing-and-easing-to-animate-styles-of-a-react-native-view?play=yes) | Video Series | | |
@@ -243,6 +254,8 @@
 | [Support for Native Animations](https://github.com/facebook/react-native/commit/65659293589848bf48ecefe1f89afb4b562c7022) | Github | | | 
 
 ### Other Animations
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [react-native-animatable](https://github.com/oblador/react-native-animatable)| Github | | Easy to use declarative transitions and a standard set of animations for React Native |
 | [react-motion](https://github.com/chenglou/react-motion) | Github | | |
 | [The CSS3 matrix() Transform for the Mathematically Challenged](http://www.useragentman.com/blog/2011/01/07/css3-matrix-transform-for-the-mathematically-challenged/) | Blog | | In react native, there is no support for transform-origin. instead, you can take advantage of the matrix transformations. this is a guide to doing that |
@@ -342,10 +355,11 @@
 | [Debugging and Production - React Native at Microsoft](https://youtu.be/1Urj4TZ5BLI?t=6h4m44s) | | | |
 
 ### Chrome Dev Tools 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [Chrome Dev Tools Homepage](https://developer.chrome.com/devtools) | | | | 
 | [Debugging with Global Variables and the Chrome Console in React Native](https://corbt.com/posts/2015/12/19/debugging-with-global-variables-in-react-native.html) | | | |
 | [Using the Chrome Debugger to Set Breakpoints in React Native](https://egghead.io/lessons/react-using-the-chrome-debugger-to-set-breakpoints-in-react-native) | Video |||
-
 
 ### Versioning 
 | Title | Resource Rating | Type | Description |
