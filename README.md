@@ -52,6 +52,9 @@
 - [Extra APIs](#extra-apis)
 - [Known Bugs](#known-bugs)
 - [React Native on the Web](#react-native-on-the-web)
+- [React Native Windows Platform](#react-native-windows-platfrom)
+- [React Native tvOS](#react-native-tvos)
+- [React Native Amazon Fire](#react-native-amazon-fire)
 - [Clojurescript](#clojurescript)
 - [Elm](#elm)
 - [FSharp](#fsharp)
@@ -554,6 +557,18 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Web](https://github.com/necolas/react-native-web) | Github | | |
+
+### React Native Windows Platform
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+
+### React Native tvOS 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+
+### React Native Amazon Fire
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 
 ### Clojurescript 
 | Title | Type | Resource Rating | Description |
