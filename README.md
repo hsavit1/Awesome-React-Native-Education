@@ -500,6 +500,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Add fonts on React Native](https://medium.com/@thomasfoster90/add-fonts-on-react-native-ba25ef53c20#.af2sosegd) | Blog | | |
+| [How to add and remove custom fonts in React Native](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.yvfp3zed7) | Blog | | |
 | [react-natove-vector-icons](https://github.com/oblador/react-native-vector-icons) | Github | | |
 | [Resource Handling in React-Native](https://medium.com/@chrissullivan.dev/resource-handling-in-react-native-3e5b4a2c84ec#.ricwywc2k) | Blog | | |
 | [fontFamily in React Native](https://medium.com/@blakeworsley/fontfamily-in-react-native-bd933b6cbb20#.v0xiynatl)| | | |
@@ -562,12 +563,14 @@
 | [Awesome React Components](https://github.com/brillout/awesome-react-components) | Github | | A sorted and categorized list of React Components |
 | [Sharing Components Between React and React Native](https://medium.com/@aakashns/sharing-components-between-react-and-react-native-f6ce3713658a#.bc0sy7pp5) | Blog | | |
 | [From ReactJS to React-Native, what are the main differences between both?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24#.nrcqhtgul) | Blog | | |
+| [React Core Notes](https://github.com/reactjs/core-notes/blob/master/2016-12/december-08.md) | | | |
 
 ### React Fiber 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [ReactNative fiber renderer](https://github.com/facebook/react/pull/8560#event-894686849) | Github | | |
 | [React Native Fiber Resources](https://github.com/koba04/react-fiber-resources/blob/master/README.md#try-reactfiber-with-asynchronous-scheduling) | | | |
+| [React Fiber Architecture](https://news.ycombinator.com/item?id=12243269) | Hacker News | | |
 
 ### Redux
 | Title | Type | Resource Rating | Description |
