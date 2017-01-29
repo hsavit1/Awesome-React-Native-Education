@@ -435,6 +435,7 @@
 | [Debug the DOM in Chrome with the Devtools Elements Panel](https://egghead.io/courses/using-chrome-developer-tools-elements) | Egghead| | |
 | [Debug JavaScript in Chrome with DevTool Sources](https://egghead.io/courses/chrome-devtools-sources-panel) | Egghead| | |
 | [Debug HTTP with Chrome DevTools Network Panel](https://egghead.io/courses/chrome-devtools-network-panel) | Egghead | | |
+| [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) | Youtube | | |
 
 ### Versioning and Upgrading
 | Title | Resource Rating | Type | Description |
@@ -467,6 +468,7 @@
 | [Debugging React Native Performance: Snoopy and the MessageQueue](https://medium.com/@jondot/debugging-react-native-performance-snoopy-and-the-messagequeue-fe014cd047ac#.7k80oeg1e) | Blog | | |
 | [React Internals](https://zackargyle.github.io/react-internals-slides/#/0?_k=thic0m) | Slides | | Even though this is pretty much only about react, it is too good of a presentation to ignore. Goes into the concepts behind state, reconciliation, syntheticevent, and react fiber  |
 | [Optimizing React Native: Dynamic Gif Scrolling](https://medium.com/@tommylackemann/optimizing-react-native-dynamic-gif-scrolling-81fc5d132d4d#.uicyfycls) | Blog | | |
+| [React Performance](http://presentations.survivejs.com/react-performance) | Slides | | |
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
@@ -478,6 +480,7 @@
 | [react-native-background-job](https://github.com/vikeri/react-native-background-job) | Blog | | Schedule background jobs in React Native that run your JavaScript when your app is in the background/killed. |
 | [Async Await with React Lifecycle methods](https://medium.com/front-end-hacking/async-await-with-react-lifecycle-methods-802e7760d802#.g6u778o61) | Blog | | |
 | [react-native-workers](https://www.youtube.com/watch?v=NpfDMI48yV0&index=42&list=WL) | Github | | |
+| [React Resolver](https://github.com/ericclemmons/react-resolver) | Github | | Async-rendering & data-fetching for universal React applications |
 
 ### Storage and Persistence 
 | Title | Type | Resource Rating | Description |
@@ -513,6 +516,7 @@
 | [ES7 Decorators](http://blog.lum.pe/gesture-detection-in-react-native/) | Blog | | Post discusses using ES7 decorators for higher order components |
 | [6 Ways to Bind JavaScript’s this Keyword in React, ES6 & ES7](https://www.sitepoint.com/bind-javascripts-this-keyword-react/) | | | |
 | [Goodbye ../../../ Removing relative paths when importing](http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html) | Blog | | |
+| [fat Arrow vS Autobind VS bind();Bind();Bind();Bind();Bind()?](https://www.reddit.com/r/reactjs/comments/54xnao/fat_arrow_vs_autobind_vs_bindbindbindbindbind/d85wj0l/) | Reddit | | |
 
 ### Javascript Core 
 | Title | Type | Resource Rating | Description |
@@ -564,6 +568,8 @@
 | [Sharing Components Between React and React Native](https://medium.com/@aakashns/sharing-components-between-react-and-react-native-f6ce3713658a#.bc0sy7pp5) | Blog | | |
 | [From ReactJS to React-Native, what are the main differences between both?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24#.nrcqhtgul) | Blog | | |
 | [React Core Notes](https://github.com/reactjs/core-notes/blob/master/2016-12/december-08.md) | | | |
+| [React FAQ](https://github.com/timarney/react-faq) | Github | | |
+| [ReactJS in Patterns](https://github.com/krasimir/react-in-patterns) | Github | | |
 
 ### React Fiber 
 | Title | Type | Resource Rating | Description |
@@ -571,6 +577,8 @@
 | [ReactNative fiber renderer](https://github.com/facebook/react/pull/8560#event-894686849) | Github | | |
 | [React Native Fiber Resources](https://github.com/koba04/react-fiber-resources/blob/master/README.md#try-reactfiber-with-asynchronous-scheduling) | | | |
 | [React Fiber Architecture](https://news.ycombinator.com/item?id=12243269) | Hacker News | | |
+| [A glimpse into more obscure Fiber features (NOT a real/public API yet but it works)](https://twitter.com/dan_abramov/status/824344159817527297) | Twitter | | |
+| [React Fiber Slides](https://speakerdeck.com/glennreyes/react-fiber) | Slides | | |
 
 ### Redux
 | Title | Type | Resource Rating | Description |
@@ -753,6 +761,8 @@
 | [react-native-touch-visualizer](https://github.com/zachgibson/react-native-touch-visualizer) | Github | | Visualize touches and drags on React Native apps.|
 
 ### VSCode 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [React Native VSCode](https://www.youtube.com/watch?v=NpfDMI48yV0&index=42&list=WL) | Youtube | | |
 
 ### CodePush 
