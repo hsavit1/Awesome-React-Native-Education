@@ -7,8 +7,10 @@
 - [Docs](#docs)
 - [Great Sites](#great-sites)
 - [Overview of React Native](#overview-of-react-native)
-- [Bridging into Native Codebases](#bridging-into-native-codebases)
+- [Bridging into Native Codebases - iOS](#bridging-into-native-codebases-ios)
+- [Bridging into Native Codebases - Android](#bridging-into-native-codebases-Android)
 - [Navigation and Routing Overview](#navigation-and-routing-overview)
+- [React Navigation](#react-navigation)
 - [Navigation Experimental](#navigation-experimental)
 - [React Native Router Flux](#react-native-router-flux)
 - [Other Navigation Options](#other-navigation-options)
@@ -35,6 +37,7 @@
 - [Optimizing and Performance](#optimizing-and-performance)
 - [Async and Middleware](#async-and-middleware)
 - [Storage and Persistence](#storage-and-persistence)
+- [Local Files](#local-files)
 - [Dependencies and Frameworks](#dependencies-and-frameworks)
 - [Asset Management](#asset-management)
 - [Javascript](#javascript)
@@ -54,7 +57,7 @@
 - [Flow](#flow)
 - [Typescript](#typescript)
 - [Authentication](#aauthentication)
-- [Extra APIs](#extra-apis)
+- [Native APIs](#native-apis)
 - [Known Bugs](#known-bugs)
 - [React Native on the Web](#react-native-on-the-web)
 - [React Native Windows Platform](#react-native-windows-platfrom)
@@ -139,7 +142,7 @@
 | [React Native as an extension of Hybrid](http://blog.rangle.io/react-native-as-an-extension-of-hybrid/) | Blog | | Blog post about how building apps with React Native is a similar experience to building web apps |
 | [From React web to native mobile: mapping out the unknown unknowns - Brent Vatne - Reactive 2015](https://www.youtube.com/watch?v=-XxSCi8TKuk) | Youtube | ★★★★★ | Mobile is different from the web because... Higher Expectations + More Constraints + More APIS. Brent Vatne discusses the differences between mobile and web, why RN, animations with Animated, Navigation and navigation transitions with the Navigator API, the facebook app, fast and responsive animations, listview performance optimizations, interaction managers, rasterization, tracking down performance bottlenecks, using the built in react native performance profiler, memory leaks, connectivity, keyboards, status bars, multi-threading, execution states, and much more in this 1 hour talk |
 
-### Bridging into Native Codebases
+### Bridging into Native Codebases - iOS
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Bridging in React Native](http://tadeuzagallo.com/blog/react-native-bridge/) | Blog | ★★★★★ | An in-depth look into React Native's Core | 
@@ -160,12 +163,17 @@
 | [Integrating React Native with an Existing App](https://corbt.com/posts/2015/09/18/integrating-react-native-with-an-existing-app.html) | | | |
 | [Custom iOS Views with React Native](http://almostobsolete.net/react-native/custom-ios-views-with-react-native.html) | | | |
 | [Writing Android component for React Native](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377#.79oicqcw0) | | | |
+
+### Bridging into Native Codebases - Android
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [React Native for Android](https://speakerdeck.com/obishop/react-native-for-android) | | | |
-| [Handling Android Back Button Events in React Native with Custom Components](https://medium.com/the-many/handling-android-back-button-events-in-react-native-with-custom-components-b33c63b0633b#.vpfh7ww5r) | | | |
 | [One Day with React Native for Android](https://corbt.com/posts/2015/09/16/one-day-with-react-native-for-android.html) | | | |
 | [Native Modules for React Native Android](https://shift.infinite.red/native-modules-for-react-native-android-ac05dbda800d#.apuxx58p9)||||
 | [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/react-native-for-android-how-we-built-the-first-cross-platform-react-native-app/) | | | |
+| [Handling Android Back Button Events in React Native with Custom Components](https://medium.com/the-many/handling-android-back-button-events-in-react-native-with-custom-components-b33c63b0633b#.vpfh7ww5r) | | | |
 | [Building the custom Android module for React Native](https://medium.com/@sriraman2/building-the-custom-android-module-for-react-native-4317d8e6c31d#.h8vlutt61) | | | |
+| [React Native with JNI & C](https://thebhwgroup.com/blog/react-native-jni) | Blog | | |
 
 ### Navigation and Routing Overview
 | Title | Type | Resource Rating | Description |
@@ -177,6 +185,10 @@
 | [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y) | | | |
 | [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
 
+### React Navigation
+| [React Navigation: An Overview of Transitioner and CardStack](http://www.reactnativediary.com/2016/12/20/navigation-experimental-custom-transition-1.html) | Blog | | |
+| [React Navigation: Cross Fade and Android Default Transitions](http://www.reactnativediary.com/2016/12/22/navigation-experimental-custom-transition-2.html) | Blog | | |
+
 ### Navigation Experimental
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
@@ -186,12 +198,14 @@
 | [React Native Experimental Navigation with Redux](http://blog.thebakery.io/react-native-experimental-navigation-with-redux/) | | | |
 | [React Native Navigation using NavigationExperimental](https://medium.com/@christossotiriou/react-native-navigation-using-navigationexperimental-aaa59fd37340#.w40ruxeeo) | Blog | | |
 | [React Native NavigationExperimental in Depth](https://medium.com/react-native-training/react-native-navigationexperimental-in-depth-6910b9b0b990#.d5w13omzc) | Blog | | |
+| [NavigationExperimental Premier: A Simple Recipe](http://www.reactnativediary.com/2016/06/23/navigation-examples-1.html) | Blog | | |
 
 ### React Native Router Flux
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Basics: Using react-native-router-flux](https://medium.com/differential/react-native-basics-using-react-native-router-flux-f11e5128aff9#.7fw7f05yl) | Blog + Youtube series | | |
 | [Tackling React Native navigation with React Native Router Flux and Redux](https://medium.com/@bosung90/tackling-react-native-navigation-with-react-native-router-flux-and-redux-27fcd86fb2b7#.uq6ev98q9) | Blog | | |
+| [Using React-Native-Router-Flux with Redux](https://medium.com/@ian.mundy/using-react-native-router-flux-with-redux-9b10be35cd37#.gditrhb8m) | Blog | | |
 
 ### Other Navigation Options
 | Title | Type | Resource Rating | Description |
@@ -230,6 +244,7 @@
 | [React Native Styled Components](https://github.com/styled-components/styled-components/blob/master/README.md) , [video](https://www.youtube.com/watch?v=jaqDA7Btm3c) | Github | | Visual primitives for the component age 💅 |
 | [React Native Tips and Tricks: Styling in JS](http://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js/) | | | |
 | [Carbon UI](https://carbon-ui.com/) | Github | | Universal Material Design components for React Native and React |
+| [Managing Styles in React Native](https://medium.com/@tommylackemann/managing-styles-in-react-native-3546d3482d73#.mi80r886t) | Blog | | |
 
 ### Animation Overview and Examples
 | Title | Type | Resource Rating | Description |
@@ -350,6 +365,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Renaming a React Native Project](http://blog.tylerbuchea.com/renaming-a-react-native-project/) | Blog | | |
+| [Rename react-native app with just one command](https://github.com/JuneDomingo/react-native-rename) | Github | | |
 
 ### Offline
 | Title | Type | Resource Rating | Description |
@@ -373,6 +389,7 @@
 | [React Native Mock](https://github.com/RealOrangeOne/react-native-mock) | Github | | A fully mocked and test-friendly version of react native |
 | [Testing React Native and Redux](https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178#.oy2vojoid) | | | |
 | [carte-blanche](https://github.com/carteb/carte-blanche) | Github | | An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them. [youtube video](https://www.youtube.com/watch?v=6g3-TQ6aaw8) |
+| [Using Jest with React Native and MobX](https://wietse.loves.engineering/using-jest-with-react-native-and-mobx-34949ea7d2cf#.rw9v63sgx) | Blog | | |
 
 ### Debugging
 | Title | Type | Resource Rating | Description |
@@ -390,6 +407,7 @@
 | [Chrome Dev Tools Homepage](https://developer.chrome.com/devtools) | | | | 
 | [Debugging with Global Variables and the Chrome Console in React Native](https://corbt.com/posts/2015/12/19/debugging-with-global-variables-in-react-native.html) | | | |
 | [Using the Chrome Debugger to Set Breakpoints in React Native](https://egghead.io/lessons/react-using-the-chrome-debugger-to-set-breakpoints-in-react-native) | Video |||
+| [React Native Debugging Using Chrome](https://medium.com/@taufiq_ibrahim/react-native-debugging-using-chrome-4e733466f083#.kpya4kb69) | Blog | | |
 
 ### Versioning 
 | Title | Resource Rating | Type | Description |
@@ -400,6 +418,7 @@
 | Title | Resource Rating | Type | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Managing Configuration in React Native](https://medium.com/differential/managing-configuration-in-react-native-cd2dfb5e6f7b#.p941ytzho) | Blog | | |
+| [react-native-config](https://github.com/luggit/react-native-config) | Github | | Module to expose config variables to your javascript code in React Native, supporting both iOS and Android |
 
 ### Optimizing and Performance
 | Title | Type | Resource Rating | Description |
@@ -434,6 +453,11 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Tackling React Native Storage](https://medium.com/@bosung90/tackling-react-native-storage-part-1-d27b2bfa480f#.648ymwkzn) | Blog | | Good overview of the differences between Realm and AsyncStorage |
+
+### Local Files 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) | Github | | A project committed to make file acess and data transfer easier, efficient for React Native developers. |
 
 ### Dependencies and Frameworks
 | Title | Type | Resource Rating | Description |
@@ -591,11 +615,13 @@
 | [Authenticate React Native - iOS with Firebase API](https://auth0.com/authenticate/react-native-ios/firebase) | | | |
 | [The Essential Boilerplate to Authenticate Users on your React-Native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.344mjmqmf)| Blog | | |
 
-### Extra APIs
+### Native APIs
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Making React Native apps accessible](https://code.facebook.com/posts/435862739941212/making-react-native-apps-accessible/) | | | |
 | [Use The iOS Camera In Your React Native Mobile App](https://www.thepolyglotdeveloper.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/) | | | |
+| [react-native-itunes](https://github.com/kadiks/react-native-itunes#readme) | Github | | Access your iTunes library (iOS only) |
+| [react-native-motion-manager](https://github.com/pwmckenna/react-native-motion-manager) | Github | | CMMotionManager wrapper for react-native, exposing Accelerometer, Gyroscope, and Magnetometer. |
 
 ### Known Bugs 
 | Title | Type | Resource Rating | Description |
@@ -626,6 +652,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [ClojureScript + React Native](http://cljsrn.org/) | | | |
+| [Mobile Apps with Clojurescript](https://www.youtube.com/watch?v=GDA-g6Ca_dQ) | Youtube | | |
 
 ### Elm 
 | Title | Type | Resource Rating | Description |
@@ -666,6 +693,8 @@
 | [RN Diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another. 🚀 | 
 | [Getting ESLint Right in React Native](https://medium.com/the-react-native-log/getting-eslint-right-in-react-native-bd27524cc77b#.qoefc37lm) | Blog | | |
 | [react-native-extended-cli](https://github.com/wix/react-native-extended-cli) | Github | | rnx (short for React Native Extended CLI) is a tool you can install via npm and use as a CLI instead of using the react-native CLI. It supports everything the built-in CLI supports plus a bunch of handy tools that will save you time and stress. |
+| [React Native Storybook](https://github.com/storybooks/react-native-storybook) | Github | | With React Native Storybook you can design and develop individual React Native components without running your app. | 
+| [adb-auto-restarter](https://github.com/mahanhaz/adb-auto-restarter) | Github | | ADB service auto restarting shell. really helpful if you are as lazy as i am and don't want to restart your adb service manually when it stops detecting your android phone. |
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
@@ -682,6 +711,7 @@
 | [Snowflake: Continuous Integration with Bitrise.io](https://www.youtube.com/watch?v=EYafslJvXz8&list=PLPDajyixAsuMKSDMel9x6pzmBuklZq4ci) | | | |
 | [Publish React Native Applications Over The Air with Electrode RN OTA, an Open Source Release from @WalmartLabs](https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.zcd293w9f) | | | |
 | [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/) | Blog | | |
+| [CI and Automated Deploys with Buddybuild](https://www.dailydrip.com/topics/react-native/drips/ci-and-automated-deploys)| | | |
 
 ### Talks
 | Title | Type | Resource Rating | Description |
@@ -723,6 +753,8 @@
 | [React Native Workshop](https://rangle-io.gitbooks.io/react-native-workshop/content/) | Gitbook | ★★★★★ | Short online book walkthrough of react native |
 | [React Native Tutorial Series](https://www.kobkrit.com/category/programming/react-native/) | Slides | | Covers a very wide range of topics, including Realm |
 | [Implement Snapchat like swipe navigation declaratively in React Native](https://medium.com/the-react-native-log/implement-snapchat-like-swipe-navigation-declaratively-in-react-native-309e71229c89#.p8r5f9ynt) | Blog | | |
+| [From Stranger Things to React Native](https://medium.com/@introvertuouso/from-stranger-things-to-react-native-f2434b3773a7#.rewrul30g) | Blog | | Blog post about making the Stranger Things title in RN |
+| [React Native Cube Transition](https://github.com/tlackemann/react-native-cube-transition) | Github + Blog | | React Native module for iOS that rotates components on a cube, similar to Instagram Stories. |
 
 ### Video Tutorials
 | Title | Type | Resource Rating | Description |
