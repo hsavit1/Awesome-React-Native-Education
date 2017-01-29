@@ -399,6 +399,7 @@
 | [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy) | | | |
 | [Using Jest Everywhere](https://jest-everywhere.now.sh/#/0?_k=k0sl57) | Slides | | |
 | [Using Jest with React Native and MobX](https://wietse.loves.engineering/using-jest-with-react-native-and-mobx-34949ea7d2cf#.rw9v63sgx) | Blog | | |
+| [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | Youtube | | |
 | [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md) | | | |
 | [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6) | | | |
 | [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
@@ -547,6 +548,12 @@
 | [Lessons learned from working with React Native](https://blog.z-dev.io/lessons-learned-from-working-with-react-native-ad5969177324#.44qkxu9lv) | Blog | | |
 | [What I learned from building my first React Native App](http://cmichel.io/lessons-from-building-first-react-native-app/) | Blog | | |
 | [React Native at Walmart Labs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.1cvck1v9u) | | | | 
+| [Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch) | Youtube | | |
+| [React Native at Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0&t=308s&index=15&list=PLC8kWkl8Hj0tj1GCeHm5ENKQpTIryoiKB) | Video | ★★★★ | Leland Richardson talks about how Airbnb uses React Native and how their repository structure, as well as Continuous Integration |
+| [React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop)  | Youtube | ★★★ | See how Airbnb is using React Native in iOS and Android |
+| [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s), [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users)) | Youtube + Slides | ★★★★ | Talk about using React Native at a large scale at Wix.com, and how it transformed their work process|
+| [Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be), [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | Youtube + slides | ★★ | |
+| [Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016](https://www.youtube.com/watch?v=_awnyW-9aJ8) | | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
@@ -771,16 +778,9 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Awesome React Native Talks](https://github.com/mightyCrow/awesome-react-native-talks) | Github | ★★★★ | Nice, curated list of talks |
-| [React Native at Airbnb](https://www.youtube.com/watch?v=tUfgQtmG3R0&t=308s&index=15&list=PLC8kWkl8Hj0tj1GCeHm5ENKQpTIryoiKB) | Video | ★★★★ | Leland Richardson talks about how Airbnb uses React Native and how their repository structure, as well as Continuous Integration |
 | [Writing Cross-Platform Apps with React Native](https://www.infoq.com/articles/react-native-introduction) | | | |
-| [React Native at Airbnb and Test Butler at LinkedIn](https://www.youtube.com/watch?t=21m&v=S6GdvVQB39Y&feature=youtu.be&app=desktop)  | Youtube | ★★★ | See how Airbnb is using React Native in iOS and Android |
-| [Task Rabbit](https://speakerdeck.com/bleonard/realm-meetup-react-native-launch) | | | |
-| [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s), [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users)) | Youtube + Slides | ★★★★ | Talk about using React Native at a large scale at Wix.com, and how it transformed their work process|
-| [Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016](https://www.youtube.com/watch?v=_awnyW-9aJ8) | | | |
 | [No Xcode Java Swift or Objc - How far JS Gets you](https://youtu.be/1Urj4TZ5BLI?t=8h48m13s) | | | |
 | [React Native: Are we there yet?](https://www.youtube.com/watch?v=rahrrfJIh9s), [slides](https://speakerdeck.com/roman01la/react-native-are-we-there-yet-pokemon-edition-at-vinnytsiajs-16) | | | |
-| [Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be), [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | Youtube + slides | ★★ | |
-| [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | | | |
 | [React Bratislava Meetup Nov 18 2016](https://www.youtube.com/watch?v=MmhnxDhP8js) | Youtube | | | 
 | [Write-once, run WebRTC anywhere with React Native (Kranky Geek WebRTC 2016)](https://www.youtube.com/watch?v=OT6kwzsQeVc)| Youtube | | Emil walks through his experience using React Native with WebRTC. |
 
@@ -822,11 +822,11 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Introduction to React Native - Building a React Native app from scratch](https://www.youtube.com/watch?v=r5OPRhelEIU) | | | |
 | [Introduction to React Native](https://www.youtube.com/watch?v=n5RhAYhTxCk) | | | A basic introduction to getting started with React Native. This screencast shows how to get setup, development workflow, and building the first cut at a ListView to show some images and meta data for Hearthstone cards. | 
-| [Build Apps With React Native Tutorial](https://www.youtube.com/playlist?list=PLiV1ABgfs8JJEqd6LGULJ3k3sdDAUVUiw) | | | 34 free Youtube Videos |
 | [React Native Quickly](http://node.university/p/react-native-quickly) | | | |
 | [React Native Beginner](https://www.youtube.com/playlist?list=PL7D-0n1z1EbgAoLu1n5wjcMLDDAQqXOMw) | | | |
 | [Daily Drip](https://www.dailydrip.com/topics/react-native/) | Video Classes | | |
 | [React Native TODO App](https://egghead.io/lessons/react-setup-react-native-for-ios-and-android) | Egghead | | With Jason Brown |
+| [Build Apps With React Native Tutorial](https://www.youtube.com/playlist?list=PLiV1ABgfs8JJEqd6LGULJ3k3sdDAUVUiw) | | | 34 free Youtube Videos |
 
 ### Sample Apps
 | Title | Type | Resource Rating | Description |
