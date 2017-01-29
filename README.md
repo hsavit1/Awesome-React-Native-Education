@@ -667,6 +667,8 @@
 | [Reacting to React Native for native WebRTC apps](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/?utm_content=buffereb1ab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
 
 ### Webviews
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [WebGL in React Native](https://discuss.reactjs.org/t/webgl-in-react-native/2123/1) | | | |
 | [react-native-webview-crosswalk](https://github.com/jordansexton/react-native-webview-crosswalk) | | | |
 | [React Native and THREE.js (WebGL library) integration](http://stackoverflow.com/questions/37167090/react-native-and-three-js-webgl-library-integration) | Github | | |
