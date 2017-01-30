@@ -452,6 +452,7 @@
 | [Debug JavaScript in Chrome with DevTool Sources](https://egghead.io/courses/chrome-devtools-sources-panel) | Egghead| | |
 | [Debug HTTP with Chrome DevTools Network Panel](https://egghead.io/courses/chrome-devtools-network-panel) | Egghead | | |
 | [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) | Youtube | | |
+| [React-Knosul](https://github.com/mohebifar/konsul) | Github | | Render React components to Chrome in console.log() |
 
 ### Versioning and Upgrading
 | Title | Resource Rating | Type | Description |
