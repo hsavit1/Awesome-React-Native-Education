@@ -787,6 +787,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native VSCode](https://www.youtube.com/watch?v=NpfDMI48yV0&index=42&list=WL) | Youtube | | |
 | [VS Code — how to create snippets to speed up your React Native development](https://medium.com/react-native-institute/vs-code-how-to-create-snippets-to-speed-up-your-react-native-development-6399bbf12a76#.idbdcyolo) | Blog | | |
+| [VSCode React Snippets](https://github.com/xabikos/vscode-react) | Github | | List of all the react snippets for VSCode|
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
