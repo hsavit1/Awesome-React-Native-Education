@@ -24,6 +24,7 @@
 - [Gestures](#gestures)
 - [Networking](#networking)
 - [Basic React Native and Component Usage](#basic-react-native-and-component-usage)
+- [React Native APIs](#react-native-apis)
 - [Custom Components and Cool Shit](#custom-components-and-cool-shit)
 - [Project Setup](#project-setup)
 - [App Structure](#app-structure)
@@ -261,6 +262,9 @@
 | [Managing Styles in React Native](https://medium.com/@tommylackemann/managing-styles-in-react-native-3546d3482d73#.mi80r886t) | Blog | | |
 | [React Native Styled Components Codepen](https://codepen.io/necolas/pen/ggOKRw?editors=0010) | | | |
 | [Styled-Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/) | Article | | Written by the creator of styled components |
+| [raect-native-display](https://github.com/sundayhd/react-native-display) | Github | | This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations |
+| [Styles in React Native: A Case Study](https://medium.com/@fasterpancakes/styles-in-react-native-a-case-study-3dbe0d50f308#.6vvecv2c7) | Blog | | Layout is not style |
+| [A 5-minute Intro to Styled Components](https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd55#.n925iwg4s) | Blog | | |
 
 ### Animation Overview and Examples
 | Title | Type | Resource Rating | Description |
@@ -300,6 +304,7 @@
 | [Playing with React Native Animations](https://hackernoon.com/playing-with-react-native-animations-d065e7e97391#.y39hpdo0s) | Blog | | |
 | [Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API. Also React Motion |
 | [Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated API can do, shown with a demo |
+| [The amazing animated API](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0#.l0lylfn4d) | Blog | | |
 
 ### Other Animations
 | Title | Type | Resource Rating | Description |
@@ -335,6 +340,7 @@
 | [React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/) | | | |
 | [Gesture detection in React Native](http://blog.lum.pe/gesture-detection-in-react-native/) | Blog | | |
 | [react-native-gesture-recognizers](https://github.com/johanneslumpe/react-native-gesture-recognizers) | Github | | React Native gesture recognizer decorators. Just decorate your component and easily respond to pans and swipes! Uses ES7 decorator syntax |
+| [How to handle gestures with PanResponder](https://blog.callstack.io/react-native-animations-revisited-part-iii-41ed43d1ce2e#.h0e2m4pbc) | Blog | | |
 
 ### Networking
 | Title | Type | Resource Rating | Description |
@@ -351,21 +357,28 @@
 | [React Native ListView with Section Headers](https://medium.com/@darylrowland/reactnative-listview-with-section-headers-99a6714282c3#.86geurem9) | Blog | | |
 | [React Native’s Context Dilemma](https://medium.com/the-react-native-log/react-natives-context-dilemma-4147ecce2646#.xppq448ka) | Blog | | |
 | [Building infinite scroll in React Native](http://frontside.io/blog/2016/12/15/building-infinite-scroll-in-react-native.html) | Blog | | |
+| [How to handle all Keyboard problems in React-Native with only 5 lines of code](https://kobkrit.com/how-to-handle-all-keyboard-problems-in-react-native-with-only-5-lines-of-code-c5a6adf41c4f#.jotho7ln7) | Blog | | |
+
+### React Native APIs
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [React Native Basics: Geolocation](https://hackernoon.com/react-native-basics-geolocation-adf3c0d10112#.g8kkvz1x1) | | | |
 
 ### Custom Components and Cool Shit
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Awesome React Components](https://habd.as/awesome-react-components/#react-native) | Github | ★★★★ | List of React Native comonents and number of stars |
 | [reactscript.com](http://reactscript.com/react-native/) | Website | ★★★★★ | React Native Componets Website - lots and lots of components! |
-| [Libs, Articles and Tutorials](https://android.jlelse.eu/libs-articles-and-tutorials-that-will-help-you-to-make-awesome-react-native-apps-f584060320a1#.z7yhtwsiy) | | | |
-| [react-native-grid-component](https://github.com/phil-r/react-native-grid-component) | | | |
-| [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | | | |
-| [React Native FoldView](https://github.com/jmurzy/react-native-foldview) | | | |
-| [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview) | | | |
+| [Libs, Articles and Tutorials](https://android.jlelse.eu/libs-articles-and-tutorials-that-will-help-you-to-make-awesome-react-native-apps-f584060320a1#.z7yhtwsiy) | Github | | |
+| [react-native-grid-component](https://github.com/phil-r/react-native-grid-component) | Github | | |
+| [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | Github | | |
+| [React Native FoldView](https://github.com/jmurzy/react-native-foldview) | Github | | |
+| [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview) | Github | | |
 | [Airbnb Map View](https://github.com/airbnb/react-native-maps) | Github | ★★★★★ | Airbnb's mapview - will be merged into RN master for version 0.40 |
-| [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) | | | SGListView is a memory minded implementation of React Native's ListView |
-| [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list) | | | |
-| [react-native-utils](https://github.com/ksti/react-native-utils#readme) | | | | 
+| [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) | Github | | SGListView is a memory minded implementation of React Native's ListView |
+| [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list) | Github | | |
+| [react-native-utils](https://github.com/ksti/react-native-utils#readme) | Github | | | 
+| [react-native-app-link](https://github.com/datwheat/react-native-app-link) | Github | | Easily link to other apps with React Native. |
 
 ### App Structure
 | Title | Type | Resource Rating | Description |
@@ -386,6 +399,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Renaming a React Native Project](http://blog.tylerbuchea.com/renaming-a-react-native-project/) | Blog | | |
 | [Rename react-native app with just one command](https://github.com/JuneDomingo/react-native-rename) | Github | | |
+| [React Native Deployment to iPhone](https://medium.com/@kswanie21/react-native-deployment-to-iphone-76d8254f1505#.rhyo45u7i) | Blog | | |
 
 ### Offline
 | Title | Type | Resource Rating | Description |
@@ -400,6 +414,7 @@
 | [Using Jest Everywhere](https://jest-everywhere.now.sh/#/0?_k=k0sl57) | Slides | | |
 | [Using Jest with React Native and MobX](https://wietse.loves.engineering/using-jest-with-react-native-and-mobx-34949ea7d2cf#.rw9v63sgx) | Blog | | |
 | [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | Youtube | | |
+| [React Testing Practices](https://medium.com/in-the-hudl/hot-react-testing-practices-1eb10bd61135#.r4jj2rrpy) | Blog | | A look into Jest, Enzyme, Mocha, Chai |
 | [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md) | | | |
 | [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6) | | | |
 | [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
@@ -442,6 +457,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd) | | | |
 | [rn-diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another|
+| [How to upgrade React-Native Modules in a backwards compatible manner](https://medium.com/@thisismissem/how-to-upgrade-react-native-modules-in-a-backwards-compatible-manner-a5b5c48d590c#.htlsnyjnp) | Blog | | |
 
 ### Configuration
 | Title | Resource Rating | Type | Description |
@@ -591,6 +607,7 @@
 | [RN-NavigationExperimental-Redux-Example](https://github.com/jlyman/RN-NavigationExperimental-Redux-Example) ||||
 | [react-native-redux](https://github.com/sibelius/react-native-redux) | Github | | Just a starter code to use redux and react-native with Login |
 | [To persist or not to persist](https://blog.brainsandbeards.com/to-persist-or-not-to-persist-ec156cb9cfad#.e1a8lovte) | Blog | | Storing (and cleaning!) navigation state with Redux and React Native |
+| [A guide to React Native with Redux and Immutable.js](https://medium.com/the-react-native-log/a-guide-to-react-native-with-redux-and-immutable-js-65a2b795cb6f#.qvfzau21e) | Blog | | |
 
 ### MobX
 | Title | Type | Resource Rating | Description |
@@ -676,6 +693,7 @@
 | [react-native-itunes](https://github.com/kadiks/react-native-itunes#readme) | Github | | Access your iTunes library (iOS only) |
 | [react-native-motion-manager](https://github.com/pwmckenna/react-native-motion-manager) | Github | | CMMotionManager wrapper for react-native, exposing Accelerometer, Gyroscope, and Magnetometer. |
 | [Reacting to React Native for native WebRTC apps](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/?utm_content=buffereb1ab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
+| [Using SpriteKit inside a React Native app](https://medium.com/the-react-native-log/using-spritekit-inside-a-react-native-app-abf49cb29e58#.gshtrdckd) | Blog | | |
 
 ### Webviews
 | Title | Type | Resource Rating | Description |
@@ -692,11 +710,13 @@
 | [React Native blank white screen issue (solved)](https://codingislove.com/react-native-blank-white-screen-issue-solved/) | Blog | | |
 | [Easy upgrades, relying on Git](http://facebook.github.io/react-native/blog/2016/12/05/easy-upgrades-processed-by-git.html) | Blog | | |
 | [Hard React Native Problems](https://github.com/brentvatne/hard-react-native-problems) | Github issues | | |
+| [React Native — a gotcha with fetch()](https://medium.com/react-native-institute/a-gotcha-with-fetch-3702e82a09db#.mpdentcsh) | Blog | | |
 
 ### React Native on the Web
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Web](https://github.com/necolas/react-native-web) | Github | | |
+| [React Native Web setup for android and web with live reload on both!](https://medium.com/@naqvitalha/react-native-web-setup-with-live-reload-on-both-at-the-same-time-657a99ac521a#.8o3j5t3kc) | Blog | | |
 
 ### React Native Windows Platform
 | Title | Type | Resource Rating | Description |
@@ -764,6 +784,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native VSCode](https://www.youtube.com/watch?v=NpfDMI48yV0&index=42&list=WL) | Youtube | | |
+| [VS Code — how to create snippets to speed up your React Native development](https://medium.com/react-native-institute/vs-code-how-to-create-snippets-to-speed-up-your-react-native-development-6399bbf12a76#.idbdcyolo) | Blog | | |
 
 ### CodePush 
 | Title | Type | Resource Rating | Description |
