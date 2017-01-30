@@ -458,6 +458,7 @@
 | Title | Resource Rating | Type | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd) | | | |
+| [Easier React Native upgrades with rn-diff](https://medium.com/@ncuillery/easier-react-native-upgrades-with-rn-diff-5020b5c3de2d#.3mpltoiaw) | Blog | | |
 | [rn-diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another|
 | [How to upgrade React-Native Modules in a backwards compatible manner](https://medium.com/@thisismissem/how-to-upgrade-react-native-modules-in-a-backwards-compatible-manner-a5b5c48d590c#.htlsnyjnp) | Blog | | |
 
