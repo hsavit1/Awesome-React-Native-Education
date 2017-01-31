@@ -75,6 +75,7 @@
 - [VSCode](#vscode)
 - [Code Push](#codepush)
 - [Continuous Integration / Deployment / Delivery](#continuous-integration-/-delivery-/-deployment)
+- [Installing SDKs](#installing-sdks)
 - [Patents](#patents)
 - [Talks](#talks)
 - [Tutorials](#tutorials)
@@ -457,6 +458,7 @@
 ### Versioning and Upgrading
 | Title | Resource Rating | Type | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [Easier Upgrades thanks to Git](https://facebook.github.io/react-native/blog/2016/12/05/easier-upgrades.html) | Blog | | |
 | [Versioning React Native apps](https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.g8d15y6yd) | | | |
 | [Easier React Native upgrades with rn-diff](https://medium.com/@ncuillery/easier-react-native-upgrades-with-rn-diff-5020b5c3de2d#.3mpltoiaw) | Blog | | |
 | [rn-diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another|
@@ -808,8 +810,15 @@
 | [Snowflake: Continuous Integration with Bitrise.io](https://www.youtube.com/watch?v=EYafslJvXz8&list=PLPDajyixAsuMKSDMel9x6pzmBuklZq4ci) | | | |
 | [Publish React Native Applications Over The Air with Electrode RN OTA, an Open Source Release from @WalmartLabs](https://medium.com/walmartlabs/publish-react-native-bundles-over-the-air-with-the-first-electrode-rn-release-3780edb387ba#.zcd293w9f) | | | |
 | [Preview your Android & iOS React Native apps on your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/) | Blog | | |
-| [CI and Automated Deploys with Buddybuild](https://www.dailydrip.com/topics/react-native/drips/ci-and-automated-deploys)| | | |
+| [CI and Automated Deploys with Buddybuild](https://www.dailydrip.com/topics/react-native/drips/ci-and-automated-deploys) | | | |
 | [Automating a React-native Mobile Application for Beta Testing](https://lasithapetthawadu.wordpress.com/2017/01/05/automating-a-react-native-mobile-application-for-beta-testing/) | Blog | | |
+| [ReactNative - Zero to DevOps](https://www.youtube.com/watch?v=lfqZ8Uy2p3U&app=desktop) | Youtube | ★★★★★ | Great little intro to set up CI with Azure and CD with Codepush |
+| [Automating a React-native Mobile Application for Beta Testing](https://lasithapetthawadu.wordpress.com/2017/01/05/automating-a-react-native-mobile-application-for-beta-testing/) | Blog | | Uses Jenkins for triggering the build automation, Docker for containerizing and building,unit testing and deploying, TestFairy for uploading the build for beta testing |
+
+### Installing SDKs
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Installing the Facebook SDK](https://tylermcginnis.com/installing-the-facebook-sdk-into-a-react-native-android-and-ios-app) | Blog | | |
 
 ### Patents
 | Title | Type | Resource Rating | Description |
