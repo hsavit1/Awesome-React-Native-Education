@@ -729,10 +729,13 @@
 ### React Native tvOS 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [react-native-tvos-controller](https://github.com/ycinfinity/react-native-tvos-controller) | Github | | TvOS remote controller module for react native. |
+| [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.h5jp6v31h) | Blog | | |
 
 ### React Native Amazon Fire
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [React Native running on Amazon Fire TV Stick](https://twitter.com/grabbou/status/811838049877458944) | Twitter | | |
 
 ### Clojurescript 
 | Title | Type | Resource Rating | Description |
