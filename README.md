@@ -200,8 +200,10 @@
 | [React Navigation Homepaage](https://reactnavigation.org) | Website | | |
 | [React Navigation: An Overview of Transitioner and CardStack](http://www.reactnativediary.com/2016/12/20/navigation-experimental-custom-transition-1.html) | Blog | | |
 | [React Navigation: Cross Fade and Android Default Transitions](http://www.reactnativediary.com/2016/12/22/navigation-experimental-custom-transition-2.html) | Blog | | |
-| [Shared element transitions part 1](http://www.reactnativediary.com/2017/01/23/react-navigation-shared-element-transition-1.html) | | | |
-| [Shared element transitions part 2]() | | | |
+| [Shared element transitions part 1](http://www.reactnativediary.com/2017/01/23/react-navigation-shared-element-transition-1.html), [code](https://github.com/lintonye/react-native-diary) | Blog | | |
+| [Shared element transitions part 2](http://www.reactnativediary.com/2017/01/25/react-navigation-shared-element-transition-2.html) | Blog | | |
+| [Getting Started with React Navigation](https://www.dailydrip.com/topics/react-native/drips/getting-started-with-react-navigation) | Video Tutorial | | Nice quick video demo to understand the fundamentals of React Navigation |
+| [Using React-Navigation in React Native](https://blog.binoy.io/using-react-navigation-in-react-native-126d5eface17#.m9xz9sepf)| | | |
 
 ### Navigation Experimental
 | Title | Type | Resource Rating | Description |
@@ -213,6 +215,9 @@
 | [React Native Navigation using NavigationExperimental](https://medium.com/@christossotiriou/react-native-navigation-using-navigationexperimental-aaa59fd37340#.w40ruxeeo) | Blog | | |
 | [React Native NavigationExperimental in Depth](https://medium.com/react-native-training/react-native-navigationexperimental-in-depth-6910b9b0b990#.d5w13omzc) | Blog | | |
 | [NavigationExperimental Premier: A Simple Recipe](http://www.reactnativediary.com/2016/06/23/navigation-examples-1.html) | Blog | | |
+| [Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | Youtube | | |
+| [React Native Meetup - Fernando Ruiz - Diving Into NavigationExperimental](https://www.youtube.com/watch?v=E0dn9Myhyfc) | Youtube | | |
+| [Eric Vicenti - Animating Navigation: Going off the deep end](https://www.youtube.com/watch?v=5AoMOmXDKYc) | Youtube | | |
 
 ### React Native Router Flux
 | Title | Type | Resource Rating | Description |
@@ -230,6 +235,8 @@
 | [Swipeable cards navigation](https://medium.com/technoetics/creating-swipable-content-cards-in-reactnative-768254057c9e#.sjf2y9dd9) | | | uses Wix react-native-navigation |
 | [Ex-navigation Explainer](https://gist.github.com/knowbody/ce483742a1761658b767428a0ed35147) | Gist | | |
 | [Using Ex-Navigation in React Native](https://blog.binoy.io/ex-navigation-in-react-native-2f30d21d62d9#.23orid4u5) | Blog | | |
+| [lottie-react-native](https://github.com/airbnb/lottie-react-native) | Github | | Lottie is a mobile library for Andorid and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders them natively on mobile! |
+| [react-native-facebook-keyframes](https://github.com/underscopeio/react-native-facebook-keyframes) | Github | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
@@ -260,13 +267,20 @@
 | [React JS Style Components](https://www.youtube.com/watch?v=gNeavlJ7lNY) | Youtube | | |
 | [React Native Styled Components](https://github.com/styled-components/styled-components/blob/master/README.md) , [video](https://www.youtube.com/watch?v=jaqDA7Btm3c) | Github | | Visual primitives for the component age 💅 |
 | [React Native Tips and Tricks: Styling in JS](http://willowtreeapps.com/ideas/react-native-tips-and-tricks-styling-in-js/) | | | |
-| [Carbon UI](https://carbon-ui.com/) | Github | | Universal Material Design components for React Native and React |
 | [Managing Styles in React Native](https://medium.com/@tommylackemann/managing-styles-in-react-native-3546d3482d73#.mi80r886t) | Blog | | |
 | [React Native Styled Components Codepen](https://codepen.io/necolas/pen/ggOKRw?editors=0010) | | | |
 | [Styled-Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/) | Article | | Written by the creator of styled components |
-| [raect-native-display](https://github.com/sundayhd/react-native-display) | Github | | This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations |
 | [Styles in React Native: A Case Study](https://medium.com/@fasterpancakes/styles-in-react-native-a-case-study-3dbe0d50f308#.6vvecv2c7) | Blog | | Layout is not style |
 | [A 5-minute Intro to Styled Components](https://medium.freecodecamp.com/a-5-minute-intro-to-styled-components-41f40eb7cd55#.n925iwg4s) | Blog | | |
+| [How Styled-Components holds up to refactoring in a React Native app.](https://medium.com/@fasterpancakes/how-styled-components-holds-up-to-refactoring-in-a-react-native-app-1922fa96ddd4#.mahstq7r5) | Blog | | |
+
+### UI 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [react-native-elements](https://github.com/react-native-community/react-native-elements) | Github | | Cross Platform React Native UI Toolkit |
+| [raect-native-display](https://github.com/sundayhd/react-native-display) | Github | | This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations |
+| [Nachos UI is a React Native component library](https://github.com/avocode/nachos-ui)| | | |
+| [Carbon UI](https://carbon-ui.com/) | Github | | Universal Material Design components for React Native and React |
 
 ### Animation Overview and Examples
 | Title | Type | Resource Rating | Description |
@@ -411,12 +425,15 @@
 ### Testing
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
-| [Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy) | | | |
-| [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy) | | | |
+| [Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy) [code](https://github.com/ferrannp/react-native-testing-example) | Blog | | |
+| [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy) | Blog | | |
 | [Using Jest Everywhere](https://jest-everywhere.now.sh/#/0?_k=k0sl57) | Slides | | |
 | [Using Jest with React Native and MobX](https://wietse.loves.engineering/using-jest-with-react-native-and-mobx-34949ea7d2cf#.rw9v63sgx) | Blog | | |
 | [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | Youtube | | |
+| [Jest Docs React Native](https://facebook.github.io/jest/docs/tutorial-react-native.html#content) | Docs | | |
+| [Testing React Native Componenets with Jest](http://www.schibsted.pl/blog/testing-react-native-components-with-jest/) | Blog | | |  
 | [React Testing Practices](https://medium.com/in-the-hudl/hot-react-testing-practices-1eb10bd61135#.r4jj2rrpy) | Blog | | A look into Jest, Enzyme, Mocha, Chai |
+| [Testng React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest) | Blog | | |
 | [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md) | | | |
 | [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6) | | | |
 | [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
@@ -430,6 +447,7 @@
 | [Testing React Native and Redux](https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178#.oy2vojoid) | | | |
 | [carte-blanche](https://github.com/carteb/carte-blanche) | Github | | An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them. [youtube video](https://www.youtube.com/watch?v=6g3-TQ6aaw8) |
 | [A fully mocked and test-friendly version of React Native](https://github.com/RealOrangeOne/react-native-mock) | Github | | |
+| [React Native Functional Testing using Appium](http://moduscreate.com/react-native-functional-testing-using-appium/) | Blog | | |
 
 ### Debugging
 | Title | Type | Resource Rating | Description |
@@ -454,6 +472,7 @@
 | [Debug HTTP with Chrome DevTools Network Panel](https://egghead.io/courses/chrome-devtools-network-panel) | Egghead | | |
 | [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) | Youtube | | |
 | [React-Knosul](https://github.com/mohebifar/konsul) | Github | | Render React components to Chrome in console.log() |
+| [Release The Pain from Running and Debugging React Native App on a real iOS Device](https://medium.com/@avishayil/release-the-pain-from-running-and-debugging-react-native-app-on-a-real-ios-device-7a2e6048609e#.716mj9duv) | Blog | | |
 
 ### Versioning and Upgrading
 | Title | Resource Rating | Type | Description |
@@ -528,6 +547,7 @@
 | [react-natove-vector-icons](https://github.com/oblador/react-native-vector-icons) | Github | | |
 | [Resource Handling in React-Native](https://medium.com/@chrissullivan.dev/resource-handling-in-react-native-3e5b4a2c84ec#.ricwywc2k) | Blog | | |
 | [fontFamily in React Native](https://medium.com/@blakeworsley/fontfamily-in-react-native-bd933b6cbb20#.v0xiynatl)| | | |
+| [Tips for React Native Images (or saying goodbye to trial and error)](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d#.h4dcfvlo7) | Blog | | |
 
 ### Javascript
 | Title | Type | Resource Rating | Description |
@@ -555,6 +575,7 @@
 | [How to Setup Push Notifications in React Native (iOS & Android)](https://medium.com/differential/how-to-setup-push-notifications-in-react-native-ios-android-30ea0131355e#.nqef8ufjg) | | | |
 | [Triggering iOS 10 actionable push notifications via React Native](https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-react-native-7990a6a3c3f4#.qc38i1u1z) | | | |
 | [How to Setup Push Notifications with React Native](https://www.youtube.com/watch?v=TQmudJLhPx8) | Youtube | | |
+| [React Native Library for OneSignal Push Notifications Service](https://github.com/geektimecoil/react-native-onesignal) | Github | | |
 
 ### Opinions
 | Title | Type | Resource Rating | Description |
@@ -580,6 +601,9 @@
 | [Tal Kol: Building a React Native App for 80 Million Users](https://www.youtube.com/watch?v=abSNo2P9mMM&t=14m44s), [slides](https://speakerdeck.com/talkol/building-a-react-native-app-for-80-million-users)) | Youtube + Slides | ★★★★ | Talk about using React Native at a large scale at Wix.com, and how it transformed their work process|
 | [Bas de Vries: iOS vs React Native: insights from an iOS developer](https://www.youtube.com/watch?v=j9xX0lWBYEQ&feature=youtu.be), [slides](http://www.slideshare.net/BasdeVries10/florin-react-native-meetup) | Youtube + slides | ★★ | |
 | [Mike Grabowski: Building a Fully-Fledged Media Player in React Native — ReactNext 2016](https://www.youtube.com/watch?v=_awnyW-9aJ8) | | | |
+| [React Native at Instagram](https://engineering.instagram.com/react-native-at-instagram-dd828a9a90c7#.5i45zrkhg) | Blog | | |
+| [Retrospective: Swift at Artsy](http://artsy.github.io/blog/2017/02/05/Retrospective-Swift-at-Artsy/) | Blog | ★★★★★ |Swift compared to React Native after 1 year of use at Artsy |
+| [Artsy React Native Series](http://artsy.github.io/series/react-native-at-artsy/) | Series of blog posts regarding the Artsy team's transition to React Native | | |
 
 ### React 
 | Title | Type | Resource Rating | Description |
@@ -661,11 +685,14 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native Typescript](https://github.com/mrpatiwi/ReactNativeTS) | | | |
-| [React Native and Typescript](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.yvxgkj2xj) | Blog | | |
+| [React Native and Typescript](https://medium.com/react-weekly/react-native-and-typescript-ad57b7413ead#.yvxgkj2xj) [code](https://github.com/panarasi/ReactNativeTS) | Blog | | |
 | [React Native and TypeScript – Developing cross-platform apps](https://raygun.com/blog/2016/07/react-native-typescript/) | | | |
 | [React Native + Typescript](https://blog.lopezjuri.com/2015/12/30/react-native--typescript/) | | | |
 | [Using TypeScript with React Native](http://www.justin-credible.net/2016/08/23/using-typescript-with-react-native/) | | | |
-| [Typescript, React Native and Sourcemaps](http://www.reactnative.tools/tutorials/2016/09/20/reactnative-ts/) [code](https://github.com/panarasi/ReactNativeTS) | Blog | | |
+| [Typescript, React Native and Sourcemaps](http://www.reactnative.tools/tutorials/2016/09/20/reactnative-ts/) | Blog | | |
+| [TypeScript 2.2 plays nice with React Native JavaScript](http://www.infoworld.com/article/3166364/javascript/typescript-22-plays-nice-with-react-native-javascript.html) | Blog / News post | | |
+| [React Native and TypeScript: Developing Cross-Platform Apps](https://dzone.com/articles/react-native-and-typescript-developing-cross-platf) | Blog | | |
+| [Announcing TypeScript 2.2 RC](https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/#) | News | | |
 
 ### Exponent
 | Title | Type | Resource Rating | Description |
@@ -676,7 +703,6 @@
 | [Introduction to Exponent](https://docs.getexponent.com/versions/v10.0.0/introduction/index.html) | | | |
 | [Exponent explained in 2 minutes](https://www.youtube.com/watch?v=IQI9aUlouMI) | Youtube | | |
 | [Coding Apps with React Native at Exponent](https://blog.getexponent.com/coding-apps-with-react-native-at-exponent-7a5922da27bf#.9376oqejw) | | | |
-| [Exponent Talks: Adam on Unraveling Navigation](https://www.youtube.com/watch?v=oeSjTxVkMhc&feature=youtu.be&app=desktop) | | | |
 | [Exponent Talks: Brent's "Introduction to Exponent"](https://www.youtube.com/watch?v=7lZtV-rIAmY) | Youtube | | At our first user community meetup, Brent gives an intro to Exponent and a quick tour of basics like building a feature and pushing updates. |
 | [Using React Native UI toolkits with Exponent](https://blog.getexponent.com/using-react-native-ui-toolkits-with-exponent-3993434caf66#.ck84zuicr) | | | |
 | [Hello Exponent: A Hands-On Tutorial](https://www.youtube.com/watch?v=ITX8NmQaW6Q) | Youtube | |  |
@@ -738,6 +764,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Native running on Amazon Fire TV Stick](https://twitter.com/grabbou/status/811838049877458944) | Twitter | | |
+| [Amazon Fire TV Stick App In React Native](https://blog.callstack.io/amazon-fire-tv-stick-app-in-react-native-ad49648550d#.du3mjor6p) | Blog | | |
 
 ### Clojurescript 
 | Title | Type | Resource Rating | Description |
@@ -814,6 +841,7 @@
 | [Automating a React-native Mobile Application for Beta Testing](https://lasithapetthawadu.wordpress.com/2017/01/05/automating-a-react-native-mobile-application-for-beta-testing/) | Blog | | |
 | [ReactNative - Zero to DevOps](https://www.youtube.com/watch?v=lfqZ8Uy2p3U&app=desktop) | Youtube | ★★★★★ | Great little intro to set up CI with Azure and CD with Codepush |
 | [Automating a React-native Mobile Application for Beta Testing](https://lasithapetthawadu.wordpress.com/2017/01/05/automating-a-react-native-mobile-application-for-beta-testing/) | Blog | | Uses Jenkins for triggering the build automation, Docker for containerizing and building,unit testing and deploying, TestFairy for uploading the build for beta testing |
+| [Get your brownfield React Native app built on demand](http://tech.m6web.fr/get-brownfield-react-native-app-built-on-demand/) | Blog | | Article on getting CI and CD set up with Buddybuild|
 
 ### Installing SDKs
 | Title | Type | Resource Rating | Description |
@@ -825,6 +853,8 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Are people really worried about using React and ReactNative with the language that's in Facebook's PATENTS file?](https://www.quora.com/Are-people-really-worried-about-using-React-and-ReactNative-with-the-language-thats-in-Facebooks-PATENTS-file)| Quora | | |
 | [React Native goes open source, kills the buzz with Patent License Grant](https://jaxenter.com/react-native-goes-open-source-kills-the-buzz-with-patent-license-grant-115978.html)| | | |
+| [Dan Abramov (gaearon) on Facebook's PATENTS clause](https://www.reddit.com/r/reactjs/comments/4ybhzw/dan_abramov_gaearon_on_facebooks_patents_clause/) | Reddit | | |
+| [React patents clarification: Facebook License FAQ, adoption at Apple and Microsoft](http://react-etc.net/entry/react-patents-facebook-license-faq-adoption-by-apple-and-microsoft) | Blog | | |
 
 ### Talks
 | Title | Type | Resource Rating | Description |
@@ -911,3 +941,5 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [Weex Homepage](https://weex-project.io/) | | | |
+| [If you like React Native & Vue, you will like Weex](https://medium.com/@jiyinyiyong/if-you-like-react-native-vue-you-will-like-weex-5de452e559c6#.nyrbuthwg)| Blog| | | 
+| [A simple tutorial for Weex](https://medium.com/@jinjiang/a-simple-tutorial-for-weex-353cd4142b48#.vbo76ig8r) | Blog | | |
