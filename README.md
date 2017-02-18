@@ -32,6 +32,7 @@
 - [Offline](#offline)
 - [Testing](#testing)
 - [Debugging](#debugging)
+- [Crash Reporting](#crash-reporting)
 - [Chrome Dev Tools](#chrome-dev-tools)
 - [Versioning and Upgrading](#versioning-and-upgrading)
 - [Configuration](#configuration)
@@ -45,6 +46,7 @@
 - [Javascript Core](#javascript-core)
 - [Responsive Layouts](#responsive-layouts)
 - [Push Notifications](#push-notifications)
+- [Migrating to React Native](#migrating-to-react-native)
 - [Opinions](#opinions)
 - [Reflections](#reflections)
 - [React](#react)
@@ -204,6 +206,7 @@
 | [Shared element transitions part 2](http://www.reactnativediary.com/2017/01/25/react-navigation-shared-element-transition-2.html) | Blog | | |
 | [Getting Started with React Navigation](https://www.dailydrip.com/topics/react-native/drips/getting-started-with-react-navigation) | Video Tutorial | | Nice quick video demo to understand the fundamentals of React Navigation |
 | [Using React-Navigation in React Native](https://blog.binoy.io/using-react-navigation-in-react-native-126d5eface17#.m9xz9sepf)| | | |
+| [react-navigation with complete redux state management, tab-bar, and multiple navigators](https://medium.com/@parkerdan/react-navigation-with-complete-redux-state-management-tab-bar-and-multiple-navigators-ed30a69d9a4d#.gkz06h3wl) | Blog | | | 
 
 ### Navigation Experimental
 | Title | Type | Resource Rating | Description |
@@ -237,6 +240,7 @@
 | [Using Ex-Navigation in React Native](https://blog.binoy.io/ex-navigation-in-react-native-2f30d21d62d9#.23orid4u5) | Blog | | |
 | [lottie-react-native](https://github.com/airbnb/lottie-react-native) | Github | | Lottie is a mobile library for Andorid and iOS that parses Adobe After Effects animations exported as json with bodymovin and renders them natively on mobile! |
 | [react-native-facebook-keyframes](https://github.com/underscopeio/react-native-facebook-keyframes) | Github | | |
+| [App Animations with Lottie by Airbnb](https://blog.prototypr.io/app-animations-with-lottie-by-airbnb-8101277c95c7#.izvh5sn5g) | Blog | | |
 
 ### Flexbox Model
 | Title | Type | Resource Rating | Description |
@@ -432,13 +436,13 @@
 | [How to use Jest with React Native](http://stackoverflow.com/questions/29730415/how-to-use-jest-with-react-native?rq=1) | Youtube | | |
 | [Jest Docs React Native](https://facebook.github.io/jest/docs/tutorial-react-native.html#content) | Docs | | |
 | [Testing React Native Componenets with Jest](http://www.schibsted.pl/blog/testing-react-native-components-with-jest/) | Blog | | |  
+| [Unit Testing React Native Components: A Firsthand Guide](https://medium.com/@jcfrancisco/unit-testing-react-native-components-a-firsthand-guide-cea561df242b#.64258uj88) | Blog | | | 
 | [React Testing Practices](https://medium.com/in-the-hudl/hot-react-testing-practices-1eb10bd61135#.r4jj2rrpy) | Blog | | A look into Jest, Enzyme, Mocha, Chai |
 | [Testng React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest) | Blog | | |
 | [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md) | | | |
 | [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6) | | | |
 | [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
 | [Testing React Native](https://www.youtube.com/watch?v=6aVDe2Y-co4) | | | |
-| [Add Crashlytics to your React Native iOS app](https://medium.com/delivery-com-engineering/add-crashlytics-to-your-react-native-ios-app-69a983a9062a#.4rrq3gvyu) | | | |
 | [React Native on Simulator and on Device](https://gist.github.com/almost/898a829d5197c69d29b0) | Github |||
 | [Testing the Bejeezus out of React Native Apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3#.7urkxe5xa)||||
 | [Test driving React Native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) | | | |
@@ -459,6 +463,12 @@
 | [Debugging and Production - React Native at Microsoft](https://youtu.be/1Urj4TZ5BLI?t=6h4m44s) | | | |
 | [Nuclide Debugger](https://nuclide.io/docs/features/debugger/) | | | |
 | [React Native Time Travel Debugging](http://blog.nparashuram.com/2016/08/time-travel-debugging-with-reactnative.html) | Blog | | |
+
+### Crash Reporting
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [How To: Crash Reporting with React-Native, Sentry and Fastlane](https://medium.com/appdafuer/how-to-crash-reporting-with-react-native-sentry-and-fastlane-6f04b1819bb9#.w7ef4xzft) | Blog | | |
+| [Add Crashlytics to your React Native iOS app](https://medium.com/delivery-com-engineering/add-crashlytics-to-your-react-native-ios-app-69a983a9062a#.4rrq3gvyu) | | | |
 
 ### Chrome Dev Tools 
 | Title | Type | Resource Rating | Description |
@@ -482,6 +492,7 @@
 | [Easier React Native upgrades with rn-diff](https://medium.com/@ncuillery/easier-react-native-upgrades-with-rn-diff-5020b5c3de2d#.3mpltoiaw) | Blog | | |
 | [rn-diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another|
 | [How to upgrade React-Native Modules in a backwards compatible manner](https://medium.com/@thisismissem/how-to-upgrade-react-native-modules-in-a-backwards-compatible-manner-a5b5c48d590c#.htlsnyjnp) | Blog | | |
+| [React Native 0.40 Upgrading iOS Native Modules](http://blog.tylerbuchea.com/react-native-0-40-upgrading-ios-native-modules/) | Blog | | |
 
 ### Configuration
 | Title | Resource Rating | Type | Description |
@@ -531,6 +542,7 @@
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
 | [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) | Github | | A project committed to make file acess and data transfer easier, efficient for React Native developers. |
+| [Image Caching in React Native](https://hackernoon.com/image-caching-in-react-native-96d8df33ca84#.7uxcu9ghi) | Blog | | Caching images with react native fetch blob |
 
 ### Dependencies and Frameworks
 | Title | Type | Resource Rating | Description |
@@ -548,6 +560,7 @@
 | [Resource Handling in React-Native](https://medium.com/@chrissullivan.dev/resource-handling-in-react-native-3e5b4a2c84ec#.ricwywc2k) | Blog | | |
 | [fontFamily in React Native](https://medium.com/@blakeworsley/fontfamily-in-react-native-bd933b6cbb20#.v0xiynatl)| | | |
 | [Tips for React Native Images (or saying goodbye to trial and error)](https://medium.com/the-react-native-log/tips-for-react-native-images-or-saying-goodbye-to-trial-and-error-b2baaf0a1a4d#.h4dcfvlo7) | Blog | | |
+| [Change your React Native app icons in a single command line](https://blog.bam.tech/developper-news/how-to-generate-your-react-native-app-icons-in-a-single-command-line?utm_content=45977850&utm_medium=social&utm_source=twitter) | Blog | | |
 
 ### Javascript
 | Title | Type | Resource Rating | Description |
@@ -576,6 +589,11 @@
 | [Triggering iOS 10 actionable push notifications via React Native](https://medium.com/@martco/triggering-ios-actionable-push-notifications-via-react-native-7990a6a3c3f4#.qc38i1u1z) | | | |
 | [How to Setup Push Notifications with React Native](https://www.youtube.com/watch?v=TQmudJLhPx8) | Youtube | | |
 | [React Native Library for OneSignal Push Notifications Service](https://github.com/geektimecoil/react-native-onesignal) | Github | | |
+
+### Migrating to React Native
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Migrating to React Native](https://medium.com/@7ynk3r/migrating-to-react-native-b51d280058f2#.pon261dfj) | Blog | | |
 
 ### Opinions
 | Title | Type | Resource Rating | Description |
@@ -637,6 +655,7 @@
 | [react-native-redux](https://github.com/sibelius/react-native-redux) | Github | | Just a starter code to use redux and react-native with Login |
 | [To persist or not to persist](https://blog.brainsandbeards.com/to-persist-or-not-to-persist-ec156cb9cfad#.e1a8lovte) | Blog | | Storing (and cleaning!) navigation state with Redux and React Native |
 | [A guide to React Native with Redux and Immutable.js](https://medium.com/the-react-native-log/a-guide-to-react-native-with-redux-and-immutable-js-65a2b795cb6f#.qvfzau21e) | Blog | | |
+| [Easy forms in React Native with Redux-Form](https://medium.com/wolox-driving-innovation/https-medium-com-wolox-driving-innovation-easy-forms-in-react-native-with-redux-form-1cdc16a9a889#.9v8k11d3b) | Blog | | |
 
 ### MobX
 | Title | Type | Resource Rating | Description |
@@ -742,6 +761,7 @@
 | [Easy upgrades, relying on Git](http://facebook.github.io/react-native/blog/2016/12/05/easy-upgrades-processed-by-git.html) | Blog | | |
 | [Hard React Native Problems](https://github.com/brentvatne/hard-react-native-problems) | Github issues | | |
 | [React Native — a gotcha with fetch()](https://medium.com/react-native-institute/a-gotcha-with-fetch-3702e82a09db#.mpdentcsh) | Blog | | |
+| ["Congratulations, you have a lot of code!" Remedying Android’s method limit - Part 1](https://developers.soundcloud.com/blog/congratulations-you-have-a-lot-of-code-remedying-androids-method-limit-part-1) | Blog | | |
 
 ### React Native on the Web
 | Title | Type | Resource Rating | Description |
@@ -898,6 +918,7 @@
 | [Ripple effect in React Native](https://medium.com/react-native-motion/ripple-effect-in-react-native-1cb0ad568e91#.1vslqffx1) | Blog | | Here’s a tutorial how to make ripple effect for Material Design’s Icon Button using the Animated API | 
 | [Simple React Native forms with react-native-clean-form and Immutable.js](https://medium.com/gumtreelab/simple-react-native-forms-with-react-native-clean-form-and-immutable-js-403d4fb257f3#.od9tvob0i) | | | |
 | [Toolbar animation in React Native](https://medium.com/react-native-motion/toolbar-animation-in-react-native-fe89c4f8e4cf#.e51ss7gnr) | | | |
+| [Building a simple camera app clone for iOS with React Native](https://steinar.io/building-your-own-camera-app-for-ios-with-react-native/) | Blog | | | 
 
 ### Video Tutorials
 | Title | Type | Resource Rating | Description |
@@ -927,6 +948,11 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [React Jobs](https://www.react-jobs.com/)
 | [reactnativejobs.io](http://www.reactnativejobs.io/) | | | |
+
+## Companies using React Native 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Tesla](https://gist.github.com/timdorr/35c95d0037c5334d143b49c25db303c9)| | | | 
 
 ### Books
 | Title | Type | Resource Rating | Description |
