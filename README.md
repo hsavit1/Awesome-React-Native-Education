@@ -62,6 +62,7 @@
 - [Authentication](#aauthentication)
 - [Native APIs](#native-apis)
 - [Webviews](#webviews)
+- [Deep Linking](#deep-linking)
 - [Known Bugs](#known-bugs)
 - [React Native on the Web](#react-native-on-the-web)
 - [React Native Windows Platform](#react-native-windows-platfrom)
@@ -751,6 +752,10 @@
 | [WebGL in React Native](https://discuss.reactjs.org/t/webgl-in-react-native/2123/1) | | | |
 | [react-native-webview-crosswalk](https://github.com/jordansexton/react-native-webview-crosswalk) | | | |
 | [React Native and THREE.js (WebGL library) integration](http://stackoverflow.com/questions/37167090/react-native-and-three-js-webgl-library-integration) | Github | | |
+
+### Deep Linking 
+| [Deep Links in React Native v0.22 [Part 1 — Android]](https://medium.com/@pbojinov/deep-links-in-react-native-v0-22-part-1-android-c4b08dbf8eba#.ym8clkb7b) | Blog | | |
+| [react-native-deep-linking](https://github.com/luisfcofv/react-native-deep-linking) | Github | | Simple route-matching library to handle deep links | 
 
 ### Known Bugs 
 | Title | Type | Resource Rating | Description |
