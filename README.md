@@ -10,22 +10,23 @@
 - [Bridging into Native Codebases - iOS](#bridging-into-native-codebases-ios)
 - [Bridging into Native Codebases - Android](#bridging-into-native-codebases-Android)
 - [Navigation and Routing Overview](#navigation-and-routing-overview)
-- [React Navigation](#react-navigation)
-- [Navigation Experimental](#navigation-experimental)
-- [React Native Router Flux](#react-native-router-flux)
-- [Other Navigation Options](#other-navigation-options)
+    - [React Navigation](#react-navigation)
+    - [Navigation Experimental](#navigation-experimental)
+    - [React Native Router Flux](#react-native-router-flux)
+    - [Other Navigation Options](#other-navigation-options)
 - [Flexbox Model](#flexbox-model)
 - [Styling](#styling)
 - [Animation Overview and Examples](#animation-overview-and-examples)
-- [Layout Animation](#layout-animation)
-- [Animated](#animated)
-- [Other Animations](#other-animations)
+    - [Layout Animation](#layout-animation)
+    - [Animated](#animated)
+    - [Other Animations](#other-animations)
 - [SVG and D3](#svg-and-d3)
 - [Gestures](#gestures)
 - [Networking](#networking)
 - [Basic React Native and Component Usage](#basic-react-native-and-component-usage)
 - [React Native APIs](#react-native-apis)
 - [Custom Components and Cool Shit](#custom-components-and-cool-shit)
+- [Map Views](#map-views)
 - [Project Setup](#project-setup)
 - [App Structure](#app-structure)
 - [App Launch](#app-launch)
@@ -58,6 +59,7 @@
 - [Relay](#relay)
 - [Realm](#realm)
 - [Flow](#flow)
+- [Expo](#expo)
 - [Typescript](#typescript)
 - [Authentication](#aauthentication)
 - [Native APIs](#native-apis)
@@ -259,6 +261,7 @@
 | [Universal css-in-js media queries for React Native and React](https://github.com/tuckerconnelly/uranium) | Github | | Adds media-query support to css-in-js in React Native and React.|
 | [Common React Native App Layouts](https://code.tutsplus.com/series/common-react-native-app-layouts--cms-1113) | Blog series | ★★★★★ | Really nice blog, has a few walkthroughs of common app layouts including a login page, a calendar page, and more coming |
 | [Yoga](https://twitter.com/dmwlff/status/806573375288066048) | Twitter | | Yoga, the high-performance layout library. What started as the flexbox implementation for RN is now its own formidable project. |
+| [React Native Flex Demo](https://medium.com/@watsonyao/react-native-flex-demo-86c3072e1f05#.3txoo5ntl) | Blog | | |
 
 ### Styling 
 | Title | Type | Resource Rating | Description |
@@ -282,6 +285,7 @@
 ### UI 
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [Component Kits for React Native](https://medium.com/@ste.grider/component-kits-for-react-native-84eff4b321b9#.be0um8ly4) | Blog | | |
 | [react-native-elements](https://github.com/react-native-community/react-native-elements) | Github | | Cross Platform React Native UI Toolkit |
 | [raect-native-display](https://github.com/sundayhd/react-native-display) | Github | | This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations |
 | [Nachos UI is a React Native component library](https://github.com/avocode/nachos-ui)| | | |
@@ -305,6 +309,8 @@
 | [Native Animation Example](https://github.com/facebook/react-native/blob/65659293589848bf48ecefe1f89afb4b562c7022/Examples/UIExplorer/js/NativeAnimationsExample.js) | Github | | A example of using the new native animations|
 | [Practical Animation Examples in React Native](https://code.tutsplus.com/tutorials/practical-animations-in-react-native--cms-27567?utm_content=bufferb9fca&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) , [code](https://github.com/tutsplus/practical-animation-examples-in-react-native/blob/master/src/components/NewsItem.js) | Blog | | Create a news page, a button page, a progress bar, a spinning animation, and an expand animation |
 | [Jason Brown Animation Videos](https://egghead.io/instructors/jason-brown-20a6bf03-254a-428c-9984-dca76cc84f32) | Egghead | | |
+| [Implementing a 3D Cube in React Native](https://medium.com/@youngchanje/implementing-cube-in-react-native-cb61b9a7e8c3#.f9cn65s21) | Blog | | |
+| [React Native collapsible navbar](https://medium.com/appandflow/react-native-collapsible-navbar-e51a049b560a#.ndb8lbvww) | Blog | | |
 
 ### Layout Animation
 | Title | Type | Resource Rating | Description |
@@ -326,6 +332,7 @@
 | [Animations in React Native](https://www.youtube.com/watch?v=PxQ43VVDPmg) | Video | | Gives understanding of differences between using the layout animation and the animated API. Also React Motion |
 | [Spencer Ahrens - React Native: Building Fluid User Experiences at react-europe 2015](https://www.youtube.com/watch?v=xDlfrcM6YBk), [slides](https://gist.github.com/sahrens/2e9b6a0caf4a66f7f1d1), [code](https://gist.github.com/sahrens/7609a4e8ffd1bbace51a) | Video + Slides + Code | ★★★★★ | Talk from when the Animated API was first introduced. Talk is about what the animated API can do, shown with a demo |
 | [The amazing animated API](https://blog.callstack.io/react-native-animations-revisited-part-ii-8314a97162b0#.l0lylfn4d) | Blog | | |
+| [Using Native Driver for Animated](https://facebook.github.io/react-native/blog/2017/02/14/using-native-driver-for-animated.html) | React Native Blog | | |
 
 ### Other Animations
 | Title | Type | Resource Rating | Description |
@@ -395,11 +402,26 @@
 | [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) | Github | | |
 | [React Native FoldView](https://github.com/jmurzy/react-native-foldview) | Github | | |
 | [Sortable ListView](https://github.com/deanmcpherson/react-native-sortable-listview) | Github | | |
-| [Airbnb Map View](https://github.com/airbnb/react-native-maps) | Github | ★★★★★ | Airbnb's mapview - will be merged into RN master for version 0.40 |
 | [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) | Github | | SGListView is a memory minded implementation of React Native's ListView |
 | [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list) | Github | | |
 | [react-native-utils](https://github.com/ksti/react-native-utils#readme) | Github | | | 
 | [react-native-app-link](https://github.com/datwheat/react-native-app-link) | Github | | Easily link to other apps with React Native. |
+
+### Map Views
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Airbnb Map View](https://github.com/airbnb/react-native-maps) | Github | ★★★★★ | Airbnb's mapview - will be merged into RN master for version 0.40 |
+| [Client Side marker clustering with React Native](https://medium.com/@berkaybeyaz/client-side-marker-clustering-with-react-native-9ef977d30065#.bw724m7sh)| | | |
+
+### List Views 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [React Native’s experimental new FlatList component](https://medium.com/cooperka/react-native-new-flatlist-component-30db558c7a5b#.jikayrpw5) | Blog | | |
+
+### Payments 
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [Credit Cards with Stripe and React Native](https://medium.com/code-well-live-forever/credit-cards-with-stripe-and-react-native-1bfe9afcbb42#.e8ojhqbhp) | | | |
 
 ### App Structure
 | Title | Type | Resource Rating | Description |
@@ -453,6 +475,7 @@
 | [carte-blanche](https://github.com/carteb/carte-blanche) | Github | | An isolated development space with integrated fuzz testing for your components. See them individually, explore them in different states and quickly and confidently develop them. [youtube video](https://www.youtube.com/watch?v=6g3-TQ6aaw8) |
 | [A fully mocked and test-friendly version of React Native](https://github.com/RealOrangeOne/react-native-mock) | Github | | |
 | [React Native Functional Testing using Appium](http://moduscreate.com/react-native-functional-testing-using-appium/) | Blog | | |
+| [Graybox E2E tests and automation library for mobile](https://github.com/wix/detox) | Github | | Wix's Detox library |
 
 ### Debugging
 | Title | Type | Resource Rating | Description |
@@ -484,6 +507,7 @@
 | [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) | Youtube | | |
 | [React-Knosul](https://github.com/mohebifar/konsul) | Github | | Render React components to Chrome in console.log() |
 | [Release The Pain from Running and Debugging React Native App on a real iOS Device](https://medium.com/@avishayil/release-the-pain-from-running-and-debugging-react-native-app-on-a-real-ios-device-7a2e6048609e#.716mj9duv) | Blog | | |
+| [Show network requests such as fetch, WebSocket etc. in chrome dev tools](https://github.com/facebook/react-native/issues/934) | | | |
 
 ### Versioning and Upgrading
 | Title | Resource Rating | Type | Description |
@@ -494,6 +518,7 @@
 | [rn-diff](https://github.com/ncuillery/rn-diff) | Github | | Easier React Native upgrades by clearly expose changes from a version to another|
 | [How to upgrade React-Native Modules in a backwards compatible manner](https://medium.com/@thisismissem/how-to-upgrade-react-native-modules-in-a-backwards-compatible-manner-a5b5c48d590c#.htlsnyjnp) | Blog | | |
 | [React Native 0.40 Upgrading iOS Native Modules](http://blog.tylerbuchea.com/react-native-0-40-upgrading-ios-native-modules/) | Blog | | |
+| [React Native git upgrade video](https://www.youtube.com/watch?v=QLT8K-iD12s&feature=youtu.be&t=34m5s&app=desktop) | Youtube | | |
 
 ### Configuration
 | Title | Resource Rating | Type | Description |
@@ -521,6 +546,9 @@
 | [React Internals](https://zackargyle.github.io/react-internals-slides/#/0?_k=thic0m) | Slides | | Even though this is pretty much only about react, it is too good of a presentation to ignore. Goes into the concepts behind state, reconciliation, syntheticevent, and react fiber  |
 | [Optimizing React Native: Dynamic Gif Scrolling](https://medium.com/@tommylackemann/optimizing-react-native-dynamic-gif-scrolling-81fc5d132d4d#.uicyfycls) | Blog | | |
 | [React Performance](http://presentations.survivejs.com/react-performance) | Slides | | |
+| [Tempted to abandom React Native for Native Android](https://news.ycombinator.com/item?id=13568381) | Discussion | | |
+| [I made React Native fast, you can too](https://launchdrawer.com/i-made-react-native-fast-you-can-too-9e61c951ce0#.y44p8lwdd) | Blog | | Discuesses overdraw problems on Android and how you can track them down and eliminate them with GPU Prfiling tools in Android Studio  |
+
 
 ### Async and Middleware
 | Title | Type | Resource Rating | Description |
@@ -634,6 +662,7 @@
 | [React Core Notes](https://github.com/reactjs/core-notes/blob/master/2016-12/december-08.md) | | | |
 | [React FAQ](https://github.com/timarney/react-faq) | Github | | |
 | [ReactJS in Patterns](https://github.com/krasimir/react-in-patterns) | Github | | |
+| [Converting a React App to React Native](https://medium.com/@gwen_faraday/converting-a-react-app-to-react-native-d7df17968fc6#.7hkqrt9f6)| | | |
 
 ### React Fiber 
 | Title | Type | Resource Rating | Description |
@@ -657,6 +686,7 @@
 | [To persist or not to persist](https://blog.brainsandbeards.com/to-persist-or-not-to-persist-ec156cb9cfad#.e1a8lovte) | Blog | | Storing (and cleaning!) navigation state with Redux and React Native |
 | [A guide to React Native with Redux and Immutable.js](https://medium.com/the-react-native-log/a-guide-to-react-native-with-redux-and-immutable-js-65a2b795cb6f#.qvfzau21e) | Blog | | |
 | [Easy forms in React Native with Redux-Form](https://medium.com/wolox-driving-innovation/https-medium-com-wolox-driving-innovation-easy-forms-in-react-native-with-redux-form-1cdc16a9a889#.9v8k11d3b) | Blog | | |
+| [Redux 4 Ways](https://medium.com/react-native-training/redux-4-ways-95a130da0cdc#.uczeum1sc) | | | Implementations of Thunk vs Saga vs Observable vs Redux Promise Middleware in 10 minutes. |
 
 ### MobX
 | Title | Type | Resource Rating | Description |
@@ -664,6 +694,7 @@
 | [React Native MobX Project]() | | | Make your app reactive with MobX and react-native-router-flux |
 | [React Native with MobX — Getting Started](https://medium.com/@dabit3/react-native-with-mobx-getting-started-ba7e18d8ff44#.h41ms9ob7), [code](https://github.com/dabit3/react-native-mobx-list-app) | | | |
 | [A React-Native app to remote control Google Play Music Desktop](https://github.com/GPMDP/google-play-music-desktop-remote)  | | | |
+| [Build an Imgur App with React Native and MobX](http://school.shoutem.com/lectures/build-simple-imgur-client-react-native) | | | |
 
 ### GraphQL
 | Title | Type | Resource Rating | Description |
@@ -681,6 +712,7 @@
 | [react-native-feed](https://github.com/haikyuu/react-native-feed)| | | News feed built with react-native, apollo-client and graphql & powered by postgraphql |
 | [Apollo on React Native Radio](https://dev-blog.apollodata.com/apollo-on-react-native-radio-4b0f0df53321#.jwe4pps9o) | Blog | | The top 5 questions and answers |
 | [React Native with Apollo— Part 1, Apollo Server](https://medium.com/react-native-training/react-native-with-apollo-server-and-client-part-1-efb7d15d2361#.agflrfmve) | Blog | | | 
+| [Tales of a React Native Beginner: Why GraphQL🏆 Is The Real MVP](https://blog.hellojs.org/tales-of-a-react-native-beginner-why-graphql-is-the-real-mvp-9169b60b6f92#.b5juuqdmi) | | | |
 
 ### Relay 
 | Title | Type | Resource Rating | Description |
@@ -713,10 +745,12 @@
 | [TypeScript 2.2 plays nice with React Native JavaScript](http://www.infoworld.com/article/3166364/javascript/typescript-22-plays-nice-with-react-native-javascript.html) | Blog / News post | | |
 | [React Native and TypeScript: Developing Cross-Platform Apps](https://dzone.com/articles/react-native-and-typescript-developing-cross-platf) | Blog | | |
 | [Announcing TypeScript 2.2 RC](https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/#) | News | | |
+| [react-native-45-typescript-example](https://github.com/orta/react-native-45-typescript-example) | Github | | |
 
-### Exponent
+### Expo
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [Exponent -> Expo](https://blog.expo.io/exponent-expo-b172fb6725a7#.cvlnkk6j1) | Blog | | |
 | [Exponent Repository](https://github.com/exponentjs/exponent) | Github | | |
 | [Awesome Exponent](https://github.com/exponentjs/awesome-exponent) | Github | | |
 | [Curated list of awesome react native components on exponent](https://github.com/sonnylazuardi/awponent) | | | |
@@ -745,6 +779,7 @@
 | [react-native-motion-manager](https://github.com/pwmckenna/react-native-motion-manager) | Github | | CMMotionManager wrapper for react-native, exposing Accelerometer, Gyroscope, and Magnetometer. |
 | [Reacting to React Native for native WebRTC apps](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/?utm_content=buffereb1ab&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) | Blog | | |
 | [Using SpriteKit inside a React Native app](https://medium.com/the-react-native-log/using-spritekit-inside-a-react-native-app-abf49cb29e58#.gshtrdckd) | Blog | | |
+| [Sharing content with React Native](https://medium.com/bam-tech/sharing-content-with-react-native-e92c591c7c38#.i1rpf8bun) | Blog | | Using your native device's sharing API |
 
 ### Webviews
 | Title | Type | Resource Rating | Description |
