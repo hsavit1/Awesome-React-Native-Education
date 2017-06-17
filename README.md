@@ -31,6 +31,7 @@
 - [App Structure](#app-structure)
 - [App Launch](#app-launch)
 - [Offline](#offline)
+- [Testing with Jest](#testing-with-jest)
 - [Testing](#testing)
 - [Debugging](#debugging)
 - [Crash Reporting](#crash-reporting)
@@ -449,9 +450,12 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [Handling Offline Actions in React Native](https://medium.com/differential/handling-offline-actions-in-react-native-74949cbfabf2#.8qvj22t1s) | Blog | | |
 
-### Testing
+### Testing with Jest
 | Title | Type | Resource Rating | Description |
 | :------------ |:---------------:| :---------------:| :-----|
+| [Learning to test React Native with Jest — part 1](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-1-f782c4e30101) | | | |
+| [Learning to test React Native with Jest — part 2](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-2-825057dd549d) | | | |
+| [Learning to test React Native with Jest — part 3](https://medium.com/react-native-training/learning-to-test-react-native-with-jest-part-3-c4161a813af6) | | | |
 | [Unit testing React Native with the *new* Jest (I) — Snapshots come into play!](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe#.f8xoocdjy) [code](https://github.com/ferrannp/react-native-testing-example) | Blog | | |
 | [Unit testing React Native with the *new* Jest (II) — Redux: Snapshots for your actions and reducers](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.ka8zkm3wy) | Blog | | |
 | [Using Jest Everywhere](https://jest-everywhere.now.sh/#/0?_k=k0sl57) | Slides | | |
@@ -462,6 +466,10 @@
 | [Unit Testing React Native Components: A Firsthand Guide](https://medium.com/@jcfrancisco/unit-testing-react-native-components-a-firsthand-guide-cea561df242b#.64258uj88) | Blog | | | 
 | [React Testing Practices](https://medium.com/in-the-hudl/hot-react-testing-practices-1eb10bd61135#.r4jj2rrpy) | Blog | | A look into Jest, Enzyme, Mocha, Chai |
 | [Testng React Applications with Jest](https://auth0.com/blog/testing-react-applications-with-jest) | Blog | | |
+
+### Testing
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
 | [Using Enzyme to Test Components in React Native](https://github.com/airbnb/enzyme/blob/master/docs/guides/react-native.md) | | | |
 | [Testing React Native with Mocha and Enzyme](https://blog.addjam.com/testing-react-native-with-mocha-and-enzyme-6b77cd9e52a1#.s39leomg6) | | | |
 | [Unit Testing React Native With Mocha And Enzyme](https://formidable.com/blog/2016/02/08/unit-testing-react-native-with-mocha-and-enzyme/) | | | |
@@ -572,6 +580,7 @@
 | :------------ |:---------------:| :---------------:| :-----|
 | [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) | Github | | A project committed to make file acess and data transfer easier, efficient for React Native developers. |
 | [Image Caching in React Native](https://hackernoon.com/image-caching-in-react-native-96d8df33ca84#.7uxcu9ghi) | Blog | | Caching images with react native fetch blob |
+| [Working with Local Data](https://medium.com/react-native-training/react-native-working-with-local-data-cdb37edf0739) | Medium | | |
 
 ### Dependencies and Frameworks
 | Title | Type | Resource Rating | Description |
@@ -746,6 +755,7 @@
 | [React Native and TypeScript: Developing Cross-Platform Apps](https://dzone.com/articles/react-native-and-typescript-developing-cross-platf) | Blog | | |
 | [Announcing TypeScript 2.2 RC](https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/#) | News | | |
 | [react-native-45-typescript-example](https://github.com/orta/react-native-45-typescript-example) | Github | | |
+| [React Native Typescript Transformer](https://github.com/ds300/react-native-typescript-transformer) | Github | | |
 
 ### Expo
 | Title | Type | Resource Rating | Description |
