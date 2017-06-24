@@ -31,8 +31,8 @@
 - [App Structure](#app-structure)
 - [App Launch](#app-launch)
 - [Offline](#offline)
-- [Testing with Jest](#testing-with-jest)
 - [Testing](#testing)
+    - [Testing with Jest](#testing-with-jest)
 - [Debugging](#debugging)
 - [Crash Reporting](#crash-reporting)
 - [Chrome Dev Tools](#chrome-dev-tools)
@@ -62,6 +62,8 @@
 - [Flow](#flow)
 - [Expo](#expo)
 - [Typescript](#typescript)
+- [Bucklescript](#bucklescript)
+- [ReasonML](#reasonml)
 - [Authentication](#aauthentication)
 - [Native APIs](#native-apis)
 - [Webviews](#webviews)
@@ -756,6 +758,18 @@
 | [Announcing TypeScript 2.2 RC](https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/#) | News | | |
 | [react-native-45-typescript-example](https://github.com/orta/react-native-45-typescript-example) | Github | | |
 | [React Native Typescript Transformer](https://github.com/ds300/react-native-typescript-transformer) | Github | | |
+
+### Bucklescript
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [BuckleScript bindings for React Native](https://github.com/BuckleTypes/bs-react-native) | Github | | | 
+
+### ReasonML
+| Title | Type | Resource Rating | Description |
+| :------------ |:---------------:| :---------------:| :-----|
+| [ReasonML Docs](https://facebook.github.io/reason/) | | | |
+| [What does Reason and React Native look like?](https://github.com/facebook/reason/issues/658) | Github | | |
+| [A First Reason React app for Javascript developers](https://jamesfriend.com.au/a-first-reason-react-app-for-js-developers) | Blog | | |
 
 ### Expo
 | Title | Type | Resource Rating | Description |
