@@ -957,7 +957,7 @@
 | [Prototyping a Chat App with React Native and Phoenix](https://shift.infinite.red/prototyping-a-chat-app-with-react-native-and-phoenix-5e65677a8217#.7yeh0cc6c) | | | |
 | [React Native - Recreating the Apple TV Icons](http://browniefed.com/blog/react-native-recreating-the-apple-tv-icons/) | Blog | | Post about how to make a tricky 3D animation in React Native |
 | [How I built React Native Tab View](https://medium.com/@satya164/how-i-built-react-native-tab-view-7adfb2570af6#.co3h4t1bd) | Blog | | Post about a common UI pattern |
-| Creating a hacker news reader [part1](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993), [part2](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935) | | | |
+| Creating a hacker news reader [part1](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-setup-and-news-item-component--cms-25935), [part2](https://code.tutsplus.com/tutorials/how-to-create-a-news-reader-with-react-native-web-page-component--cms-25993) | | | |
 | [30 days of React Native](https://github.com/fangwei716/30-days-of-react-native) | Github | ★★★★★ | Project shows how to build various common designs in React Native|
 | [Building a Facebook Paper-like UI with React Native](https://medium.com/the-react-native-log/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.u72xv9rf5) | Blog | ★ | |
 | [Building feedback UI](https://medium.com/@yousefkama/react-native-ui-challenge-1-42db390905c#.ehw57qjjr) | Blog | | |
