@@ -971,9 +971,8 @@
 | [Building an iOS Geolocation Travel App with React Native](https://www.codementor.io/ios/tutorial/build-ios-geolocation-app-react-native) | | | |
 | [Building the F8 2016 App](http://makeitopen.com/) | Blog | | |
 | [React Native Workshop](https://rangle-io.gitbooks.io/react-native-workshop/content/) | Gitbook | ★★★★★ | Short online book walkthrough of react native |
-| [React Native Tutorial Series](https://www.kobkrit.com/category/programming/react-native/) | Slides | | Covers a very wide range of topics, including Realm |
 | [Implement Snapchat like swipe navigation declaratively in React Native](https://medium.com/the-react-native-log/implement-snapchat-like-swipe-navigation-declaratively-in-react-native-309e71229c89#.p8r5f9ynt) | Blog | | |
-| [From Stranger Things to React Native](https://medium.com/@introvertuouso/from-stranger-things-to-react-native-f2434b3773a7#.rewrul30g) | Blog | | Blog post about making the Stranger Things title in RN |
+
 | [React Native Cube Transition](https://github.com/tlackemann/react-native-cube-transition) | Github + Blog | | React Native module for iOS that rotates components on a cube, similar to Instagram Stories. |
 | [Build A Clock in React Native — Part 1](https://blog.binoy.io/build-a-clock-in-react-native-part-1-5911635baa1#.fnc5xrfqx) [Build A Clock in React Native — Part 2](https://blog.binoy.io/build-a-clock-in-react-native-part-2-938ccb3eae5d#.zekfdpvs6) [Youtube](https://www.youtube.com/watch?v=XaJb4pP5phk&feature=youtu.be) | Blog | | |
 | [Snowfall effect in React Native](https://medium.com/@Cuong.Le/snowfall-effect-in-react-native-d4c722434814#.gshzgj154) | Blog | | |
