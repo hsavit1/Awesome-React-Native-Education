@@ -992,7 +992,6 @@
 | [React Native Beginner](https://www.youtube.com/playlist?list=PL7D-0n1z1EbgAoLu1n5wjcMLDDAQqXOMw) | | | |
 | [Daily Drip](https://www.dailydrip.com/topics/react-native/) | Video Classes | | |
 | [React Native TODO App](https://egghead.io/lessons/react-setup-react-native-for-ios-and-android) | Egghead | | With Jason Brown |
-| [Build Apps With React Native Tutorial](https://www.youtube.com/playlist?list=PLiV1ABgfs8JJEqd6LGULJ3k3sdDAUVUiw) | | | 34 free Youtube Videos |
 
 ### Sample Apps
 | Title | Type | Resource Rating | Description |
