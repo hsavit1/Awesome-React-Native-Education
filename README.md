@@ -1,5 +1,7 @@
 # You **will** learn React Native.
 
+If you write React Native tutorials, please add them here!
+
 ## Index 
 - [Official Documentation](#official-documentation)
 - [Community](#community)
@@ -201,6 +203,7 @@
 | [React Native — Which Navigator should I use?](https://medium.com/@dabit3/react-native-what-navigator-should-i-use-2ff59ec2b2d#.szcpi1gry) | | | |
 | [React Native Navigator — Navigating Like A Pro in React Native](https://medium.com/@dabit3/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.8e4ouui5y) | | | |
 | [Eric Vicenti - Native Navigation for Every Platform at ReactEurope 2016](https://www.youtube.com/watch?v=dOSwHABLvdM) | Youtube | | Facebook dev talks about Navigation in the Facebook apps. Also talks about the future of NavigationExperimental |
+| [Build your own javascript navigator for react native](https://www.fullstackreact.com/articles/build-your-own-javascript-navigator-for-react-native/)| Blog |||
 
 ### React Navigation
 | Title | Type | Resource Rating | Description |
