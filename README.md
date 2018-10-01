@@ -1027,6 +1027,7 @@ If you write React Native tutorials, please add them here!
 | [React Native in Action](https://www.manning.com/books/react-native-in-action?a_aid=reactnativecom&a_bid=6887c8c9) | MEAP | | |
 | [React Native Animation Book](http://browniefed.com/react-native-animation-book/) | Gitbook | ★★★★★ | The best resource for learning animations in react native|
 | [React Native Cookbook](https://www.packtpub.com/application-development/react-native-cookbook) | | | | 
+| [Fullstack React Native](https://www.fullstackreact.com/react-native/) | | | The up-to-date, in-depth, complete guide to React Native| 
 
 ### Weex
 | Title | Type | Resource Rating | Description |
