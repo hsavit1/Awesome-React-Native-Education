@@ -116,7 +116,8 @@ If you write React Native tutorials, please add them here!
 | [Discord](https://discordapp.com/invite/0ZcbPKXt5bZjGY5n) | | | |
 | [React Native Wiki](https://github.com/facebook/react-native/wiki/Roadmap) | | | Has a roadmap section to show the future of react native development |
 | [Use React Native Website](http://www.reactnative.com/) | Website | | Website works similarly to this project |
-| [Reactiflux](https://www.reactiflux.com/)| Website| | |
+| [Reactiflux](https://www.reactiflux.com/)| Website| | |e
+| [React Native Gallery](https://reactnative.gallery/)| Website| | |
 
 ### Cheat Sheets
 | Title | Type | Resource Rating | Description |
